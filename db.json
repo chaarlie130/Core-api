@@ -1,52 +1,100 @@
 {
-    "hunterxhunter": [
+    "Anime": [
       {
         "id": 0,
-        "name": "Tribute Burger",
-        "restaurant": "Honest Burgers",
-        "web": "www.honestburgers.co.uk",
-        "description": "A mouth-watering honest beef burger",
-        "ingredients": [
-          "beef",
-          "american cheese",
-          "burger sauce",
-          "french mustard",
-          "pickes",
-          "onion",
-          "lettuce"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "75",
-            "line1": "Venn Street",
-            "line2": "Clapham",
-            "postcode": "SW4 0BD",
-            "country": "United Kingdom"
-          }
+        "title": "hunter x hunter (2011)",
+        "EpisodeCount": 148,
+        "Release": 2011,
+        "description": "A Young boy named gon goes on an adventure to find his father.",
+        "horizontal_img" :"https://www.animelab.com/blog/wp-content/uploads/2020/07/HunterxHunter-header.jpg",
+        "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg",
+        "MainCast": [
+          "Gon Freecs",
+          "Killua Zoldyck",
+          "Kurapika Kurta",
+          "Leorio Paradinight",
+          "Hisoka Morow",
+          "Isaac Netero",
+          "Meurem"
+        ]
+      },
+    {
+        "id": 1,
+        "title": "Death Note",
+        "EpisodeCount": 37,
+        "Release": 2006,
+        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+        "vertical_img":"https://static.wikia.nocookie.net/deathnote/images/7/76/DEATH_NOTE_anime.jpg/revision/latest?cb=20170720215429",
+        "MainCast": [
+          "Light Yagami",
+          "L",
+          "Ryuk",
+          "Misa Amane",
+          "Rem",
+          "Near"
         ]
       },
       {
-        "id": 1,
-        "name": "Pulled Mooshie",
-        "restaurant": "Mooshies",
-        "web": "www.veganburger.org",
-        "description": "Spicy vegan burger with jackfruit",
-        "ingredients": [
-          "jackfruit",
-          "coleslaw",
-          "gluten free bun"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "104",
-            "line1": "Brick Lane",
-            "line2": "Shoreditch",
-            "postcode": "E1 6RL",
-            "country": "United Kingdom"
-          }
+        "id": 2,
+        "title": "One Punch Man",
+        "EpisodeCount": 24,
+        "Release": 2015,
+        "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
+        "horizontal_img" :"https://media.comicbook.com/2019/06/one-punch-man-road-to-hero-1175602.jpeg?auto=webp&width=1200&height=627&crop=1200:627,smart",
+        "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg",
+        "MainCast": [
+          "Saitama",
+          "Genos",
+          "Silver Fang",
+          "Fubuki"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "One Piece",
+        "EpisodeCount": 931,
+        "Release": 1999,
+        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOwFZdwHW0u9h5gvl99G1NZ43i_wJWeSOY6vOPb2Q6VWbA6g1k",
+        "MainCast": [
+          "Luffy",
+          "Zoro",
+          "Nami",
+          "Sanji"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Naruto",
+        "EpisodeCount": 220,
+        "Release": 2007,
+        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+        "MainCast": [
+          "Naruto",
+          "Sasuke",
+          "Sakura",
+          "Kakashi"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Attack on Titan",
+        "EpisodeCount": 75,
+        "Release": 2013,
+        "description": " Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+        "MainCast": [
+          "Eren",
+          "Mikasa",
+          "Levi",
+          "Armin"
         ]
       }
+
     ]
-  }
+}
