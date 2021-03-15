@@ -128,6 +128,20 @@
           "Touka",
           "Juuzou"
         ]
+      },
+      {
+        "id": 8,
+        "title": "The Promised Neverland",
+        "EpisodeCount": 23,
+        "Release": 2019,
+        "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
+        "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
+        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg",
+        "MainCast": [
+          "Emma",
+          "Ray",
+          "Norman"
+        ]
       }
 
     ]
