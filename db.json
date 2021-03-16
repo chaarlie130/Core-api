@@ -142,6 +142,34 @@
           "Ray",
           "Norman"
         ]
+      },
+      {
+        "id": 9,
+        "title": "Monster",
+        "EpisodeCount": 74,
+        "Release": 2004,
+        "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
+        "horizontal_img" :"https://lh3.googleusercontent.com/proxy/D4_-QNDXBVWUPmpa7LB-c9ER-OomoZKX-plNcNh2utsfb2XdJ10IDuoR2pWfVfo3TOoMAVRWga-dPlf7F9IpLqndefBKrPrvUxt8vQ",
+        "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg",
+        "MainCast": [
+          "Kenzo",
+          "Johan",
+          "Anna"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "The Disastrous Life of Saiki K",
+        "EpisodeCount": 120,
+        "Release": 2016,
+        "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
+        "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1",
+        "MainCast": [
+          "Saiki",
+          "Kaidou",
+          "Nendou"
+        ]
       }
 
     ]
