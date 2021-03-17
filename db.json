@@ -283,6 +283,98 @@
           "Shoyo",
           "Kei"
         ]
+      },
+      {
+        "id": 7,
+        "title": "Death Note",
+        "EpisodeCount": 37,
+        "Release": 2006,
+        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+        "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg",
+        "MainCast": [
+          "Light Yagami",
+          "L",
+          "Ryuk",
+          "Misa Amane",
+          "Rem",
+          "Near"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Death Note",
+        "EpisodeCount": 37,
+        "Release": 2006,
+        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+        "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg",
+        "MainCast": [
+          "Light Yagami",
+          "L",
+          "Ryuk",
+          "Misa Amane",
+          "Rem",
+          "Near"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Tokyo Goul",
+        "EpisodeCount": 48,
+        "Release": 2014,
+        "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
+        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg",
+        "MainCast": [
+          "Kaneki",
+          "Shuu",
+          "Touka",
+          "Juuzou"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Fullmetal Alchemist Brotherhood ",
+        "EpisodeCount": 64,
+        "Release": 2009,
+        "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_",
+        "MainCast": [
+          "Edward",
+          "Roy Mustang",
+          "Alphonse",
+          "Winry"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Steins Gate",
+        "EpisodeCount": 24,
+        "Release": 2009,
+        "description": "Steins; Gate is a story about time travel and the consequences of it's misuse. The protagonist is a man named Okabe Rintarou; a self-proclaimed 'mad scientist' who goes by the name of Hououin Kyouma.",
+        "horizontal_img" :"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTT67rYLbSnBxaVl3AiPhBbxfeNtGrCDeDbqNLKUQspIbGyatDOVGjbramCbXyWC29lr2mFcNW2qyzTeqhT-H3ccmaeD.jpg?r=01b",
+        "vertical_img":"https://3.bp.blogspot.com/-l508OwhRMMU/Woh10Sh93GI/AAAAAAAAEpA/AqcjTYoLbsYCixgyKOtovFHed1Z0Gui5gCLcBGAs/s1600/Steins%253BGate%2BPoster.jpg",
+        "MainCast": [
+          "Kurisu",
+          "Rintarou",
+          "Mayuri"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Code Geass",
+        "EpisodeCount": 55,
+        "Release": 2006,
+        "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
+        "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w",
+        "MainCast": [
+          "Lelouch",
+          "02",
+          "Sasuka"
+        ]
       }
     ],
     "Adventure_Anime": [
