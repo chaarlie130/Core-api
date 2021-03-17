@@ -241,6 +241,21 @@
       },
       {
         "id": 4,
+        "title": "Demon Slayer",
+        "EpisodeCount": 26,
+        "Release": 2019,
+        "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png",
+        "MainCast": [
+          "Tanjiro",
+          "Nesuko",
+          "Zenitsu",
+          "Inosuke"
+        ]
+      },
+      {
+        "id": 5,
         "title": "Dragon Ball Z",
         "EpisodeCount": 291,
         "Release": 1989,
