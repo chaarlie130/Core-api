@@ -268,6 +268,21 @@
           "Beoly",
           "Gohan"
         ]
+      },
+      {
+        "id": 6,
+        "title": "Haiku!",
+        "EpisodeCount": 60,
+        "Release": 2015,
+        "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+        "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg",
+        "MainCast": [
+          "Tobio",
+          "Nu",
+          "Shoyo",
+          "Kei"
+        ]
       }
     ],
     "Adventure_Anime": [
