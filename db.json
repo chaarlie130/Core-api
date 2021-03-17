@@ -191,6 +191,68 @@
           "Isaac Netero",
           "Meurem"
         ]
-      }
+      },
+      {
+        "id": 1,
+        "title": "One Piece",
+        "EpisodeCount": 931,
+        "Release": 1999,
+        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOwFZdwHW0u9h5gvl99G1NZ43i_wJWeSOY6vOPb2Q6VWbA6g1k",
+        "MainCast": [
+          "Luffy",
+          "Zoro",
+          "Nami",
+          "Sanji"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Naruto",
+        "EpisodeCount": 220,
+        "Release": 2007,
+        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+        "MainCast": [
+          "Naruto",
+          "Sasuke",
+          "Sakura",
+          "Kakashi"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Attack on Titan",
+        "EpisodeCount": 75,
+        "Release": 2013,
+        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
+        "MainCast": [
+          "Eren",
+          "Mikasa",
+          "Levi",
+          "Erwin",
+          "Armin",
+          "Reiner"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Dragon Ball Z",
+        "EpisodeCount": 291,
+        "Release": 1989,
+        "description": "Dragon Ball Z picks up five years after the end of the Dragon Ball anime, with Goku now a young adult and father to his son, Gohan.",
+        "horizontal_img" :"file:///C:/Users/puddl/OneDrive/Desktop/electron%20project/cool-app/src/images/dragon.png",
+        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FN6NljssFQscbE0HgnJgEbj_kpcDB-FG5Nd1peTacNo9GXok",
+        "MainCast": [
+          "Goku",
+          "Vegeta",
+          "Beoly",
+          "Gohan"
+        ]
+      },
     ]
 }
