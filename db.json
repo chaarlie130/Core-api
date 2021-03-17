@@ -15,7 +15,7 @@
           "Leorio Paradinight",
           "Hisoka Morow",
           "Isaac Netero",
-          "Meurem"
+          "Meruem"
         ]
       },
     {
@@ -371,6 +371,82 @@
           "Naruto",
           "Sasuke",
           "Sakura"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Bleach",
+        "EpisodeCount": 366,
+        "Release": 2004,
+        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
+        "MainCast": [
+          "Ichigo",
+          "Kisuke",
+          "Rukia"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Seven Deadly Sins",
+        "EpisodeCount": 78,
+        "Release": 2014,
+        "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg",
+        "MainCast": [
+          "Meliodis",
+          "Zeldris",
+          "Ban",
+          "Solass"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Fairy Tail ",
+        "EpisodeCount": 328,
+        "Release": 2012,
+        "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+        "vertical_img":"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
+        "MainCast": [
+          "Natsu",
+          "Erza",
+          "Gray",
+          "Lucy"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Black Clover",
+        "EpisodeCount": 170,
+        "Release": 2017,
+        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Asta",
+          "Yuno",
+          "Levi",
+          "Noelle",
+          "Finral",
+          "Vanassa"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Cowboy Bepop",
+        "EpisodeCount": 26,
+        "Release": 1998,
+        "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+        "horizontal_img" :"https://www.denofgeek.com/wp-content/uploads/2019/01/cowboy-bebop-top-10.jpg?resize=768%2C432",
+        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3",
+        "MainCast": [
+          "Spike",
+          "Faye",
+          "Edward",
+          "Vicious"
         ]
       }
     ],
