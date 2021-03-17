@@ -245,13 +245,105 @@
         "EpisodeCount": 291,
         "Release": 1989,
         "description": "Dragon Ball Z picks up five years after the end of the Dragon Ball anime, with Goku now a young adult and father to his son, Gohan.",
-        "horizontal_img" :"file:///C:/Users/puddl/OneDrive/Desktop/electron%20project/cool-app/src/images/dragon.png",
+        "horizontal_img" :"https://res.cloudinary.com/sfp/image/upload/oth/FunimationStoreFront/1327320/Latvian/1327320_Latvian_ShowMasterKeyArt_64ef4571-7178-e711-8175-020165574d09.jpg",
         "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FN6NljssFQscbE0HgnJgEbj_kpcDB-FG5Nd1peTacNo9GXok",
         "MainCast": [
           "Goku",
           "Vegeta",
           "Beoly",
           "Gohan"
+        ]
+      }
+    ],
+    "Adventure_Anime": [
+      {
+        "id": 0,
+        "title": "Fullmetal Alchemist Brotherhood ",
+        "EpisodeCount": 64,
+        "Release": 2009,
+        "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_",
+        "MainCast": [
+          "Edward",
+          "Roy Mustang",
+          "Alphonse",
+          "Winry"
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Fairy Tail ",
+        "EpisodeCount": 328,
+        "Release": 2012,
+        "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+        "vertical_img":"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
+        "MainCast": [
+          "Natsu",
+          "Erza",
+          "Gray",
+          "Lucy"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Cowboy Bepop",
+        "EpisodeCount": 26,
+        "Release": 1998,
+        "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+        "horizontal_img" :"https://www.denofgeek.com/wp-content/uploads/2019/01/cowboy-bebop-top-10.jpg?resize=768%2C432",
+        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3",
+        "MainCast": [
+          "Spike",
+          "Faye",
+          "Edward",
+          "Vicious"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Sword Art Online",
+        "EpisodeCount": 25,
+        "Release": 2012,
+        "description": "The series takes place in the near future and focuses on protagonist Kazuto 'Kirito' Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds.",
+        "horizontal_img" :"https://cdn.slashgear.com/wp-content/uploads/2016/02/Sword-art-online.jpg",
+        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN42eiTyvM1qOr1YCCt12NsPB14lz4r6rKT35QFNHnq_CD5Z0m",
+        "MainCast": [
+          "Kirito",
+          "Asuna",
+          "Alice",
+          "Klien"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Seven Deadly Sins",
+        "EpisodeCount": 78,
+        "Release": 2014,
+        "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg",
+        "MainCast": [
+          "Meliodis",
+          "Zeldris",
+          "Ban",
+          "Solass"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Akame Ga Kill",
+        "EpisodeCount": 24,
+        "Release": 2014,
+        "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
+        "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/b6141bb5-8cd4-47dd-941c-711898814242?base_image_bucket_name=image_manager&base_image=206a0578-223d-491a-b911-14f05cdec6a6&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+        "MainCast": [
+          "Akame",
+          "Esdeth",
+          "Najenda",
+          "Tatsumi"
         ]
       }
     ]
