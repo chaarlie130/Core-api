@@ -358,6 +358,20 @@
           "02",
           "Sasuka"
         ]
+      },
+      {
+        "id": 12,
+        "title": "Naruto Shippuden",
+        "EpisodeCount": 500,
+        "Release": 2007,
+        "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
+        "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
+        "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg",
+        "MainCast": [
+          "Naruto",
+          "Sasuke",
+          "Sakura"
+        ]
       }
     ],
     "Adventure_Anime": [
