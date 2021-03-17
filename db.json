@@ -172,5 +172,25 @@
         ]
       }
 
+    ],
+    "Top_Anime": [
+      {
+        "id": 0,
+        "title": "hunter x hunter (2011)",
+        "EpisodeCount": 148,
+        "Release": 2011,
+        "description": "A Young boy named gon goes on an adventure to find his father.",
+        "horizontal_img" :"https://www.animelab.com/blog/wp-content/uploads/2020/07/HunterxHunter-header.jpg",
+        "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg",
+        "MainCast": [
+          "Gon Freecs",
+          "Killua Zoldyck",
+          "Kurapika Kurta",
+          "Leorio Paradinight",
+          "Hisoka Morow",
+          "Isaac Netero",
+          "Meurem"
+        ]
+      }
     ]
 }
