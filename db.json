@@ -546,13 +546,45 @@
         "title": "Banana Fish",
         "EpisodeCount": 24,
         "Release": 2018,
-        "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
+        "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
         "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/986b4a47b5e1139b1917896accf085de99ace909b84c533f57cc878efc4c460b._UY500_UX667_RI_V_TTW_.jpg",
         "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
         "MainCast": [
           "Ash",
           "Eji",
           "Shorter"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "hunter x hunter (2011)",
+        "EpisodeCount": 148,
+        "Release": 2011,
+        "description": "A Young boy named gon goes on an adventure to find his father.",
+        "horizontal_img" :"https://www.animelab.com/blog/wp-content/uploads/2020/07/HunterxHunter-header.jpg",
+        "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg",
+        "MainCast": [
+          "Gon Freecs",
+          "Killua Zoldyck",
+          "Kurapika Kurta",
+          "Leorio Paradinight",
+          "Hisoka Morow",
+          "Isaac Netero",
+          "Meruem"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Dr. Stone",
+        "EpisodeCount": 24,
+        "Release": 2019,
+        "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
+        "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
+        "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200",
+        "MainCast": [
+          "Seknu",
+          "Taiju",
+          "Chrome"
         ]
       }
     ]
