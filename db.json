@@ -586,6 +586,49 @@
           "Taiju",
           "Chrome"
         ]
+      },
+      {
+        "id": 9,
+        "title": "Jojos Bizzare Adventure",
+        "EpisodeCount": 150,
+        "Release": 2012,
+        "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
+        "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
+        "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+        "MainCast": [
+          "Dio",
+          "Joseph",
+          "Giorno"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Naruto",
+        "EpisodeCount": 220,
+        "Release": 2007,
+        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+        "MainCast": [
+          "Naruto",
+          "Sasuke",
+          "Sakura",
+          "Kakashi"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Bleach",
+        "EpisodeCount": 366,
+        "Release": 2004,
+        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
+        "MainCast": [
+          "Ichigo",
+          "Kisuke",
+          "Rukia"
+        ]
       }
     ]
 }
