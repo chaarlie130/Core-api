@@ -858,6 +858,144 @@
           "Rukia"
         ]
       }
+    ],
+    "Movies_Top": [
+      {
+        "id": 0,
+        "title": "One Punch Man",
+        "EpisodeCount": 24,
+        "Release": 2015,
+        "imdb_id": "tt4508902",
+        "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
+        "horizontal_img" :"https://media.comicbook.com/2019/06/one-punch-man-road-to-hero-1175602.jpeg?auto=webp&width=1200&height=627&crop=1200:627,smart",
+        "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg",
+        "MainCast": [
+          "Saitama",
+          "Genos",
+          "Silver Fang",
+          "Fubuki"
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Code Geass",
+        "EpisodeCount": 55,
+        "Release": 2006,
+        "imdb_id": "tt0994314",
+        "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
+        "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w",
+        "MainCast": [
+          "Lelouch",
+          "02",
+          "Sasuka"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Devilman Crybaby",
+        "EpisodeCount": 10,
+        "Release": 2018,
+        "imdb_id": "tt6660498",
+        "description": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.",
+        "horizontal_img" :"https://blackgirlnerds.com/wp-content/uploads/2018/02/Devilman-Crybaby-Title-image.png",
+        "vertical_img":"https://assets1.ignimgs.com/2017/08/03/devilman-crybaby-tv-2-1501799414205.jpg",
+        "MainCast": [
+          "Akira",
+          "Ryo"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Black Butler",
+        "EpisodeCount": 37,
+        "Release": 2008,
+        "imdb_id": "tt1316554",
+        "description": "A young boy sells his soul to a demon in order to avenge his family's death and successfully lead their influential toy manufacturing company.",
+        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/f1f053e2-ed2e-437c-94c6-c4e557e79bbc?base_image_bucket_name=image_manager&base_image=a4561687-5070-49b7-8f7f-ce51ee97c26c&size=1200x630&format=jpeg",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-yLijvyiac8fyhQNHa2Dg142K-7CUDJa-CeGA0aom57eRbtQ7",
+        "MainCast": [
+          "Ciel",
+          "Ash"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Parastye: The Maxim",
+        "EpisodeCount": 24,
+        "Release": 2014,
+        "imdb_id": "tt3358020",
+        "description": "17-year-old Shinichi Izumi is partially infected by a Parasyte; monsters that butcher and consume humans.",
+        "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbbYWSRBB9MFAHs1LTze6-PqcR2kwFKj4K8yprJt92cuhELnNP_yVuXnrDPi8FM6KhxZEYnSyob9pH4CVWAhamEiC6Y.webp?r=c47",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71mhz6bfM9L._SL1280_.jpg",
+        "MainCast": [
+          "Miji",
+          "Shinichi",
+          "Satomi"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Dr. Stone",
+        "EpisodeCount": 24,
+        "Release": 2019,
+        "imdb_id": "tt9679542",
+        "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
+        "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
+        "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200",
+        "MainCast": [
+          "Seknu",
+          "Taiju",
+          "Chrome"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Seven Deadly Sins",
+        "EpisodeCount": 78,
+        "Release": 2014,
+        "imdb_id": "tt3909224",
+        "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg",
+        "MainCast": [
+          "Meliodis",
+          "Zeldris",
+          "Ban",
+          "Solass"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Fairy Tail ",
+        "EpisodeCount": 328,
+        "Release": 2012,
+        "imdb_id": "tt1528406",
+        "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+        "vertical_img":"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
+        "MainCast": [
+          "Natsu",
+          "Erza",
+          "Gray",
+          "Lucy"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Bleach",
+        "EpisodeCount": 366,
+        "Release": 2004,
+        "imdb_id": "tt0434665",
+        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
+        "MainCast": [
+          "Ichigo",
+          "Kisuke",
+          "Rukia"
+        ]
+      }
     ]
     
 }
