@@ -932,19 +932,18 @@
       {
         "id": 4,
         "title": "Erased",
-        "EpisodeCount": 75,
-        "Release": 2013,
-        "imdb_id": "tt2560140",
-        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
-        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
-        "vertical_img":"https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVm8ms1b-xm2OXzGzxpw3seU6zeD6-1ashhGnF3Xk59nwu8gofdczQMP1ARQW0VKtyDHmQGuzWcmsFXd9sYuBN-7f4TJ.jpg",
+        "EpisodeCount": 13,
+        "Release": 2016,
+        "imdb_id": "tt5249462",
+        "description": "29-year-old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings while he was in 5th grade.",
+        "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXpiIvgu-rrEswgEAAAZY/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
         "MainCast": [
-          "Eren",
-          "Mikasa",
-          "Levi",
-          "Erwin",
-          "Armin",
-          "Reiner"
+          "Satory",
+          "Kayo",
+          "Gaku",
+          "Sachiko",
+          "Armin"
         ]
       },
       {
@@ -984,19 +983,16 @@
       {
         "id": 7,
         "title": "Violet Evergarden",
-        "EpisodeCount": 170,
-        "Release": 2017,
-        "imdb_id": "tt7441658",
-        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
-        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BZmUzMThjOTItZGY4ZS00ODcwLTliNTMtYjVkM2JmY2QxNmRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
+        "EpisodeCount": 14,
+        "Release": 2018,
+        "imdb_id": "tt7078180",
+        "description": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people.",
+        "horizontal_img" :"https://gadgetfreeks.com/wp-content/uploads/2020/06/Violet-Evergarden-Season-2.jpg",
+        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH72bGY6j748YjkYjQmoZ1Gs8gDZOiCU96owFwNYFfabTxGTe0",
         "MainCast": [
-          "Asta",
-          "Yuno",
-          "Levi",
-          "Noelle",
-          "Finral",
-          "Vanassa"
+          "Gilbert",
+          "Benedict",
+          "Claudia"
         ]
       },
       {
