@@ -1146,7 +1146,114 @@
           "Kisuke",
           "Rukia"
         ]
-      }
+      },
+      {
+        "id": 18,
+        "title": "Naruto Shippuden",
+        "EpisodeCount": 500,
+        "Release": 2007,
+        "imdb_id": "tt0988824",
+        "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
+        "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
+        "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg",
+        "MainCast": [
+          "Naruto",
+          "Sasuke",
+          "Sakura"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Clannad",
+        "EpisodeCount": 24,
+        "Release": 2007,
+        "imdb_id": "tt1118804",
+        "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
+        "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
+        "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy",
+        "MainCast": [
+          "Nagisa",
+          "Tomoyo",
+          "Kyou"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Haiku!",
+        "EpisodeCount": 60,
+        "Release": 2015,
+        "imdb_id": "tt3398540",
+        "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+        "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg",
+        "MainCast": [
+          "Tobio",
+          "Nu",
+          "Shoyo",
+          "Kei"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Mob Physco 100",
+        "EpisodeCount": 37,
+        "Release": 2016,
+        "imdb_id": "tt5897304",
+        "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1555438/Latvian/1555438_Latvian_ShowMasterKeyArt_76757223-1a15-e911-8175-020165574d09.jpg",
+        "vertical_img":"https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356",
+        "MainCast": [
+          "Mob",
+          "Teruki",
+          "Reigen"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Cowboy Bepop",
+        "EpisodeCount": 26,
+        "Release": 1998,
+        "imdb_id": "tt0213338",
+        "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+        "horizontal_img" :"https://www.denofgeek.com/wp-content/uploads/2019/01/cowboy-bebop-top-10.jpg?resize=768%2C432",
+        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3",
+        "MainCast": [
+          "Spike",
+          "Faye",
+          "Edward",
+          "Vicious"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Monster",
+        "EpisodeCount": 74,
+        "Release": 2004,
+        "imdb_id": "tt0434706",
+        "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
+        "horizontal_img" :"https://i.redd.it/k1u1qqhte3b11.png",
+        "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg",
+        "MainCast": [
+          "Kenzo",
+          "Johan",
+          "Anna"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Fate/Zero",
+        "EpisodeCount": 25,
+        "Release": 2011,
+        "imdb_id": "tt2051178",
+        "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg",
+        "MainCast": [
+          "Kiritsugu",
+          "Kirei",
+        ]
+      },
+
     ]
     
 }
