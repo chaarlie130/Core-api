@@ -1252,6 +1252,38 @@
           "Kiritsugu",
           "Kirei"
         ]
+      },
+      {
+        "id": 25,
+        "title": "Gintama",
+        "EpisodeCount": 367,
+        "Release": 2006,
+        "imdb_id": "tt0988818",
+        "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
+        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj",
+        "MainCast": [
+          "Edward",
+          "Roy Mustang",
+          "Alphonse",
+          "Winry"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Love is war",
+        "EpisodeCount": 25,
+        "Release": 2019,
+        "imdb_id": "tt0988818",
+        "description": "The proudly privileged top two students of an elite school each makes it their mission to be the first to extract a confession of love from the other.",
+        "horizontal_img" :"https://www.ntdaily.com/wp-uploads/2020/07/kaguya-sama-a-1-pictures-1024x576.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Kaguya",
+          "Chika",
+          "Miyuki",
+          "Ai"
+        ]
       }
     ]
     
