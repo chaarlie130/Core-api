@@ -862,6 +862,161 @@
     "Shows_Top": [
       {
         "id": 0,
+        "title": "hunter x hunter (2011)",
+        "EpisodeCount": 148,
+        "Release": 2011,
+        "imdb_id": "tt2098220",
+        "description": "A Young boy named gon goes on an adventure to find his father.",
+        "horizontal_img" :"https://www.animelab.com/blog/wp-content/uploads/2020/07/HunterxHunter-header.jpg",
+        "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg",
+        "MainCast": [
+          "Gon Freecs",
+          "Killua Zoldyck",
+          "Kurapika Kurta",
+          "Leorio Paradinight",
+          "Hisoka Morow",
+          "Isaac Netero",
+          "Meruem"
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Attack on Titan",
+        "EpisodeCount": 75,
+        "Release": 2013,
+        "imdb_id": "tt2560140",
+        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
+        "MainCast": [
+          "Eren",
+          "Mikasa",
+          "Levi",
+          "Erwin",
+          "Armin",
+          "Reiner"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "My Hero Academia",
+        "EpisodeCount": 98,
+        "Release": 2016,
+        "imdb_id": "tt5626028",
+        "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+        "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
+        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg",
+        "MainCast": [
+          "Deku",
+          "Bakugo",
+          "All Might",
+          "One For All"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "One Piece",
+        "EpisodeCount": 931,
+        "Release": 1999,
+        "imdb_id": "tt0388629",
+        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOwFZdwHW0u9h5gvl99G1NZ43i_wJWeSOY6vOPb2Q6VWbA6g1k",
+        "MainCast": [
+          "Luffy",
+          "Zoro",
+          "Nami",
+          "Sanji"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Erased",
+        "EpisodeCount": 75,
+        "Release": 2013,
+        "imdb_id": "tt2560140",
+        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
+        "MainCast": [
+          "Eren",
+          "Mikasa",
+          "Levi",
+          "Erwin",
+          "Armin",
+          "Reiner"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Fullmetal Alchemist Brotherhood ",
+        "EpisodeCount": 64,
+        "Release": 2009,
+        "imdb_id": "tt1355642",
+        "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_",
+        "MainCast": [
+          "Edward",
+          "Roy Mustang",
+          "Alphonse",
+          "Winry"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Black Clover",
+        "EpisodeCount": 170,
+        "Release": 2017,
+        "imdb_id": "tt7441658",
+        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Asta",
+          "Yuno",
+          "Levi",
+          "Noelle",
+          "Finral",
+          "Vanassa"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Violet Evergarden",
+        "EpisodeCount": 170,
+        "Release": 2017,
+        "imdb_id": "tt7441658",
+        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Asta",
+          "Yuno",
+          "Levi",
+          "Noelle",
+          "Finral",
+          "Vanassa"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Demon Slayer",
+        "EpisodeCount": 26,
+        "Release": 2019,
+        "imdb_id": "tt9335498",
+        "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png",
+        "MainCast": [
+          "Tanjiro",
+          "Nesuko",
+          "Zenitsu",
+          "Inosuke"
+        ]
+      },
+      {
+        "id": 9,
         "title": "One Punch Man",
         "EpisodeCount": 24,
         "Release": 2015,
@@ -877,7 +1032,7 @@
         ]
       },
       {
-        "id": 1,
+        "id": 10,
         "title": "Code Geass",
         "EpisodeCount": 55,
         "Release": 2006,
@@ -892,7 +1047,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 11,
         "title": "Devilman Crybaby",
         "EpisodeCount": 10,
         "Release": 2018,
@@ -906,7 +1061,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 12,
         "title": "Black Butler",
         "EpisodeCount": 37,
         "Release": 2008,
@@ -920,7 +1075,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 13,
         "title": "Parastye: The Maxim",
         "EpisodeCount": 24,
         "Release": 2014,
@@ -935,7 +1090,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 14,
         "title": "Dr. Stone",
         "EpisodeCount": 24,
         "Release": 2019,
@@ -950,7 +1105,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 15,
         "title": "Seven Deadly Sins",
         "EpisodeCount": 78,
         "Release": 2014,
@@ -966,7 +1121,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 16,
         "title": "Fairy Tail ",
         "EpisodeCount": 328,
         "Release": 2012,
@@ -982,7 +1137,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 17,
         "title": "Bleach",
         "EpisodeCount": 366,
         "Release": 2004,
