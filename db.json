@@ -1285,6 +1285,183 @@
           "Ai"
         ]
       }
-    ]
-    
+    ],
+    "Shows_Shonen": [
+      {
+        "id": 0,
+        "title": "Black Clover",
+        "EpisodeCount": 170,
+        "Release": 2017,
+        "imdb_id": "tt7441658",
+        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Asta",
+          "Yuno",
+          "Levi",
+          "Noelle",
+          "Finral",
+          "Vanassa"
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Yu Yu Hakusho",
+        "EpisodeCount": 112,
+        "Release": 1993,
+        "imdb_id": "tt0185133",
+        "description": "One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/e6f09891-7847-42f5-91eb-1bc17fe8dc5b?base_image_bucket_name=image_manager&base_image=c5242ebe-4604-468c-9aa6-b2523b06ed19&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://i.pinimg.com/originals/3c/e8/4d/3ce84ddaa4e3c6e5d49ed6c2e2437cbc.jpg",
+        "MainCast": [
+          "Yusuke",
+          "Youko",
+          "Hiei",
+          "Kazuma",
+          "Genkai"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Food wars",
+        "EpisodeCount": 112,
+        "Release": 2015,
+        "imdb_id": "tt4731072",
+        "description": "Soma Yukihira enrolls in an elite culinary school to become a full-time chef and surpass his father's culinary skills.",
+        "horizontal_img" :"https://cloudfront.first4figures.com/media/resized/l-890-369/blog/1/212_Food_Wars_Shokugeki_no_Soma_TT_Cover.jpg",
+        "vertical_img":"https://resizing.flixster.com/W6UPvuAFCRfpRrk39IsqTxXLC_o=/206x305/v1.dDsyNjIyMTE7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA",
+        "MainCast": [
+          "Soma",
+          "Erina",
+          "Ikumi"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "The Disastrous Life of Saiki K",
+        "EpisodeCount": 120,
+        "Release": 2016,
+        "imdb_id": "tt6354518",
+        "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
+        "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1",
+        "MainCast": [
+          "Saiki",
+          "Kaidou",
+          "Nendou"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Assassination Classroom",
+        "EpisodeCount": 48,
+        "Release": 2015,
+        "imdb_id": "tt3837246",
+        "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg",
+        "MainCast": [
+          "Nagisa",
+          "Koro Sensai",
+          "Karma"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "The Promised Neverland",
+        "EpisodeCount": 23,
+        "Release": 2019,
+        "imdb_id": "tt8788458",
+        "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
+        "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
+        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg",
+        "MainCast": [
+          "Emma",
+          "Ray",
+          "Norman"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Death Note",
+        "EpisodeCount": 37,
+        "Release": 2006,
+        "imdb_id": "tt0877057",
+        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+        "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg",
+        "MainCast": [
+          "Light Yagami",
+          "L",
+          "Ryuk",
+          "Misa Amane",
+          "Rem",
+          "Near"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Naruto",
+        "EpisodeCount": 220,
+        "Release": 2007,
+        "imdb_id": "tt0409591",
+        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+        "MainCast": [
+          "Naruto",
+          "Sasuke",
+          "Sakura",
+          "Kakashi"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Jojos Bizzare Adventure",
+        "EpisodeCount": 150,
+        "Release": 2012,
+        "imdb_id": "tt2359704",
+        "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
+        "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+        "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+        "MainCast": [
+          "Dio",
+          "Joseph",
+          "Giorno"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Haiku!",
+        "EpisodeCount": 60,
+        "Release": 2015,
+        "imdb_id": "tt3398540",
+        "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+        "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg",
+        "MainCast": [
+          "Tobio",
+          "Nu",
+          "Shoyo",
+          "Kei"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Neon Genesis Evangelion",
+        "EpisodeCount": 29,
+        "Release": 1995,
+        "imdb_id": "tt0112159",
+        "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+        "horizontal_img" :"https://nofilmschool.com/sites/default/files/styles/facebook/public/evangelion-header-2-1146098-1280x0.jpeg?itok=aSZfL-NA",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/9137gjCQBRL.jpg",
+        "MainCast": [
+          "Shinji",
+          "Asuka",
+          "Misato",
+          "Gendo"
+        ]
+      },
+    ]  
 }
