@@ -1462,6 +1462,115 @@
           "Misato",
           "Gendo"
         ]
+      },
+      {
+        "id": 11,
+        "title": "No Game No life",
+        "EpisodeCount": 12,
+        "Release": 2014,
+        "imdb_id": "tt3431758",
+        "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
+        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg",
+        "MainCast": [
+          "Sora",
+          "Shuro"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Fire Force",
+        "EpisodeCount": 48,
+        "Release": 2019,
+        "imdb_id": "tt9307686",
+        "description": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
+        "horizontal_img" :"https://media.cdn.adultswim.com/uploads/20190820/198201040151-2_19722172249-FireForce__searchImage_.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BY2IyMDA0NGEtZjIyOS00NjU0LThlOTctODA0OTZmMDU2ZTMxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Iris",
+          "Maki",
+          "Akitaru"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Boruto",
+        "EpisodeCount": 199,
+        "Release": 2017,
+        "imdb_id": "tt6342474",
+        "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
+        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg",
+        "MainCast": [
+          "Boruto",
+          "Sarada",
+          "Himawari"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Danganropa",
+        "EpisodeCount": 13,
+        "Release": 2013,
+        "imdb_id": "tt2902582",
+        "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life.",
+        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1319406/Latvian/1319406_Latvian_ShowMasterKeyArt_66ad06d1-7078-e711-8175-020165574d09.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNGJjMmNjM2EtMDAyMi00NTVlLTk1OTAtYjdhMmNkZTVlMTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Makato",
+          "Junko",
+          "Monokuma"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Jujutsu Kaisen",
+        "EpisodeCount": 24,
+        "Release": 2020,
+        "imdb_id": "tt12343534",
+        "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+        "horizontal_img" :"https://is3-ssl.mzstatic.com/image/thumb/m26fHol7IkcmHCuq6kHOtg/1200x675.jpg",
+        "vertical_img":"https://i.ibb.co/jbZ79jf/Screenshot-2021-03-02-100858.png",
+        "MainCast": [
+          "Yuji",
+          "Megumi",
+          "Gojo"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "hunter x hunter (2011)",
+        "EpisodeCount": 148,
+        "Release": 2011,
+        "imdb_id": "tt2098220",
+        "description": "A Young boy named gon goes on an adventure to find his father.",
+        "horizontal_img" :"https://www.animelab.com/blog/wp-content/uploads/2020/07/HunterxHunter-header.jpg",
+        "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg",
+        "MainCast": [
+          "Gon Freecs",
+          "Killua Zoldyck",
+          "Kurapika Kurta",
+          "Leorio Paradinight",
+          "Hisoka Morow",
+          "Isaac Netero",
+          "Meruem"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Demon Slayer",
+        "EpisodeCount": 26,
+        "Release": 2019,
+        "imdb_id": "tt9335498",
+        "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png",
+        "MainCast": [
+          "Tanjiro",
+          "Nesuko",
+          "Zenitsu",
+          "Inosuke"
+        ]
       }
     ]  
 }
