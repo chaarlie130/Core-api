@@ -1571,6 +1571,158 @@
           "Zenitsu",
           "Inosuke"
         ]
+      },
+      {
+        "id": 18,
+        "title": "Tower Of God",
+        "EpisodeCount": 13,
+        "Release": 2020,
+        "imdb_id": "tt12057106",
+        "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
+        "horizontal_img" :"https://i2.wp.com/butwhythopodcast.com/wp-content/uploads/2020/06/95A5BF7A-8EF9-4548-B3AC-762345BCBF2A.jpeg?fit=800%2C449&ssl=1",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/518DZacSyRL.jpg",
+        "MainCast": [
+          "Hatz",
+          "Yuri",
+          "Evan"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Akame Ga Kill",
+        "EpisodeCount": 24,
+        "Release": 2014,
+        "imdb_id": "tt3742982",
+        "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
+        "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/b6141bb5-8cd4-47dd-941c-711898814242?base_image_bucket_name=image_manager&base_image=206a0578-223d-491a-b911-14f05cdec6a6&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+        "MainCast": [
+          "Akame",
+          "Esdeth",
+          "Najenda",
+          "Tatsumi"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Beastars",
+        "EpisodeCount": 24,
+        "Release": 2019,
+        "imdb_id": "tt11043632",
+        "description": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts.",
+        "horizontal_img" :"https://i.ibb.co/9NMpH3t/Screenshot-2021-02-19-162815.png",
+        "vertical_img":"https://miro.medium.com/max/680/1*OFtBDF1VO8wh2_j32Pu87g.jpeg",
+        "MainCast": [
+          "Collot",
+          "Legoshi"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Tokyo Goul",
+        "EpisodeCount": 48,
+        "Release": 2014,
+        "imdb_id": "tt3741634",
+        "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
+        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg",
+        "MainCast": [
+          "Kaneki",
+          "Shuu",
+          "Touka",
+          "Juuzou"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Dragon ball Super",
+        "EpisodeCount": 131,
+        "Release": 2015,
+        "imdb_id": "tt4644488",
+        "description": "Six months after the defeat of Majin Buu, The mighty Saiyan Son Goku continues his quest on becoming stronger.",
+        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/0921b58c-bef9-4a4d-a677-03ec7745428c?base_image_bucket_name=image_manager&base_image=c6182167-be22-4128-aa41-c52261c53837&size=1200x630&format=jpeg",
+        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJhQmNj-JMkozbhnnnewl4bkVq9ekD1gdCiTIp77oH1PolZmm",
+        "MainCast": [
+          "Goku",
+          "Beerus",
+          "Vegeta"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Vinland Saga",
+        "EpisodeCount": 24,
+        "Release": 2019,
+        "imdb_id": "tt10233448",
+        "description": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
+        "horizontal_img" :"https://image.tmdb.org/t/p/w780/epeKkcetNXp6s4J4iRHpe92ahCN.jpg",
+        "vertical_img":"https://static.wikia.nocookie.net/vinlandsaga/images/2/2b/Key_Visual_3.1.png/revision/latest?cb=20190627131600",
+        "MainCast": [
+          "Askeladden",
+          "Askeladd"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "The Future Diary",
+        "EpisodeCount": 27,
+        "Release": 2011,
+        "imdb_id": "tt2069441",
+        "description": "A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.",
+        "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/0c43ee4a-8e87-4864-8496-7b215c2a3976?base_image_bucket_name=image_manager&base_image=75dea922-885d-45a2-ad97-f0ab6f8f2344&size=1200x630&format=jpeg",
+        "vertical_img":"https://resizing.flixster.com/XMnMEsIiBQIT5XrJs0G5WHUj5DA=/206x305/v1.dDs0MDc1NTA7ajsxODY3OTsxMjAwOzgwMDsxMjAw",
+        "MainCast": [
+          "Yukiteru",
+          "Minene",
+          "Yuno"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "One Piece",
+        "EpisodeCount": 931,
+        "Release": 1999,
+        "imdb_id": "tt0388629",
+        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
+        "MainCast": [
+          "Luffy",
+          "Zoro",
+          "Nami",
+          "Sanji"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "One Piece",
+        "EpisodeCount": 931,
+        "Release": 1999,
+        "imdb_id": "tt0388629",
+        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
+        "MainCast": [
+          "Luffy",
+          "Zoro",
+          "Nami",
+          "Sanji"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Soul Eater",
+        "EpisodeCount": 51,
+        "Release": 2008,
+        "imdb_id": "tt1214085",
+        "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 duo's. These pairs are a partnership between a weapon meister and a human weapon.",
+        "horizontal_img" :"https://cdn.wallpapersafari.com/60/81/lneRxH.jpg",
+        "vertical_img":"https://pm1.narvii.com/6083/d2b4c8df4706d986fc8f60487fd85ea4469d151d_hq.jpg",
+        "MainCast": [
+          "Maka",
+          "Death The Kid",
+          "Crona"
+        ]
       }
     ]  
 }
