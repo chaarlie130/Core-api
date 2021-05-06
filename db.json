@@ -669,6 +669,101 @@
           "Kisuke",
           "Rukia"
         ]
+      },
+      {
+        "id": 12,
+        "title": "Boruto",
+        "EpisodeCount": 199,
+        "Release": 2017,
+        "imdb_id": "tt6342474",
+        "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
+        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg",
+        "MainCast": [
+          "Boruto",
+          "Sarada",
+          "Himawari"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Attack on Titan",
+        "EpisodeCount": 75,
+        "Release": 2013,
+        "imdb_id": "tt2560140",
+        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
+        "MainCast": [
+          "Eren",
+          "Mikasa",
+          "Levi",
+          "Erwin",
+          "Armin",
+          "Reiner"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "No Game No life",
+        "EpisodeCount": 12,
+        "Release": 2014,
+        "imdb_id": "tt3431758",
+        "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
+        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
+        "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg",
+        "MainCast": [
+          "Sora",
+          "Shuro"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Black Clover",
+        "EpisodeCount": 153,
+        "Release": 1986,
+        "imdb_id": "tt7441658",
+        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "MainCast": [
+          "Asta",
+          "Yuno",
+          "Levi",
+          "Noelle",
+          "Finral",
+          "Vanassa"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Dragon Ball",
+        "EpisodeCount": 170,
+        "Release": 2017,
+        "imdb_id": "tt0088509",
+        "description": "Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.",
+        "horizontal_img" :"https://1.bp.blogspot.com/-AizBPErEwrg/XPYbEi3OTZI/AAAAAAAAAFs/C2Ac9bRDWo8wM-8GPxvuhauROBgK2TpjQCLcBGAs/s1600/dragonball%2Bcover.jpg",
+        "vertical_img":"https://www.themoviedb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg",
+        "MainCast": [
+          "Goku",
+          "Bulma",
+          "Piccolo",
+          "Chi-Chi"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Fate/Zero",
+        "EpisodeCount": 25,
+        "Release": 2011,
+        "imdb_id": "tt2051178",
+        "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
+        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
+        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg",
+        "MainCast": [
+          "Kiritsugu",
+          "Kirei"
+        ]
       }
     ],
     "Comical_Anime": [
