@@ -566,7 +566,7 @@
         "Release": 2014,
         "imdb_id": "tt3742982",
         "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
-        "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/b6141bb5-8cd4-47dd-941c-711898814242?base_image_bucket_name=image_manager&base_image=206a0578-223d-491a-b911-14f05cdec6a6&region=US&format=jpeg&size=952x536",
+        "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
         "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
         "MainCast": [
           "Akame",
@@ -860,97 +860,90 @@
       },
       {
         "id": 6,
-        "title": "Banana Fish",
-        "EpisodeCount": 24,
+        "title": "Cells at work",
+        "EpisodeCount": 28,
         "Release": 2018,
-        "imdb_id": "tt8515016",
-        "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
-        "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/986b4a47b5e1139b1917896accf085de99ace909b84c533f57cc878efc4c460b._UY500_UX667_RI_V_TTW_.jpg",
-        "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+        "imdb_id": "tt8673610",
+        "description": "One newcomer red blood cell just wants to do her job. Between bacteria incursions and meeting a certain white blood cell, she's got a lot to learn.",
+        "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVvyXJZ1tXWCB1kboprVwLWZPDqljX3Rwwi0EdkEToB_Uq7yhHbVqj9ynH6K0a6Sc8E2UsfrRGcXwginCwLYvP3g6dn-.jpg?r=0c6",
+        "vertical_img":"https://img.reelgood.com/content/show/680fa933-bcb6-42e4-812f-9c0ec4a76969/poster-780.jpg",
         "MainCast": [
-          "Ash",
-          "Eji",
-          "Shorter"
+          "White blood cell",
+          "Red blood cell",
+          "Monocyte"
         ]
       },
       {
         "id": 7,
-        "title": "hunter x hunter (2011)",
-        "EpisodeCount": 148,
-        "Release": 2011,
-        "imdb_id": "tt2098220",
-        "description": "A Young boy named gon goes on an adventure to find his father.",
-        "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
-        "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg",
+        "title": "Maid Sama",
+        "EpisodeCount": 28,
+        "Release": 2010,
+        "imdb_id": "tt1634208",
+        "description": "Ayuzawa Misaki serves as the student council president at Seika High. However, unbeknownst to her classmates, she works part-time as an employee at a Maid Cafe. Usui Takumi, a boy from her school, discovers this secret.",
+        "horizontal_img" :"https://i.ytimg.com/vi/NqPZ2EwRvds/maxresdefault.jpg",
+        "vertical_img":"https://www.themoviedb.org/t/p/w500/igkn0M1bgMeATz59LShvVxZNdVd.jpg",
         "MainCast": [
-          "Gon Freecs",
-          "Killua Zoldyck",
-          "Kurapika Kurta",
-          "Leorio Paradinight",
-          "Hisoka Morow",
-          "Isaac Netero",
-          "Meruem"
+          "Takumi",
+          "Misaki"
         ]
       },
       {
         "id": 8,
-        "title": "Dr. Stone",
+        "title": "Clannad",
         "EpisodeCount": 24,
-        "Release": 2019,
-        "imdb_id": "tt9679542",
-        "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
-        "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
-        "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200",
+        "Release": 2007,
+        "imdb_id": "tt1118804",
+        "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
+        "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
+        "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy",
         "MainCast": [
-          "Seknu",
-          "Taiju",
-          "Chrome"
+          "Nagisa",
+          "Tomoyo",
+          "Kyou"
         ]
       },
       {
         "id": 9,
-        "title": "Jojos Bizzare Adventure",
-        "EpisodeCount": 150,
-        "Release": 2012,
-        "imdb_id": "tt2359704",
-        "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
-        "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-        "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+        "title": "Ouran High School Host Club ",
+        "EpisodeCount": 26,
+        "Release": 2006,
+        "imdb_id": "tt0816397",
+        "description": "A girl at a prestigious school befriends the members of a 'host club'.",
+        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/4a92ac4e-cbe2-41f5-bfb8-eb11dc479bfd?base_image_bucket_name=image_manager&base_image=569861d4-2f21-42a2-8bf8-69291d544c87&size=1200x630&format=jpeg",
+        "vertical_img":"https://i.pinimg.com/736x/44/da/01/44da012d3ba8769cd8830bbdd66b81eb.jpg",
         "MainCast": [
-          "Dio",
-          "Joseph",
-          "Giorno"
+          "Haruhi",
+          "Kyoya",
+          "Tamaki"
         ]
       },
       {
         "id": 10,
-        "title": "Naruto",
-        "EpisodeCount": 220,
-        "Release": 2007,
+        "title": "The Disastrous Life of Saiki K.: Reawakened",
+        "EpisodeCount": 6,
+        "Release": 2019,
         "imdb_id": "tt0409591",
-        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
-        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
-        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+        "description": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now.",
+        "horizontal_img" :"https://i.ibb.co/9hYJM9v/image.png",
+        "vertical_img":"https://static.wikia.nocookie.net/netflix/images/b/bd/Saikikusuo-no-psinan.jpg/revision/latest?cb=20200729155311",
         "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura",
-          "Kakashi"
+          "Kusuo"
         ]
       },
       {
         "id": 11,
-        "title": "Bleach",
-        "EpisodeCount": 366,
-        "Release": 2004,
-        "imdb_id": "tt0434665",
-        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
-        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
+        "title": "My Hero Academia",
+        "EpisodeCount": 98,
+        "Release": 2016,
+        "imdb_id": "tt5626028",
+        "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+        "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
+        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg",
         "MainCast": [
-          "Ichigo",
-          "Kisuke",
-          "Rukia"
+          "Deku",
+          "Bakugo",
+          "All Might",
+          "One For All"
         ]
       }
     ],
@@ -1689,7 +1682,7 @@
         "Release": 2014,
         "imdb_id": "tt3742982",
         "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
-        "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/b6141bb5-8cd4-47dd-941c-711898814242?base_image_bucket_name=image_manager&base_image=206a0578-223d-491a-b911-14f05cdec6a6&region=US&format=jpeg&size=952x536",
+        "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
         "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
         "MainCast": [
           "Akame",
