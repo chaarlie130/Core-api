@@ -1783,22 +1783,6 @@
       },
       {
         "id": 26,
-        "title": "One Piece",
-        "EpisodeCount": 931,
-        "Release": 1999,
-        "imdb_id": "tt0388629",
-        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
-        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
-        "MainCast": [
-          "Luffy",
-          "Zoro",
-          "Nami",
-          "Sanji"
-        ]
-      },
-      {
-        "id": 27,
         "title": "Soul Eater",
         "EpisodeCount": 51,
         "Release": 2008,
