@@ -1,1800 +1,1686 @@
 {
-    "Anime": [
-      {
-        "id": 0,
-        "title": "hunter x hunter (2011)",
-        "EpisodeCount": 148,
-        "Release": 2011,
-        "imdb_id": "tt2098220",
-        "description": "A Young boy named gon goes on an adventure to find his father.",
-        "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
-        "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg",
-        "MainCast": [
-          "Gon Freecs",
-          "Killua Zoldyck",
-          "Kurapika Kurta",
-          "Leorio Paradinight",
-          "Hisoka Morow",
-          "Isaac Netero",
-          "Meruem"
-        ]
-      },
+  "Anime": [
     {
-        "id": 1,
-        "title": "Death Note",
-        "EpisodeCount": 37,
-        "Release": 2006,
-        "imdb_id": "tt0877057",
-        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
-        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
-        "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg",
-        "MainCast": [
-          "Light Yagami",
-          "L",
-          "Ryuk",
-          "Misa Amane",
-          "Rem",
-          "Near"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "One Punch Man",
-        "EpisodeCount": 24,
-        "Release": 2015,
-        "imdb_id": "tt4508902",
-        "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
-        "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
-        "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg",
-        "MainCast": [
-          "Saitama",
-          "Genos",
-          "Silver Fang",
-          "Fubuki"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "One Piece",
-        "EpisodeCount": 931,
-        "Release": 1999,
-        "imdb_id": "tt0388629",
-        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
-        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
-        "MainCast": [
-          "Luffy",
-          "Zoro",
-          "Nami",
-          "Sanji"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Naruto",
-        "EpisodeCount": 220,
-        "Release": 2007,
-        "imdb_id": "tt0409591",
-        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
-        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
-        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
-        "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura",
-          "Kakashi"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Attack on Titan",
-        "EpisodeCount": 75,
-        "Release": 2013,
-        "imdb_id": "tt2560140",
-        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
-        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
-        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
-        "MainCast": [
-          "Eren",
-          "Mikasa",
-          "Levi",
-          "Erwin",
-          "Armin",
-          "Reiner"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Black Clover",
-        "EpisodeCount": 170,
-        "Release": 2017,
-        "imdb_id": "tt7441658",
-        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
-        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Asta",
-          "Yuno",
-          "Levi",
-          "Noelle",
-          "Finral",
-          "Vanassa"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Tokyo Goul",
-        "EpisodeCount": 48,
-        "Release": 2014,
-        "imdb_id": "tt3741634",
-        "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
-        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg",
-        "MainCast": [
-          "Kaneki",
-          "Shuu",
-          "Touka",
-          "Juuzou"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "The Promised Neverland",
-        "EpisodeCount": 23,
-        "Release": 2019,
-        "imdb_id": "tt8788458",
-        "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
-        "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg",
-        "MainCast": [
-          "Emma",
-          "Ray",
-          "Norman"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Monster",
-        "EpisodeCount": 74,
-        "Release": 2004,
-        "imdb_id": "tt0434706",
-        "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
-        "horizontal_img" :"https://i.redd.it/k1u1qqhte3b11.png",
-        "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg",
-        "MainCast": [
-          "Kenzo",
-          "Johan",
-          "Anna"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "The Disastrous Life of Saiki K",
-        "EpisodeCount": 120,
-        "Release": 2016,
-        "imdb_id": "tt6354518",
-        "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1",
-        "MainCast": [
-          "Saiki",
-          "Kaidou",
-          "Nendou"
-        ]
-      }
-    ],
-    "Top_Anime": [
-      {
-        "id": 0,
-        "title": "hunter x hunter (2011)",
-        "EpisodeCount": 148,
-        "Release": 2011,
-        "imdb_id": "tt2098220",
-        "description": "A Young boy named gon goes on an adventure to find his father.",
-        "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
-        "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg",
-        "MainCast": [
-          "Gon Freecs",
-          "Killua Zoldyck",
-          "Kurapika Kurta",
-          "Leorio Paradinight",
-          "Hisoka Morow",
-          "Isaac Netero",
-          "Meurem"
-        ]
-      },
-      {
-        "id": 1,
-        "title": "One Piece",
-        "EpisodeCount": 931,
-        "Release": 1999,
-        "imdb_id": "tt0388629",
-        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
-        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
-        "MainCast": [
-          "Luffy",
-          "Zoro",
-          "Nami",
-          "Sanji"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Naruto",
-        "EpisodeCount": 220,
-        "Release": 2007,
-        "imdb_id": "tt0409591",
-        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
-        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
-        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
-        "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura",
-          "Kakashi"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Attack on Titan",
-        "EpisodeCount": 75,
-        "Release": 2013,
-        "imdb_id": "tt2560140",
-        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
-        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
-        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
-        "MainCast": [
-          "Eren",
-          "Mikasa",
-          "Levi",
-          "Erwin",
-          "Armin",
-          "Reiner"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Demon Slayer",
-        "EpisodeCount": 26,
-        "Release": 2019,
-        "imdb_id": "tt9335498",
-        "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png",
-        "MainCast": [
-          "Tanjiro",
-          "Nesuko",
-          "Zenitsu",
-          "Inosuke"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Dragon Ball Z",
-        "EpisodeCount": 291,
-        "Release": 1989,
-        "imdb_id": "tt0214341",
-        "description": "Dragon Ball Z picks up five years after the end of the Dragon Ball anime, with Goku now a young adult and father to his son, Gohan.",
-        "horizontal_img" :"https://res.cloudinary.com/sfp/image/upload/oth/FunimationStoreFront/1327320/Latvian/1327320_Latvian_ShowMasterKeyArt_64ef4571-7178-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FN6NljssFQscbE0HgnJgEbj_kpcDB-FG5Nd1peTacNo9GXok",
-        "MainCast": [
-          "Goku",
-          "Vegeta",
-          "Beoly",
-          "Gohan"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Haiku!",
-        "EpisodeCount": 60,
-        "Release": 2015,
-        "imdb_id": "tt3398540",
-        "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
-        "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg",
-        "MainCast": [
-          "Tobio",
-          "Nu",
-          "Shoyo",
-          "Kei"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Death Note",
-        "EpisodeCount": 37,
-        "Release": 2006,
-        "imdb_id": "tt0877057",
-        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
-        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
-        "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg",
-        "MainCast": [
-          "Light Yagami",
-          "L",
-          "Ryuk",
-          "Misa Amane",
-          "Rem",
-          "Near"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Tokyo Goul",
-        "EpisodeCount": 48,
-        "Release": 2014,
-        "imdb_id": "tt0877057",
-        "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
-        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg",
-        "MainCast": [
-          "Kaneki",
-          "Shuu",
-          "Touka",
-          "Juuzou"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Fullmetal Alchemist Brotherhood ",
-        "EpisodeCount": 64,
-        "Release": 2009,
-        "imdb_id": "tt1355642",
-        "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
-        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
-        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_",
-        "MainCast": [
-          "Edward",
-          "Roy Mustang",
-          "Alphonse",
-          "Winry"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Steins Gate",
-        "EpisodeCount": 24,
-        "Release": 2009,
-        "imdb_id": "tt1910272",
-        "description": "Steins; Gate is a story about time travel and the consequences of it's misuse. The protagonist is a man named Okabe Rintarou; a self-proclaimed 'mad scientist' who goes by the name of Hououin Kyouma.",
-        "horizontal_img" :"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTT67rYLbSnBxaVl3AiPhBbxfeNtGrCDeDbqNLKUQspIbGyatDOVGjbramCbXyWC29lr2mFcNW2qyzTeqhT-H3ccmaeD.jpg?r=01b",
-        "vertical_img":"https://3.bp.blogspot.com/-l508OwhRMMU/Woh10Sh93GI/AAAAAAAAEpA/AqcjTYoLbsYCixgyKOtovFHed1Z0Gui5gCLcBGAs/s1600/Steins%253BGate%2BPoster.jpg",
-        "MainCast": [
-          "Kurisu",
-          "Rintarou",
-          "Mayuri"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Code Geass",
-        "EpisodeCount": 55,
-        "Release": 2006,
-        "imdb_id": "tt0994314",
-        "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
-        "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
-        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w",
-        "MainCast": [
-          "Lelouch",
-          "02",
-          "Sasuka"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Naruto Shippuden",
-        "EpisodeCount": 500,
-        "Release": 2007,
-        "imdb_id": "tt0988824",
-        "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
-        "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
-        "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg",
-        "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Bleach",
-        "EpisodeCount": 366,
-        "Release": 2004,
-        "imdb_id": "tt0434665",
-        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
-        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
-        "MainCast": [
-          "Ichigo",
-          "Kisuke",
-          "Rukia"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Seven Deadly Sins",
-        "EpisodeCount": 78,
-        "Release": 2014,
-        "imdb_id": "tt3909224",
-        "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg",
-        "MainCast": [
-          "Meliodis",
-          "Zeldris",
-          "Ban",
-          "Solass"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Fairy Tail ",
-        "EpisodeCount": 328,
-        "Release": 2012,
-        "imdb_id": "tt1528406",
-        "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
-        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
-        "vertical_img":"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
-        "MainCast": [
-          "Natsu",
-          "Erza",
-          "Gray",
-          "Lucy"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Black Clover",
-        "EpisodeCount": 170,
-        "Release": 2017,
-        "imdb_id": "tt7441658",
-        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
-        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Asta",
-          "Yuno",
-          "Levi",
-          "Noelle",
-          "Finral",
-          "Vanassa"
-        ]
-      },
-      {
-        "id": 17,
-        "title": "Cowboy Bepop",
-        "EpisodeCount": 26,
-        "Release": 1998,
-        "imdb_id": "tt0213338",
-        "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
-        "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
-        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3",
-        "MainCast": [
-          "Spike",
-          "Faye",
-          "Edward",
-          "Vicious"
-        ]
-      }
-    ],
-    "Adventure_Anime": [
-      {
-        "id": 0,
-        "title": "Fullmetal Alchemist Brotherhood ",
-        "EpisodeCount": 64,
-        "Release": 2009,
-        "imdb_id": "tt1355642",
-        "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
-        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
-        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_",
-        "MainCast": [
-          "Edward",
-          "Roy Mustang",
-          "Alphonse",
-          "Winry"
-        ]
-      },
-      {
-        "id": 1,
-        "title": "Fairy Tail ",
-        "EpisodeCount": 328,
-        "Release": 2012,
-        "imdb_id": "tt1528406",
-        "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
-        "horizontal_img" :"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_.jpg",
-        "MainCast": [
-          "Natsu",
-          "Erza",
-          "Gray",
-          "Lucy"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Cowboy Bepop",
-        "EpisodeCount": 26,
-        "Release": 1998,
-        "imdb_id": "tt0213338",
-        "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
-        "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
-        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3",
-        "MainCast": [
-          "Spike",
-          "Faye",
-          "Edward",
-          "Vicious"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Sword Art Online",
-        "EpisodeCount": 25,
-        "Release": 2012,
-        "imdb_id": "tt2250192",
-        "description": "The series takes place in the near future and focuses on protagonist Kazuto 'Kirito' Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds.",
-        "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdnlEW9NXXBZ-XdYmgq_5UvNFD2-EZPc9gYhwod4qC3wXOL6nwBpeg_G1NAGsGMlqW-gpE_ywzqwC2aGiki2s2yEi1oL.jpg?r=ced",
-        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN42eiTyvM1qOr1YCCt12NsPB14lz4r6rKT35QFNHnq_CD5Z0m",
-        "MainCast": [
-          "Kirito",
-          "Asuna",
-          "Alice",
-          "Klien"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Seven Deadly Sins",
-        "EpisodeCount": 78,
-        "Release": 2014,
-        "imdb_id": "tt3909224",
-        "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg",
-        "MainCast": [
-          "Meliodis",
-          "Zeldris",
-          "Ban",
-          "Solass"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Akame Ga Kill",
-        "EpisodeCount": 24,
-        "Release": 2014,
-        "imdb_id": "tt3742982",
-        "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
-        "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
-        "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
-        "MainCast": [
-          "Akame",
-          "Esdeth",
-          "Najenda",
-          "Tatsumi"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Banana Fish",
-        "EpisodeCount": 24,
-        "Release": 2018,
-        "imdb_id": "tt8515016",
-        "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
-        "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/986b4a47b5e1139b1917896accf085de99ace909b84c533f57cc878efc4c460b._UY500_UX667_RI_V_TTW_.jpg",
-        "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
-        "MainCast": [
-          "Ash",
-          "Eji",
-          "Shorter"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "hunter x hunter (2011)",
-        "EpisodeCount": 148,
-        "Release": 2011,
-        "imdb_id": "tt2098220",
-        "description": "A Young boy named gon goes on an adventure to find his father.",
-        "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
-        "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg",
-        "MainCast": [
-          "Gon Freecs",
-          "Killua Zoldyck",
-          "Kurapika Kurta",
-          "Leorio Paradinight",
-          "Hisoka Morow",
-          "Isaac Netero",
-          "Meruem"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Dr. Stone",
-        "EpisodeCount": 24,
-        "Release": 2019,
-        "imdb_id": "tt9679542",
-        "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
-        "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
-        "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200",
-        "MainCast": [
-          "Seknu",
-          "Taiju",
-          "Chrome"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Jojos Bizzare Adventure",
-        "EpisodeCount": 150,
-        "Release": 2012,
-        "imdb_id": "tt2359704",
-        "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
-        "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-        "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-        "MainCast": [
-          "Dio",
-          "Joseph",
-          "Giorno"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Naruto",
-        "EpisodeCount": 220,
-        "Release": 2007,
-        "imdb_id": "tt0409591",
-        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
-        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
-        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
-        "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura",
-          "Kakashi"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Bleach",
-        "EpisodeCount": 366,
-        "Release": 2004,
-        "imdb_id": "tt0434665",
-        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
-        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
-        "MainCast": [
-          "Ichigo",
-          "Kisuke",
-          "Rukia"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Boruto",
-        "EpisodeCount": 199,
-        "Release": 2017,
-        "imdb_id": "tt6342474",
-        "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
-        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg",
-        "MainCast": [
-          "Boruto",
-          "Sarada",
-          "Himawari"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Attack on Titan",
-        "EpisodeCount": 75,
-        "Release": 2013,
-        "imdb_id": "tt2560140",
-        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
-        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
-        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
-        "MainCast": [
-          "Eren",
-          "Mikasa",
-          "Levi",
-          "Erwin",
-          "Armin",
-          "Reiner"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "No Game No life",
-        "EpisodeCount": 12,
-        "Release": 2014,
-        "imdb_id": "tt3431758",
-        "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
-        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg",
-        "MainCast": [
-          "Sora",
-          "Shuro"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Black Clover",
-        "EpisodeCount": 153,
-        "Release": 1986,
-        "imdb_id": "tt7441658",
-        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
-        "horizontal_img" :"https://i.ytimg.com/vi/aaZq6SXXNt4/maxresdefault.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Asta",
-          "Yuno",
-          "Levi",
-          "Noelle",
-          "Finral",
-          "Vanassa"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Dragon Ball",
-        "EpisodeCount": 170,
-        "Release": 2017,
-        "imdb_id": "tt0088509",
-        "description": "Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.",
-        "horizontal_img" :"https://1.bp.blogspot.com/-AizBPErEwrg/XPYbEi3OTZI/AAAAAAAAAFs/C2Ac9bRDWo8wM-8GPxvuhauROBgK2TpjQCLcBGAs/s1600/dragonball%2Bcover.jpg",
-        "vertical_img":"https://www.themoviedb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg",
-        "MainCast": [
-          "Goku",
-          "Bulma",
-          "Piccolo",
-          "Chi-Chi"
-        ]
-      },
-      {
-        "id": 17,
-        "title": "Fate/Zero",
-        "EpisodeCount": 25,
-        "Release": 2011,
-        "imdb_id": "tt2051178",
-        "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg",
-        "MainCast": [
-          "Kiritsugu",
-          "Kirei"
-        ]
-      }
-    ],
-    "Comical_Anime": [
-      {
-        "id": 0,
-        "title": "Gintama",
-        "EpisodeCount": 367,
-        "Release": 2006,
-        "imdb_id": "tt0988818",
-        "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj",
-        "MainCast": [
-          "Edward",
-          "Roy Mustang",
-          "Alphonse",
-          "Winry"
-        ]
-      },
-      {
-        "id": 1,
-        "title": "One Punch Man",
-        "EpisodeCount": 24,
-        "Release": 2015,
-        "imdb_id": "tt4508902",
-        "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
-        "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
-        "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg",
-        "MainCast": [
-          "Saitama",
-          "Genos",
-          "Silver Fang",
-          "Fubuki"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Assassination Classroom",
-        "EpisodeCount": 48,
-        "Release": 2015,
-        "imdb_id": "tt3837246",
-        "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg",
-        "MainCast": [
-          "Nagisa",
-          "Koro Sensai",
-          "Karma"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Mob Physco 100",
-        "EpisodeCount": 37,
-        "Release": 2016,
-        "imdb_id": "tt5897304",
-        "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1555438/Latvian/1555438_Latvian_ShowMasterKeyArt_76757223-1a15-e911-8175-020165574d09.jpg",
-        "vertical_img":"https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356",
-        "MainCast": [
-          "Mob",
-          "Teruki",
-          "Reigen"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "The Disastrous Life of Saiki K",
-        "EpisodeCount": 120,
-        "Release": 2016,
-        "imdb_id": "tt6354518",
-        "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1",
-        "MainCast": [
-          "Saiki",
-          "Kaidou",
-          "Nendou"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Prison School",
-        "EpisodeCount": 12,
-        "Release": 2015,
-        "imdb_id": "tt4917066",
-        "description": "Kiyoshi, a new student, is sent to Hachimitsu Academy's prison, where harsh punishment awaits.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1301063/Latvian/1301063_Latvian_ShowMasterKeyArt_c212eb78-deff-e611-8175-020165574d09.jpg",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BZDQzYmM5MWItNTEyYy00YWEyLTk0Y2YtNTYxODliZDdlOWMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Kiyoshi",
-          "Gakuto"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Cells at work",
-        "EpisodeCount": 28,
-        "Release": 2018,
-        "imdb_id": "tt8673610",
-        "description": "One newcomer red blood cell just wants to do her job. Between bacteria incursions and meeting a certain white blood cell, she's got a lot to learn.",
-        "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVvyXJZ1tXWCB1kboprVwLWZPDqljX3Rwwi0EdkEToB_Uq7yhHbVqj9ynH6K0a6Sc8E2UsfrRGcXwginCwLYvP3g6dn-.jpg?r=0c6",
-        "vertical_img":"https://img.reelgood.com/content/show/680fa933-bcb6-42e4-812f-9c0ec4a76969/poster-780.jpg",
-        "MainCast": [
-          "White blood cell",
-          "Red blood cell",
-          "Monocyte"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Maid Sama",
-        "EpisodeCount": 28,
-        "Release": 2010,
-        "imdb_id": "tt1634208",
-        "description": "Ayuzawa Misaki serves as the student council president at Seika High. However, unbeknownst to her classmates, she works part-time as an employee at a Maid Cafe. Usui Takumi, a boy from her school, discovers this secret.",
-        "horizontal_img" :"https://i.ytimg.com/vi/NqPZ2EwRvds/maxresdefault.jpg",
-        "vertical_img":"https://www.themoviedb.org/t/p/w500/igkn0M1bgMeATz59LShvVxZNdVd.jpg",
-        "MainCast": [
-          "Takumi",
-          "Misaki"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Clannad",
-        "EpisodeCount": 24,
-        "Release": 2007,
-        "imdb_id": "tt1118804",
-        "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
-        "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
-        "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy",
-        "MainCast": [
-          "Nagisa",
-          "Tomoyo",
-          "Kyou"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Ouran High School Host Club ",
-        "EpisodeCount": 26,
-        "Release": 2006,
-        "imdb_id": "tt0816397",
-        "description": "A girl at a prestigious school befriends the members of a 'host club'.",
-        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/4a92ac4e-cbe2-41f5-bfb8-eb11dc479bfd?base_image_bucket_name=image_manager&base_image=569861d4-2f21-42a2-8bf8-69291d544c87&size=1200x630&format=jpeg",
-        "vertical_img":"https://i.pinimg.com/736x/44/da/01/44da012d3ba8769cd8830bbdd66b81eb.jpg",
-        "MainCast": [
-          "Haruhi",
-          "Kyoya",
-          "Tamaki"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "The Disastrous Life of Saiki K.: Reawakened",
-        "EpisodeCount": 6,
-        "Release": 2019,
-        "imdb_id": "tt0409591",
-        "description": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now.",
-        "horizontal_img" :"https://i.ibb.co/9hYJM9v/image.png",
-        "vertical_img":"https://static.wikia.nocookie.net/netflix/images/b/bd/Saikikusuo-no-psinan.jpg/revision/latest?cb=20200729155311",
-        "MainCast": [
-          "Kusuo"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "My Hero Academia",
-        "EpisodeCount": 98,
-        "Release": 2016,
-        "imdb_id": "tt5626028",
-        "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
-        "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
-        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg",
-        "MainCast": [
-          "Deku",
-          "Bakugo",
-          "All Might",
-          "One For All"
-        ]
-      }
-    ],
-    "Shows_Top": [
-      {
-        "id": 0,
-        "title": "hunter x hunter (2011)",
-        "EpisodeCount": 148,
-        "Release": 2011,
-        "imdb_id": "tt2098220",
-        "description": "A Young boy named gon goes on an adventure to find his father.",
-        "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
-        "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg",
-        "MainCast": [
-          "Gon Freecs",
-          "Killua Zoldyck",
-          "Kurapika Kurta",
-          "Leorio Paradinight",
-          "Hisoka Morow",
-          "Isaac Netero",
-          "Meruem"
-        ]
-      },
-      {
-        "id": 1,
-        "title": "Attack on Titan",
-        "EpisodeCount": 75,
-        "Release": 2013,
-        "imdb_id": "tt2560140",
-        "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
-        "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
-        "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg",
-        "MainCast": [
-          "Eren",
-          "Mikasa",
-          "Levi",
-          "Erwin",
-          "Armin",
-          "Reiner"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "My Hero Academia",
-        "EpisodeCount": 98,
-        "Release": 2016,
-        "imdb_id": "tt5626028",
-        "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
-        "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
-        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg",
-        "MainCast": [
-          "Deku",
-          "Bakugo",
-          "All Might",
-          "One For All"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "One Piece",
-        "EpisodeCount": 931,
-        "Release": 1999,
-        "imdb_id": "tt0388629",
-        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
-        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
-        "MainCast": [
-          "Luffy",
-          "Zoro",
-          "Nami",
-          "Sanji"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Erased",
-        "EpisodeCount": 13,
-        "Release": 2016,
-        "imdb_id": "tt5249462",
-        "description": "29-year-old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings while he was in 5th grade.",
-        "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXpiIvgu-rrEswgEAAAZY/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
-        "MainCast": [
-          "Satory",
-          "Kayo",
-          "Gaku",
-          "Sachiko",
-          "Armin"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Fullmetal Alchemist Brotherhood ",
-        "EpisodeCount": 64,
-        "Release": 2009,
-        "imdb_id": "tt1355642",
-        "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
-        "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
-        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_",
-        "MainCast": [
-          "Edward",
-          "Roy Mustang",
-          "Alphonse",
-          "Winry"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Black Clover",
-        "EpisodeCount": 170,
-        "Release": 2017,
-        "imdb_id": "tt7441658",
-        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
-        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Asta",
-          "Yuno",
-          "Levi",
-          "Noelle",
-          "Finral",
-          "Vanassa"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Violet Evergarden",
-        "EpisodeCount": 14,
-        "Release": 2018,
-        "imdb_id": "tt7078180",
-        "description": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people.",
-        "horizontal_img" :"https://gadgetfreeks.com/wp-content/uploads/2020/06/Violet-Evergarden-Season-2.jpg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH72bGY6j748YjkYjQmoZ1Gs8gDZOiCU96owFwNYFfabTxGTe0",
-        "MainCast": [
-          "Gilbert",
-          "Benedict",
-          "Claudia"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Demon Slayer",
-        "EpisodeCount": 26,
-        "Release": 2019,
-        "imdb_id": "tt9335498",
-        "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png",
-        "MainCast": [
-          "Tanjiro",
-          "Nesuko",
-          "Zenitsu",
-          "Inosuke"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "One Punch Man",
-        "EpisodeCount": 24,
-        "Release": 2015,
-        "imdb_id": "tt4508902",
-        "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
-        "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
-        "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg",
-        "MainCast": [
-          "Saitama",
-          "Genos",
-          "Silver Fang",
-          "Fubuki"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Code Geass",
-        "EpisodeCount": 55,
-        "Release": 2006,
-        "imdb_id": "tt0994314",
-        "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
-        "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
-        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w",
-        "MainCast": [
-          "Lelouch",
-          "02",
-          "Sasuka"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "Devilman Crybaby",
-        "EpisodeCount": 10,
-        "Release": 2018,
-        "imdb_id": "tt6660498",
-        "description": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.",
-        "horizontal_img" :"https://blackgirlnerds.com/wp-content/uploads/2018/02/Devilman-Crybaby-Title-image.png",
-        "vertical_img":"https://assets1.ignimgs.com/2017/08/03/devilman-crybaby-tv-2-1501799414205.jpg",
-        "MainCast": [
-          "Akira",
-          "Ryo"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Black Butler",
-        "EpisodeCount": 37,
-        "Release": 2008,
-        "imdb_id": "tt1316554",
-        "description": "A young boy sells his soul to a demon in order to avenge his family's death and successfully lead their influential toy manufacturing company.",
-        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/f1f053e2-ed2e-437c-94c6-c4e557e79bbc?base_image_bucket_name=image_manager&base_image=a4561687-5070-49b7-8f7f-ce51ee97c26c&size=1200x630&format=jpeg",
-        "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-yLijvyiac8fyhQNHa2Dg142K-7CUDJa-CeGA0aom57eRbtQ7",
-        "MainCast": [
-          "Ciel",
-          "Ash"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Parastye: The Maxim",
-        "EpisodeCount": 24,
-        "Release": 2014,
-        "imdb_id": "tt3358020",
-        "description": "17-year-old Shinichi Izumi is partially infected by a Parasyte; monsters that butcher and consume humans.",
-        "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbbYWSRBB9MFAHs1LTze6-PqcR2kwFKj4K8yprJt92cuhELnNP_yVuXnrDPi8FM6KhxZEYnSyob9pH4CVWAhamEiC6Y.webp?r=c47",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71mhz6bfM9L._SL1280_.jpg",
-        "MainCast": [
-          "Miji",
-          "Shinichi",
-          "Satomi"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Dr. Stone",
-        "EpisodeCount": 24,
-        "Release": 2019,
-        "imdb_id": "tt9679542",
-        "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
-        "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
-        "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200",
-        "MainCast": [
-          "Seknu",
-          "Taiju",
-          "Chrome"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Seven Deadly Sins",
-        "EpisodeCount": 78,
-        "Release": 2014,
-        "imdb_id": "tt3909224",
-        "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg",
-        "MainCast": [
-          "Meliodis",
-          "Zeldris",
-          "Ban",
-          "Solass"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "Fairy Tail ",
-        "EpisodeCount": 328,
-        "Release": 2012,
-        "imdb_id": "tt1528406",
-        "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
-        "horizontal_img" :"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_.jpg",
-        "MainCast": [
-          "Natsu",
-          "Erza",
-          "Gray",
-          "Lucy"
-        ]
-      },
-      {
-        "id": 17,
-        "title": "Bleach",
-        "EpisodeCount": 366,
-        "Release": 2004,
-        "imdb_id": "tt0434665",
-        "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
-        "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9",
-        "MainCast": [
-          "Ichigo",
-          "Kisuke",
-          "Rukia"
-        ]
-      },
-      {
-        "id": 18,
-        "title": "Naruto Shippuden",
-        "EpisodeCount": 500,
-        "Release": 2007,
-        "imdb_id": "tt0988824",
-        "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
-        "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
-        "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg",
-        "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura"
-        ]
-      },
-      {
-        "id": 19,
-        "title": "Clannad",
-        "EpisodeCount": 24,
-        "Release": 2007,
-        "imdb_id": "tt1118804",
-        "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
-        "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
-        "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy",
-        "MainCast": [
-          "Nagisa",
-          "Tomoyo",
-          "Kyou"
-        ]
-      },
-      {
-        "id": 20,
-        "title": "Haiku!",
-        "EpisodeCount": 60,
-        "Release": 2015,
-        "imdb_id": "tt3398540",
-        "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
-        "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg",
-        "MainCast": [
-          "Tobio",
-          "Nu",
-          "Shoyo",
-          "Kei"
-        ]
-      },
-      {
-        "id": 21,
-        "title": "Mob Physco 100",
-        "EpisodeCount": 37,
-        "Release": 2016,
-        "imdb_id": "tt5897304",
-        "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1555438/Latvian/1555438_Latvian_ShowMasterKeyArt_76757223-1a15-e911-8175-020165574d09.jpg",
-        "vertical_img":"https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356",
-        "MainCast": [
-          "Mob",
-          "Teruki",
-          "Reigen"
-        ]
-      },
-      {
-        "id": 22,
-        "title": "Cowboy Bepop",
-        "EpisodeCount": 26,
-        "Release": 1998,
-        "imdb_id": "tt0213338",
-        "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
-        "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
-        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3",
-        "MainCast": [
-          "Spike",
-          "Faye",
-          "Edward",
-          "Vicious"
-        ]
-      },
-      {
-        "id": 23,
-        "title": "Monster",
-        "EpisodeCount": 74,
-        "Release": 2004,
-        "imdb_id": "tt0434706",
-        "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
-        "horizontal_img" :"https://i.redd.it/k1u1qqhte3b11.png",
-        "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg",
-        "MainCast": [
-          "Kenzo",
-          "Johan",
-          "Anna"
-        ]
-      },
-      {
-        "id": 24,
-        "title": "Fate/Zero",
-        "EpisodeCount": 25,
-        "Release": 2011,
-        "imdb_id": "tt2051178",
-        "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg",
-        "MainCast": [
-          "Kiritsugu",
-          "Kirei"
-        ]
-      },
-      {
-        "id": 25,
-        "title": "Gintama",
-        "EpisodeCount": 367,
-        "Release": 2006,
-        "imdb_id": "tt0988818",
-        "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
-        "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj",
-        "MainCast": [
-          "Edward",
-          "Roy Mustang",
-          "Alphonse",
-          "Winry"
-        ]
-      },
-      {
-        "id": 26,
-        "title": "Love is war",
-        "EpisodeCount": 25,
-        "Release": 2019,
-        "imdb_id": "tt9522300",
-        "description": "The proudly privileged top two students of an elite school each makes it their mission to be the first to extract a confession of love from the other.",
-        "horizontal_img" :"https://www.ntdaily.com/wp-uploads/2020/07/kaguya-sama-a-1-pictures-1024x576.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Kaguya",
-          "Chika",
-          "Miyuki",
-          "Ai"
-        ]
-      }
-    ],
-    "Shows_Shonen": [
-      {
-        "id": 0,
-        "title": "Black Clover",
-        "EpisodeCount": 170,
-        "Release": 2017,
-        "imdb_id": "tt7441658",
-        "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
-        "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Asta",
-          "Yuno",
-          "Levi",
-          "Noelle",
-          "Finral",
-          "Vanassa"
-        ]
-      },
-      {
-        "id": 1,
-        "title": "Yu Yu Hakusho",
-        "EpisodeCount": 112,
-        "Release": 1993,
-        "imdb_id": "tt0185133",
-        "description": "One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/e6f09891-7847-42f5-91eb-1bc17fe8dc5b?base_image_bucket_name=image_manager&base_image=c5242ebe-4604-468c-9aa6-b2523b06ed19&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://i.pinimg.com/originals/3c/e8/4d/3ce84ddaa4e3c6e5d49ed6c2e2437cbc.jpg",
-        "MainCast": [
-          "Yusuke",
-          "Youko",
-          "Hiei",
-          "Kazuma",
-          "Genkai"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Food wars",
-        "EpisodeCount": 112,
-        "Release": 2015,
-        "imdb_id": "tt4731072",
-        "description": "Soma Yukihira enrolls in an elite culinary school to become a full-time chef and surpass his father's culinary skills.",
-        "horizontal_img" :"https://cloudfront.first4figures.com/media/resized/l-890-369/blog/1/212_Food_Wars_Shokugeki_no_Soma_TT_Cover.jpg",
-        "vertical_img":"https://resizing.flixster.com/W6UPvuAFCRfpRrk39IsqTxXLC_o=/206x305/v1.dDsyNjIyMTE7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA",
-        "MainCast": [
-          "Soma",
-          "Erina",
-          "Ikumi"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "The Disastrous Life of Saiki K",
-        "EpisodeCount": 120,
-        "Release": 2016,
-        "imdb_id": "tt6354518",
-        "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1",
-        "MainCast": [
-          "Saiki",
-          "Kaidou",
-          "Nendou"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Assassination Classroom",
-        "EpisodeCount": 48,
-        "Release": 2015,
-        "imdb_id": "tt3837246",
-        "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg",
-        "MainCast": [
-          "Nagisa",
-          "Koro Sensai",
-          "Karma"
-        ]
-      },
-      {
-        "id": 5,
-        "title": "The Promised Neverland",
-        "EpisodeCount": 23,
-        "Release": 2019,
-        "imdb_id": "tt8788458",
-        "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
-        "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg",
-        "MainCast": [
-          "Emma",
-          "Ray",
-          "Norman"
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Death Note",
-        "EpisodeCount": 37,
-        "Release": 2006,
-        "imdb_id": "tt0877057",
-        "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
-        "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
-        "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg",
-        "MainCast": [
-          "Light Yagami",
-          "L",
-          "Ryuk",
-          "Misa Amane",
-          "Rem",
-          "Near"
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Naruto",
-        "EpisodeCount": 220,
-        "Release": 2007,
-        "imdb_id": "tt0409591",
-        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
-        "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
-        "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
-        "MainCast": [
-          "Naruto",
-          "Sasuke",
-          "Sakura",
-          "Kakashi"
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Jojos Bizzare Adventure",
-        "EpisodeCount": 150,
-        "Release": 2012,
-        "imdb_id": "tt2359704",
-        "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
-        "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-        "vertical_img":"https://resizing.flixster.com/d6R9nwwwXAKiR9KgC-lGfE7XFAo=/206x305/v1.dDsyODUyNDI7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA",
-        "MainCast": [
-          "Dio",
-          "Joseph",
-          "Giorno"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Haiku!",
-        "EpisodeCount": 60,
-        "Release": 2015,
-        "imdb_id": "tt3398540",
-        "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
-        "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg",
-        "MainCast": [
-          "Tobio",
-          "Nu",
-          "Shoyo",
-          "Kei"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Neon Genesis Evangelion",
-        "EpisodeCount": 29,
-        "Release": 1995,
-        "imdb_id": "tt0112159",
-        "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
-        "horizontal_img" :"https://nofilmschool.com/sites/default/files/styles/facebook/public/evangelion-header-2-1146098-1280x0.jpeg?itok=aSZfL-NA",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/9137gjCQBRL.jpg",
-        "MainCast": [
-          "Shinji",
-          "Asuka",
-          "Misato",
-          "Gendo"
-        ]
-      },
-      {
-        "id": 11,
-        "title": "No Game No life",
-        "EpisodeCount": 12,
-        "Release": 2014,
-        "imdb_id": "tt3431758",
-        "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
-        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg",
-        "MainCast": [
-          "Sora",
-          "Shuro"
-        ]
-      },
-      {
-        "id": 12,
-        "title": "Fire Force",
-        "EpisodeCount": 48,
-        "Release": 2019,
-        "imdb_id": "tt9307686",
-        "description": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
-        "horizontal_img" :"https://media.cdn.adultswim.com/uploads/20190820/198201040151-2_19722172249-FireForce__searchImage_.jpg",
-        "vertical_img":"https://m.media-amazon.com/images/M/MV5BY2IyMDA0NGEtZjIyOS00NjU0LThlOTctODA0OTZmMDU2ZTMxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "MainCast": [
-          "Iris",
-          "Maki",
-          "Akitaru"
-        ]
-      },
-      {
-        "id": 13,
-        "title": "Boruto",
-        "EpisodeCount": 199,
-        "Release": 2017,
-        "imdb_id": "tt6342474",
-        "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
-        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg",
-        "MainCast": [
-          "Boruto",
-          "Sarada",
-          "Himawari"
-        ]
-      },
-      {
-        "id": 14,
-        "title": "Danganropa",
-        "EpisodeCount": 13,
-        "Release": 2013,
-        "imdb_id": "tt2902582",
-        "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life.",
-        "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1319406/Latvian/1319406_Latvian_ShowMasterKeyArt_66ad06d1-7078-e711-8175-020165574d09.jpg",
-        "vertical_img":"https://theanimeaccord.files.wordpress.com/2017/01/139147_front.jpg",
-        "MainCast": [
-          "Makato",
-          "Junko",
-          "Monokuma"
-        ]
-      },
-      {
-        "id": 15,
-        "title": "Jujutsu Kaisen",
-        "EpisodeCount": 24,
-        "Release": 2020,
-        "imdb_id": "tt12343534",
-        "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
-        "horizontal_img" :"https://is3-ssl.mzstatic.com/image/thumb/m26fHol7IkcmHCuq6kHOtg/1200x675.jpg",
-        "vertical_img":"https://i.ibb.co/jbZ79jf/Screenshot-2021-03-02-100858.png",
-        "MainCast": [
-          "Yuji",
-          "Megumi",
-          "Gojo"
-        ]
-      },
-      {
-        "id": 16,
-        "title": "hunter x hunter (2011)",
-        "EpisodeCount": 148,
-        "Release": 2011,
-        "imdb_id": "tt2098220",
-        "description": "A Young boy named gon goes on an adventure to find his father.",
-        "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
-        "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg",
-        "MainCast": [
-          "Gon Freecs",
-          "Killua Zoldyck",
-          "Kurapika Kurta",
-          "Leorio Paradinight",
-          "Hisoka Morow",
-          "Isaac Netero",
-          "Meruem"
-        ]
-      },
-      {
-        "id": 17,
-        "title": "Demon Slayer",
-        "EpisodeCount": 26,
-        "Release": 2019,
-        "imdb_id": "tt9335498",
-        "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
-        "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png",
-        "MainCast": [
-          "Tanjiro",
-          "Nesuko",
-          "Zenitsu",
-          "Inosuke"
-        ]
-      },
-      {
-        "id": 18,
-        "title": "Tower Of God",
-        "EpisodeCount": 13,
-        "Release": 2020,
-        "imdb_id": "tt12057106",
-        "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
-        "horizontal_img" :"https://i2.wp.com/butwhythopodcast.com/wp-content/uploads/2020/06/95A5BF7A-8EF9-4548-B3AC-762345BCBF2A.jpeg?fit=800%2C449&ssl=1",
-        "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/518DZacSyRL.jpg",
-        "MainCast": [
-          "Hatz",
-          "Yuri",
-          "Evan"
-        ]
-      },
-      {
-        "id": 19,
-        "title": "Akame Ga Kill",
-        "EpisodeCount": 24,
-        "Release": 2014,
-        "imdb_id": "tt3742982",
-        "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
-        "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
-        "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
-        "MainCast": [
-          "Akame",
-          "Esdeth",
-          "Najenda",
-          "Tatsumi"
-        ]
-      },
-      {
-        "id": 20,
-        "title": "Beastars",
-        "EpisodeCount": 24,
-        "Release": 2019,
-        "imdb_id": "tt11043632",
-        "description": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts.",
-        "horizontal_img" :"https://i.ibb.co/9NMpH3t/Screenshot-2021-02-19-162815.png",
-        "vertical_img":"https://miro.medium.com/max/680/1*OFtBDF1VO8wh2_j32Pu87g.jpeg",
-        "MainCast": [
-          "Collot",
-          "Legoshi"
-        ]
-      },
-      {
-        "id": 21,
-        "title": "Tokyo Goul",
-        "EpisodeCount": 48,
-        "Release": 2014,
-        "imdb_id": "tt3741634",
-        "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
-        "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
-        "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg",
-        "MainCast": [
-          "Kaneki",
-          "Shuu",
-          "Touka",
-          "Juuzou"
-        ]
-      },
-      {
-        "id": 22,
-        "title": "Dragon ball Super",
-        "EpisodeCount": 131,
-        "Release": 2015,
-        "imdb_id": "tt4644488",
-        "description": "Six months after the defeat of Majin Buu, The mighty Saiyan Son Goku continues his quest on becoming stronger.",
-        "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/0921b58c-bef9-4a4d-a677-03ec7745428c?base_image_bucket_name=image_manager&base_image=c6182167-be22-4128-aa41-c52261c53837&size=1200x630&format=jpeg",
-        "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJhQmNj-JMkozbhnnnewl4bkVq9ekD1gdCiTIp77oH1PolZmm",
-        "MainCast": [
-          "Goku",
-          "Beerus",
-          "Vegeta"
-        ]
-      },
-      {
-        "id": 23,
-        "title": "Vinland Saga",
-        "EpisodeCount": 24,
-        "Release": 2019,
-        "imdb_id": "tt10233448",
-        "description": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
-        "horizontal_img" :"https://image.tmdb.org/t/p/w780/epeKkcetNXp6s4J4iRHpe92ahCN.jpg",
-        "vertical_img":"https://static.wikia.nocookie.net/vinlandsaga/images/2/2b/Key_Visual_3.1.png/revision/latest?cb=20190627131600",
-        "MainCast": [
-          "Askeladden",
-          "Askeladd"
-        ]
-      },
-      {
-        "id": 24,
-        "title": "The Future Diary",
-        "EpisodeCount": 27,
-        "Release": 2011,
-        "imdb_id": "tt2069441",
-        "description": "A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.",
-        "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/0c43ee4a-8e87-4864-8496-7b215c2a3976?base_image_bucket_name=image_manager&base_image=75dea922-885d-45a2-ad97-f0ab6f8f2344&size=1200x630&format=jpeg",
-        "vertical_img":"https://resizing.flixster.com/XMnMEsIiBQIT5XrJs0G5WHUj5DA=/206x305/v1.dDs0MDc1NTA7ajsxODY3OTsxMjAwOzgwMDsxMjAw",
-        "MainCast": [
-          "Yukiteru",
-          "Minene",
-          "Yuno"
-        ]
-      },
-      {
-        "id": 25,
-        "title": "One Piece",
-        "EpisodeCount": 931,
-        "Release": 1999,
-        "imdb_id": "tt0388629",
-        "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
-        "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
-        "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg",
-        "MainCast": [
-          "Luffy",
-          "Zoro",
-          "Nami",
-          "Sanji"
-        ]
-      },
-      {
-        "id": 26,
-        "title": "Soul Eater",
-        "EpisodeCount": 51,
-        "Release": 2008,
-        "imdb_id": "tt1214085",
-        "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 duo's. These pairs are a partnership between a weapon meister and a human weapon.",
-        "horizontal_img" :"https://cdn.wallpapersafari.com/60/81/lneRxH.jpg",
-        "vertical_img":"https://pm1.narvii.com/6083/d2b4c8df4706d986fc8f60487fd85ea4469d151d_hq.jpg",
-        "MainCast": [
-          "Maka",
-          "Death The Kid",
-          "Crona"
-        ]
-      }
-    ]  
+      "id": 0,
+      "title": "hunter x hunter (2011)",
+      "EpisodeCount": 148,
+      "Release": 2011,
+      "imdb_id": "tt2098220",
+      "description": "A Young boy named gon goes on an adventure to find his father.",
+      "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
+      "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Death Note",
+      "EpisodeCount": 37,
+      "Release": 2006,
+      "imdb_id": "tt0877057",
+      "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+      "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+      "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg"
+    },
+    {
+      "id": 2,
+      "title": "One Punch Man",
+      "EpisodeCount": 24,
+      "Release": 2015,
+      "imdb_id": "tt4508902",
+      "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
+      "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
+      "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg"
+    },
+    {
+      "id": 3,
+      "title": "One Piece",
+      "EpisodeCount": 931,
+      "Release": 1999,
+      "imdb_id": "tt0388629",
+      "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+      "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Naruto",
+      "EpisodeCount": 220,
+      "Release": 2007,
+      "imdb_id": "tt0409591",
+      "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+      "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Attack on Titan",
+      "EpisodeCount": 75,
+      "Release": 2013,
+      "imdb_id": "tt2560140",
+      "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+      "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+      "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Black Clover",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt7441658",
+      "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+      "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tokyo Goul",
+      "EpisodeCount": 48,
+      "Release": 2014,
+      "imdb_id": "tt3741634",
+      "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Promised Neverland",
+      "EpisodeCount": 23,
+      "Release": 2019,
+      "imdb_id": "tt8788458",
+      "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
+      "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Monster",
+      "EpisodeCount": 74,
+      "Release": 2004,
+      "imdb_id": "tt0434706",
+      "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
+      "horizontal_img" :"https://i.redd.it/k1u1qqhte3b11.png",
+      "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Disastrous Life of Saiki K",
+      "EpisodeCount": 120,
+      "Release": 2016,
+      "imdb_id": "tt6354518",
+      "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1"
+    }
+  ],
+  "Search_Anime" : [
+    {
+      "id": 0,
+      "title": "hunter x hunter (2011)",
+      "EpisodeCount": 148,
+      "Release": 2011,
+      "imdb_id": "tt2098220",
+      "description": "A Young boy named gon goes on an adventure to find his father.",
+      "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
+      "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Death Note",
+      "EpisodeCount": 37,
+      "Release": 2006,
+      "imdb_id": "tt0877057",
+      "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+      "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+      "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg"
+    },
+    {
+      "id": 2,
+      "title": "One Punch Man",
+      "EpisodeCount": 24,
+      "Release": 2015,
+      "imdb_id": "tt4508902",
+      "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
+      "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
+      "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg"
+    },
+    {
+      "id": 3,
+      "title": "One Piece",
+      "EpisodeCount": 931,
+      "Release": 1999,
+      "imdb_id": "tt0388629",
+      "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+      "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Naruto",
+      "EpisodeCount": 220,
+      "Release": 2007,
+      "imdb_id": "tt0409591",
+      "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+      "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Attack on Titan",
+      "EpisodeCount": 75,
+      "Release": 2013,
+      "imdb_id": "tt2560140",
+      "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+      "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+      "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Black Clover",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt7441658",
+      "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+      "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tokyo Goul",
+      "EpisodeCount": 48,
+      "Release": 2014,
+      "imdb_id": "tt0877057",
+      "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Promised Neverland",
+      "EpisodeCount": 23,
+      "Release": 2019,
+      "imdb_id": "tt8788458",
+      "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
+      "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Monster",
+      "EpisodeCount": 74,
+      "Release": 2004,
+      "imdb_id": "tt0434706",
+      "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
+      "horizontal_img" :"https://i.redd.it/k1u1qqhte3b11.png",
+      "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Disastrous Life of Saiki K",
+      "EpisodeCount": 120,
+      "Release": 2016,
+      "imdb_id": "tt6354518",
+      "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1"
+    },
+    {
+      "id": 11,
+      "title": "Demon Slayer",
+      "EpisodeCount": 26,
+      "Release": 2019,
+      "imdb_id": "tt9335498",
+      "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png"
+    },
+    {
+      "id": 12,
+      "title": "Dragon Ball Z",
+      "EpisodeCount": 291,
+      "Release": 1989,
+      "imdb_id": "tt0214341",
+      "description": "Dragon Ball Z picks up five years after the end of the Dragon Ball anime, with Goku now a young adult and father to his son, Gohan.",
+      "horizontal_img" :"https://res.cloudinary.com/sfp/image/upload/oth/FunimationStoreFront/1327320/Latvian/1327320_Latvian_ShowMasterKeyArt_64ef4571-7178-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FN6NljssFQscbE0HgnJgEbj_kpcDB-FG5Nd1peTacNo9GXok"
+    },
+    {
+      "id": 13,
+      "title": "Haiku!",
+      "EpisodeCount": 60,
+      "Release": 2015,
+      "imdb_id": "tt3398540",
+      "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+      "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Fullmetal Alchemist Brotherhood ",
+      "EpisodeCount": 64,
+      "Release": 2009,
+      "imdb_id": "tt1355642",
+      "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+      "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_"
+    },
+    {
+      "id": 15,
+      "title": "Steins Gate",
+      "EpisodeCount": 24,
+      "Release": 2009,
+      "imdb_id": "tt1910272",
+      "description": "Steins; Gate is a story about time travel and the consequences of it's misuse. The protagonist is a man named Okabe Rintarou; a self-proclaimed 'mad scientist' who goes by the name of Hououin Kyouma.",
+      "horizontal_img" :"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTT67rYLbSnBxaVl3AiPhBbxfeNtGrCDeDbqNLKUQspIbGyatDOVGjbramCbXyWC29lr2mFcNW2qyzTeqhT-H3ccmaeD.jpg?r=01b",
+      "vertical_img":"https://3.bp.blogspot.com/-l508OwhRMMU/Woh10Sh93GI/AAAAAAAAEpA/AqcjTYoLbsYCixgyKOtovFHed1Z0Gui5gCLcBGAs/s1600/Steins%253BGate%2BPoster.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Code Geass",
+      "EpisodeCount": 55,
+      "Release": 2006,
+      "imdb_id": "tt0994314",
+      "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
+      "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w"
+    },
+    {
+      "id": 17,
+      "title": "Naruto Shippuden",
+      "EpisodeCount": 500,
+      "Release": 2007,
+      "imdb_id": "tt0988824",
+      "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
+      "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
+      "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Bleach",
+      "EpisodeCount": 366,
+      "Release": 2004,
+      "imdb_id": "tt0434665",
+      "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+      "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9"
+    },
+    {
+      "id": 19,
+      "title": "Seven Deadly Sins",
+      "EpisodeCount": 78,
+      "Release": 2014,
+      "imdb_id": "tt3909224",
+      "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Fairy Tail ",
+      "EpisodeCount": 328,
+      "Release": 2012,
+      "imdb_id": "tt1528406",
+      "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+      "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+      "vertical_img":"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Cowboy Bepop",
+      "EpisodeCount": 26,
+      "Release": 1998,
+      "imdb_id": "tt0213338",
+      "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+      "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3"
+    },
+    {
+      "id": 22,
+      "title": "Sword Art Online",
+      "EpisodeCount": 25,
+      "Release": 2012,
+      "imdb_id": "tt2250192",
+      "description": "The series takes place in the near future and focuses on protagonist Kazuto 'Kirito' Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds.",
+      "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdnlEW9NXXBZ-XdYmgq_5UvNFD2-EZPc9gYhwod4qC3wXOL6nwBpeg_G1NAGsGMlqW-gpE_ywzqwC2aGiki2s2yEi1oL.jpg?r=ced",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN42eiTyvM1qOr1YCCt12NsPB14lz4r6rKT35QFNHnq_CD5Z0m"
+    },
+    {
+      "id": 23,
+      "title": "Akame Ga Kill",
+      "EpisodeCount": 24,
+      "Release": 2014,
+      "imdb_id": "tt3742982",
+      "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Banana Fish",
+      "EpisodeCount": 24,
+      "Release": 2018,
+      "imdb_id": "tt8515016",
+      "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
+      "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/986b4a47b5e1139b1917896accf085de99ace909b84c533f57cc878efc4c460b._UY500_UX667_RI_V_TTW_.jpg",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Dr. Stone",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt9679542",
+      "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
+      "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200"
+    },
+    {
+      "id": 26,
+      "title": "Jojos Bizzare Adventure",
+      "EpisodeCount": 150,
+      "Release": 2012,
+      "imdb_id": "tt2359704",
+      "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
+      "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+      "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Boruto",
+      "EpisodeCount": 199,
+      "Release": 2017,
+      "imdb_id": "tt6342474",
+      "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg"
+    },
+    {
+      "id": 28,
+      "title": "No Game No life",
+      "EpisodeCount": 12,
+      "Release": 2014,
+      "imdb_id": "tt3431758",
+      "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg"
+    },
+    {
+      "id": 29,
+      "title": "Fate/Zero",
+      "EpisodeCount": 25,
+      "Release": 2011,
+      "imdb_id": "tt2051178",
+      "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Gintama",
+      "EpisodeCount": 367,
+      "Release": 2006,
+      "imdb_id": "tt0988818",
+      "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj"
+    },
+    {
+      "id": 31,
+      "title": "Assassination Classroom",
+      "EpisodeCount": 48,
+      "Release": 2015,
+      "imdb_id": "tt3837246",
+      "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Mob Physco 100",
+      "EpisodeCount": 37,
+      "Release": 2016,
+      "imdb_id": "tt5897304",
+      "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1555438/Latvian/1555438_Latvian_ShowMasterKeyArt_76757223-1a15-e911-8175-020165574d09.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356"
+    },
+    {
+      "id": 33,
+      "title": "Prison School",
+      "EpisodeCount": 12,
+      "Release": 2015,
+      "imdb_id": "tt4917066",
+      "description": "Kiyoshi, a new student, is sent to Hachimitsu Academy's prison, where harsh punishment awaits.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1301063/Latvian/1301063_Latvian_ShowMasterKeyArt_c212eb78-deff-e611-8175-020165574d09.jpg",
+      "vertical_img": "https://m.media-amazon.com/images/M/MV5BZDQzYmM5MWItNTEyYy00YWEyLTk0Y2YtNTYxODliZDdlOWMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Cells at work",
+      "EpisodeCount": 28,
+      "Release": 2018,
+      "imdb_id": "tt8673610",
+      "description": "One newcomer red blood cell just wants to do her job. Between bacteria incursions and meeting a certain white blood cell, she's got a lot to learn.",
+      "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVvyXJZ1tXWCB1kboprVwLWZPDqljX3Rwwi0EdkEToB_Uq7yhHbVqj9ynH6K0a6Sc8E2UsfrRGcXwginCwLYvP3g6dn-.jpg?r=0c6",
+      "vertical_img":"https://img.reelgood.com/content/show/680fa933-bcb6-42e4-812f-9c0ec4a76969/poster-780.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Clannad",
+      "EpisodeCount": 24,
+      "Release": 2007,
+      "imdb_id": "tt1118804",
+      "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
+      "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy"
+    },
+    {
+      "id": 36,
+      "title": "Ouran High School Host Club ",
+      "EpisodeCount": 26,
+      "Release": 2006,
+      "imdb_id": "tt0816397",
+      "description": "A girl at a prestigious school befriends the members of a 'host club'.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/4a92ac4e-cbe2-41f5-bfb8-eb11dc479bfd?base_image_bucket_name=image_manager&base_image=569861d4-2f21-42a2-8bf8-69291d544c87&size=1200x630&format=jpeg",
+      "vertical_img":"https://i.pinimg.com/736x/44/da/01/44da012d3ba8769cd8830bbdd66b81eb.jpg"
+    },
+    {
+      "id": 37,
+      "title": "The Disastrous Life of Saiki K.: Reawakened",
+      "EpisodeCount": 6,
+      "Release": 2019,
+      "imdb_id": "tt0409591",
+      "description": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now.",
+      "horizontal_img" :"https://i.ibb.co/9hYJM9v/image.png",
+      "vertical_img":"https://static.wikia.nocookie.net/netflix/images/b/bd/Saikikusuo-no-psinan.jpg/revision/latest?cb=20200729155311"
+    },
+    {
+      "id": 38,
+      "title": "My Hero Academia",
+      "EpisodeCount": 98,
+      "Release": 2016,
+      "imdb_id": "tt5626028",
+      "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+      "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Erased",
+      "EpisodeCount": 13,
+      "Release": 2016,
+      "imdb_id": "tt5249462",
+      "description": "29-year-old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings while he was in 5th grade.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXpiIvgu-rrEswgEAAAZY/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+    {
+      "id": 40,
+      "title": "Violet Evergarden",
+      "EpisodeCount": 14,
+      "Release": 2018,
+      "imdb_id": "tt7078180",
+      "description": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people.",
+      "horizontal_img" :"https://gadgetfreeks.com/wp-content/uploads/2020/06/Violet-Evergarden-Season-2.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH72bGY6j748YjkYjQmoZ1Gs8gDZOiCU96owFwNYFfabTxGTe0"
+    },
+    {
+      "id": 41,
+      "title": "Devilman Crybaby",
+      "EpisodeCount": 10,
+      "Release": 2018,
+      "imdb_id": "tt6660498",
+      "description": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.",
+      "horizontal_img" :"https://blackgirlnerds.com/wp-content/uploads/2018/02/Devilman-Crybaby-Title-image.png",
+      "vertical_img":"https://assets1.ignimgs.com/2017/08/03/devilman-crybaby-tv-2-1501799414205.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Parastye: The Maxim",
+      "EpisodeCount": 24,
+      "Release": 2014,
+      "imdb_id": "tt3358020",
+      "description": "17-year-old Shinichi Izumi is partially infected by a Parasyte; monsters that butcher and consume humans.",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbbYWSRBB9MFAHs1LTze6-PqcR2kwFKj4K8yprJt92cuhELnNP_yVuXnrDPi8FM6KhxZEYnSyob9pH4CVWAhamEiC6Y.webp?r=c47",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71mhz6bfM9L._SL1280_.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Love is war",
+      "EpisodeCount": 25,
+      "Release": 2019,
+      "imdb_id": "tt9522300",
+      "description": "The proudly privileged top two students of an elite school each makes it their mission to be the first to extract a confession of love from the other.",
+      "horizontal_img" :"https://www.ntdaily.com/wp-uploads/2020/07/kaguya-sama-a-1-pictures-1024x576.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Yu Yu Hakusho",
+      "EpisodeCount": 112,
+      "Release": 1993,
+      "imdb_id": "tt0185133",
+      "description": "One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/e6f09891-7847-42f5-91eb-1bc17fe8dc5b?base_image_bucket_name=image_manager&base_image=c5242ebe-4604-468c-9aa6-b2523b06ed19&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://i.pinimg.com/originals/3c/e8/4d/3ce84ddaa4e3c6e5d49ed6c2e2437cbc.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Fire Force",
+      "EpisodeCount": 48,
+      "Release": 2019,
+      "imdb_id": "tt9307686",
+      "description": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
+      "horizontal_img" :"https://media.cdn.adultswim.com/uploads/20190820/198201040151-2_19722172249-FireForce__searchImage_.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BY2IyMDA0NGEtZjIyOS00NjU0LThlOTctODA0OTZmMDU2ZTMxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Danganropa",
+      "EpisodeCount": 13,
+      "Release": 2013,
+      "imdb_id": "tt2902582",
+      "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1319406/Latvian/1319406_Latvian_ShowMasterKeyArt_66ad06d1-7078-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://theanimeaccord.files.wordpress.com/2017/01/139147_front.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Jujutsu Kaisen",
+      "EpisodeCount": 24,
+      "Release": 2020,
+      "imdb_id": "tt12343534",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "horizontal_img" :"https://is3-ssl.mzstatic.com/image/thumb/m26fHol7IkcmHCuq6kHOtg/1200x675.jpg",
+      "vertical_img":"https://i.ibb.co/jbZ79jf/Screenshot-2021-03-02-100858.png"
+    },
+    {
+      "id": 48,
+      "title": "Tower Of God",
+      "EpisodeCount": 13,
+      "Release": 2020,
+      "imdb_id": "tt12057106",
+      "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
+      "horizontal_img" :"https://i2.wp.com/butwhythopodcast.com/wp-content/uploads/2020/06/95A5BF7A-8EF9-4548-B3AC-762345BCBF2A.jpeg?fit=800%2C449&ssl=1",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/518DZacSyRL.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Beastars",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt11043632",
+      "description": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts.",
+      "horizontal_img" :"https://i.ibb.co/9NMpH3t/Screenshot-2021-02-19-162815.png",
+      "vertical_img":"https://miro.medium.com/max/680/1*OFtBDF1VO8wh2_j32Pu87g.jpeg"
+    },
+    {
+      "id": 50,
+      "title": "Dragon ball Super",
+      "EpisodeCount": 131,
+      "Release": 2015,
+      "imdb_id": "tt4644488",
+      "description": "Six months after the defeat of Majin Buu, The mighty Saiyan Son Goku continues his quest on becoming stronger.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/0921b58c-bef9-4a4d-a677-03ec7745428c?base_image_bucket_name=image_manager&base_image=c6182167-be22-4128-aa41-c52261c53837&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJhQmNj-JMkozbhnnnewl4bkVq9ekD1gdCiTIp77oH1PolZmm"
+    },
+    {
+      "id": 51,
+      "title": "Vinland Saga",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt10233448",
+      "description": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
+      "horizontal_img" :"https://image.tmdb.org/t/p/w780/epeKkcetNXp6s4J4iRHpe92ahCN.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/vinlandsaga/images/2/2b/Key_Visual_3.1.png/revision/latest?cb=20190627131600"
+    },
+    {
+      "id": 52,
+      "title": "The Future Diary",
+      "EpisodeCount": 27,
+      "Release": 2011,
+      "imdb_id": "tt2069441",
+      "description": "A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.",
+      "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/0c43ee4a-8e87-4864-8496-7b215c2a3976?base_image_bucket_name=image_manager&base_image=75dea922-885d-45a2-ad97-f0ab6f8f2344&size=1200x630&format=jpeg",
+      "vertical_img":"https://resizing.flixster.com/XMnMEsIiBQIT5XrJs0G5WHUj5DA=/206x305/v1.dDs0MDc1NTA7ajsxODY3OTsxMjAwOzgwMDsxMjAw"
+    },
+    {
+      "id": 53,
+      "title": "Soul Eater",
+      "EpisodeCount": 51,
+      "Release": 2008,
+      "imdb_id": "tt1214085",
+      "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 duo's. These pairs are a partnership between a weapon meister and a human weapon.",
+      "horizontal_img" :"https://cdn.wallpapersafari.com/60/81/lneRxH.jpg",
+      "vertical_img":"https://pm1.narvii.com/6083/d2b4c8df4706d986fc8f60487fd85ea4469d151d_hq.jpg"
+    }
+  ],
+  "Top_Anime": [
+    {
+      "id": 0,
+      "title": "hunter x hunter (2011)",
+      "EpisodeCount": 148,
+      "Release": 2011,
+      "imdb_id": "tt2098220",
+      "description": "A Young boy named gon goes on an adventure to find his father.",
+      "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
+      "vertical_img":"https://technoinfoplus.com/wp-content/uploads/2020/11/115651492.jpg"
+    },
+    {
+      "id": 1,
+      "title": "One Piece",
+      "EpisodeCount": 931,
+      "Release": 1999,
+      "imdb_id": "tt0388629",
+      "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+      "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Naruto",
+      "EpisodeCount": 220,
+      "Release": 2007,
+      "imdb_id": "tt0409591",
+      "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+      "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Attack on Titan",
+      "EpisodeCount": 75,
+      "Release": 2013,
+      "imdb_id": "tt2560140",
+      "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+      "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+      "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Demon Slayer",
+      "EpisodeCount": 26,
+      "Release": 2019,
+      "imdb_id": "tt9335498",
+      "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png"
+    },
+    {
+      "id": 5,
+      "title": "Dragon Ball Z",
+      "EpisodeCount": 291,
+      "Release": 1989,
+      "imdb_id": "tt0214341",
+      "description": "Dragon Ball Z picks up five years after the end of the Dragon Ball anime, with Goku now a young adult and father to his son, Gohan.",
+      "horizontal_img" :"https://res.cloudinary.com/sfp/image/upload/oth/FunimationStoreFront/1327320/Latvian/1327320_Latvian_ShowMasterKeyArt_64ef4571-7178-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FN6NljssFQscbE0HgnJgEbj_kpcDB-FG5Nd1peTacNo9GXok"
+    },
+    {
+      "id": 6,
+      "title": "Haiku!",
+      "EpisodeCount": 60,
+      "Release": 2015,
+      "imdb_id": "tt3398540",
+      "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+      "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Death Note",
+      "EpisodeCount": 37,
+      "Release": 2006,
+      "imdb_id": "tt0877057",
+      "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+      "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+      "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Tokyo Goul",
+      "EpisodeCount": 48,
+      "Release": 2014,
+      "imdb_id": "tt0877057",
+      "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fullmetal Alchemist Brotherhood ",
+      "EpisodeCount": 64,
+      "Release": 2009,
+      "imdb_id": "tt1355642",
+      "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+      "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_"
+    },
+    {
+      "id": 10,
+      "title": "Steins Gate",
+      "EpisodeCount": 24,
+      "Release": 2009,
+      "imdb_id": "tt1910272",
+      "description": "Steins; Gate is a story about time travel and the consequences of it's misuse. The protagonist is a man named Okabe Rintarou; a self-proclaimed 'mad scientist' who goes by the name of Hououin Kyouma.",
+      "horizontal_img" :"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTT67rYLbSnBxaVl3AiPhBbxfeNtGrCDeDbqNLKUQspIbGyatDOVGjbramCbXyWC29lr2mFcNW2qyzTeqhT-H3ccmaeD.jpg?r=01b",
+      "vertical_img":"https://3.bp.blogspot.com/-l508OwhRMMU/Woh10Sh93GI/AAAAAAAAEpA/AqcjTYoLbsYCixgyKOtovFHed1Z0Gui5gCLcBGAs/s1600/Steins%253BGate%2BPoster.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Code Geass",
+      "EpisodeCount": 55,
+      "Release": 2006,
+      "imdb_id": "tt0994314",
+      "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
+      "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w"
+    },
+    {
+      "id": 12,
+      "title": "Naruto Shippuden",
+      "EpisodeCount": 500,
+      "Release": 2007,
+      "imdb_id": "tt0988824",
+      "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
+      "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
+      "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Bleach",
+      "EpisodeCount": 366,
+      "Release": 2004,
+      "imdb_id": "tt0434665",
+      "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+      "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9"
+    },
+    {
+      "id": 14,
+      "title": "Seven Deadly Sins",
+      "EpisodeCount": 78,
+      "Release": 2014,
+      "imdb_id": "tt3909224",
+      "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Fairy Tail ",
+      "EpisodeCount": 328,
+      "Release": 2012,
+      "imdb_id": "tt1528406",
+      "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+      "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+      "vertical_img":"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Black Clover",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt7441658",
+      "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+      "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Cowboy Bepop",
+      "EpisodeCount": 26,
+      "Release": 1998,
+      "imdb_id": "tt0213338",
+      "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+      "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3"
+    }
+  ],
+  "Adventure_Anime": [
+    {
+      "id": 0,
+      "title": "Fullmetal Alchemist Brotherhood ",
+      "EpisodeCount": 64,
+      "Release": 2009,
+      "imdb_id": "tt1355642",
+      "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+      "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_"
+    },
+    {
+      "id": 1,
+      "title": "Fairy Tail ",
+      "EpisodeCount": 328,
+      "Release": 2012,
+      "imdb_id": "tt1528406",
+      "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+      "horizontal_img" :"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cowboy Bepop",
+      "EpisodeCount": 26,
+      "Release": 1998,
+      "imdb_id": "tt0213338",
+      "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+      "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3"
+    },
+    {
+      "id": 3,
+      "title": "Sword Art Online",
+      "EpisodeCount": 25,
+      "Release": 2012,
+      "imdb_id": "tt2250192",
+      "description": "The series takes place in the near future and focuses on protagonist Kazuto 'Kirito' Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds.",
+      "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdnlEW9NXXBZ-XdYmgq_5UvNFD2-EZPc9gYhwod4qC3wXOL6nwBpeg_G1NAGsGMlqW-gpE_ywzqwC2aGiki2s2yEi1oL.jpg?r=ced",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN42eiTyvM1qOr1YCCt12NsPB14lz4r6rKT35QFNHnq_CD5Z0m"
+    },
+    {
+      "id": 4,
+      "title": "Seven Deadly Sins",
+      "EpisodeCount": 78,
+      "Release": 2014,
+      "imdb_id": "tt3909224",
+      "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Akame Ga Kill",
+      "EpisodeCount": 24,
+      "Release": 2014,
+      "imdb_id": "tt3742982",
+      "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Banana Fish",
+      "EpisodeCount": 24,
+      "Release": 2018,
+      "imdb_id": "tt8515016",
+      "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
+      "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/986b4a47b5e1139b1917896accf085de99ace909b84c533f57cc878efc4c460b._UY500_UX667_RI_V_TTW_.jpg",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg"
+    },
+    {
+      "id": 7,
+      "title": "hunter x hunter (2011)",
+      "EpisodeCount": 148,
+      "Release": 2011,
+      "imdb_id": "tt2098220",
+      "description": "A Young boy named gon goes on an adventure to find his father.",
+      "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
+      "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Dr. Stone",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt9679542",
+      "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
+      "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200"
+    },
+    {
+      "id": 9,
+      "title": "Jojos Bizzare Adventure",
+      "EpisodeCount": 150,
+      "Release": 2012,
+      "imdb_id": "tt2359704",
+      "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
+      "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+      "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Naruto",
+      "EpisodeCount": 220,
+      "Release": 2007,
+      "imdb_id": "tt0409591",
+      "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+      "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Bleach",
+      "EpisodeCount": 366,
+      "Release": 2004,
+      "imdb_id": "tt0434665",
+      "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+      "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9"
+    },
+    {
+      "id": 12,
+      "title": "Boruto",
+      "EpisodeCount": 199,
+      "Release": 2017,
+      "imdb_id": "tt6342474",
+      "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Attack on Titan",
+      "EpisodeCount": 75,
+      "Release": 2013,
+      "imdb_id": "tt2560140",
+      "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+      "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+      "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "No Game No life",
+      "EpisodeCount": 12,
+      "Release": 2014,
+      "imdb_id": "tt3431758",
+      "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg"
+    },
+    {
+      "id": 15,
+      "title": "Black Clover",
+      "EpisodeCount": 153,
+      "Release": 1986,
+      "imdb_id": "tt7441658",
+      "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+      "horizontal_img" :"https://i.ytimg.com/vi/aaZq6SXXNt4/maxresdefault.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Dragon Ball",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt0088509",
+      "description": "Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.",
+      "horizontal_img" :"https://1.bp.blogspot.com/-AizBPErEwrg/XPYbEi3OTZI/AAAAAAAAAFs/C2Ac9bRDWo8wM-8GPxvuhauROBgK2TpjQCLcBGAs/s1600/dragonball%2Bcover.jpg",
+      "vertical_img":"https://www.themoviedb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Fate/Zero",
+      "EpisodeCount": 25,
+      "Release": 2011,
+      "imdb_id": "tt2051178",
+      "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg"
+    }
+  ],
+  "Comical_Anime": [
+    {
+      "id": 0,
+      "title": "Gintama",
+      "EpisodeCount": 367,
+      "Release": 2006,
+      "imdb_id": "tt0988818",
+      "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj"
+    },
+    {
+      "id": 1,
+      "title": "One Punch Man",
+      "EpisodeCount": 24,
+      "Release": 2015,
+      "imdb_id": "tt4508902",
+      "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
+      "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
+      "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Assassination Classroom",
+      "EpisodeCount": 48,
+      "Release": 2015,
+      "imdb_id": "tt3837246",
+      "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mob Physco 100",
+      "EpisodeCount": 37,
+      "Release": 2016,
+      "imdb_id": "tt5897304",
+      "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1555438/Latvian/1555438_Latvian_ShowMasterKeyArt_76757223-1a15-e911-8175-020165574d09.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356"
+    },
+    {
+      "id": 4,
+      "title": "The Disastrous Life of Saiki K",
+      "EpisodeCount": 120,
+      "Release": 2016,
+      "imdb_id": "tt6354518",
+      "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1"
+    },
+    {
+      "id": 5,
+      "title": "Prison School",
+      "EpisodeCount": 12,
+      "Release": 2015,
+      "imdb_id": "tt4917066",
+      "description": "Kiyoshi, a new student, is sent to Hachimitsu Academy's prison, where harsh punishment awaits.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1301063/Latvian/1301063_Latvian_ShowMasterKeyArt_c212eb78-deff-e611-8175-020165574d09.jpg",
+      "vertical_img": "https://m.media-amazon.com/images/M/MV5BZDQzYmM5MWItNTEyYy00YWEyLTk0Y2YtNTYxODliZDdlOWMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cells at work",
+      "EpisodeCount": 28,
+      "Release": 2018,
+      "imdb_id": "tt8673610",
+      "description": "One newcomer red blood cell just wants to do her job. Between bacteria incursions and meeting a certain white blood cell, she's got a lot to learn.",
+      "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVvyXJZ1tXWCB1kboprVwLWZPDqljX3Rwwi0EdkEToB_Uq7yhHbVqj9ynH6K0a6Sc8E2UsfrRGcXwginCwLYvP3g6dn-.jpg?r=0c6",
+      "vertical_img":"https://img.reelgood.com/content/show/680fa933-bcb6-42e4-812f-9c0ec4a76969/poster-780.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Maid Sama",
+      "EpisodeCount": 28,
+      "Release": 2010,
+      "imdb_id": "tt1634208",
+      "description": "Ayuzawa Misaki serves as the student council president at Seika High. However, unbeknownst to her classmates, she works part-time as an employee at a Maid Cafe. Usui Takumi, a boy from her school, discovers this secret.",
+      "horizontal_img" :"https://i.ytimg.com/vi/NqPZ2EwRvds/maxresdefault.jpg",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/igkn0M1bgMeATz59LShvVxZNdVd.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Clannad",
+      "EpisodeCount": 24,
+      "Release": 2007,
+      "imdb_id": "tt1118804",
+      "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
+      "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy"
+    },
+    {
+      "id": 9,
+      "title": "Ouran High School Host Club ",
+      "EpisodeCount": 26,
+      "Release": 2006,
+      "imdb_id": "tt0816397",
+      "description": "A girl at a prestigious school befriends the members of a 'host club'.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/4a92ac4e-cbe2-41f5-bfb8-eb11dc479bfd?base_image_bucket_name=image_manager&base_image=569861d4-2f21-42a2-8bf8-69291d544c87&size=1200x630&format=jpeg",
+      "vertical_img":"https://i.pinimg.com/736x/44/da/01/44da012d3ba8769cd8830bbdd66b81eb.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Disastrous Life of Saiki K.: Reawakened",
+      "EpisodeCount": 6,
+      "Release": 2019,
+      "imdb_id": "tt0409591",
+      "description": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now.",
+      "horizontal_img" :"https://i.ibb.co/9hYJM9v/image.png",
+      "vertical_img":"https://static.wikia.nocookie.net/netflix/images/b/bd/Saikikusuo-no-psinan.jpg/revision/latest?cb=20200729155311"
+    },
+    {
+      "id": 11,
+      "title": "My Hero Academia",
+      "EpisodeCount": 98,
+      "Release": 2016,
+      "imdb_id": "tt5626028",
+      "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+      "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg"
+    }
+  ],
+  "Shows_Top": [
+    {
+      "id": 0,
+      "title": "hunter x hunter (2011)",
+      "EpisodeCount": 148,
+      "Release": 2011,
+      "imdb_id": "tt2098220",
+      "description": "A Young boy named gon goes on an adventure to find his father.",
+      "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
+      "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Attack on Titan",
+      "EpisodeCount": 75,
+      "Release": 2013,
+      "imdb_id": "tt2560140",
+      "description": "Attack on Titan centers on a civilization inside three walls, the last location where humans still live. Over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight.",
+      "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXG4TaeiD_NaWzeegrW0mX_f8gtXQ5QnK0YzDvyj7TSU7X7D4OLEqd8npJjgS-Xl3KCLNjjgBpmM7I6tZ8f3N8O5Rf3O.jpg?r=5dd",
+      "vertical_img":"https://miro.medium.com/max/2560/1*7e8qoT5T26S5PTf568frrg.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "My Hero Academia",
+      "EpisodeCount": 98,
+      "Release": 2016,
+      "imdb_id": "tt5626028",
+      "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+      "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg"
+    },
+    {
+      "id": 3,
+      "title": "One Piece",
+      "EpisodeCount": 931,
+      "Release": 1999,
+      "imdb_id": "tt0388629",
+      "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+      "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Erased",
+      "EpisodeCount": 13,
+      "Release": 2016,
+      "imdb_id": "tt5249462",
+      "description": "29-year-old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings while he was in 5th grade.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXpiIvgu-rrEswgEAAAZY/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fullmetal Alchemist Brotherhood ",
+      "EpisodeCount": 64,
+      "Release": 2009,
+      "imdb_id": "tt1355642",
+      "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+      "horizontal_img" :"https://www.anmosugoi.com/wp-content/uploads/2019/08/full.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH4kNNlWXVcvgie3rE5wH0OHJOhxzok0Qdx1vY7TY6iNi5xU_"
+    },
+    {
+      "id": 6,
+      "title": "Black Clover",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt7441658",
+      "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+      "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Violet Evergarden",
+      "EpisodeCount": 14,
+      "Release": 2018,
+      "imdb_id": "tt7078180",
+      "description": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people.",
+      "horizontal_img" :"https://gadgetfreeks.com/wp-content/uploads/2020/06/Violet-Evergarden-Season-2.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH72bGY6j748YjkYjQmoZ1Gs8gDZOiCU96owFwNYFfabTxGTe0"
+    },
+    {
+      "id": 8,
+      "title": "Demon Slayer",
+      "EpisodeCount": 26,
+      "Release": 2019,
+      "imdb_id": "tt9335498",
+      "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png"
+    },
+    {
+      "id": 9,
+      "title": "One Punch Man",
+      "EpisodeCount": 24,
+      "Release": 2015,
+      "imdb_id": "tt4508902",
+      "description": "Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.",
+      "horizontal_img" :"https://i.imgur.com/XAWQPuC.png",
+      "vertical_img":"https://www.animephproject.com/wp-content/uploads/2018/10/one-punch-man.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Code Geass",
+      "EpisodeCount": 55,
+      "Release": 2006,
+      "imdb_id": "tt0994314",
+      "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
+      "horizontal_img" :"https://occ-0-540-1335.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY3vZXypjSYNzRi3qecLUV_TrAT3NHbJ5ba0_rF4YIFWTl0x_9CqKfHFLQJdhYkvq9YB1WHRyUBgCdJvBj7RiN_wWF4.jpg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w"
+    },
+    {
+      "id": 11,
+      "title": "Devilman Crybaby",
+      "EpisodeCount": 10,
+      "Release": 2018,
+      "imdb_id": "tt6660498",
+      "description": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.",
+      "horizontal_img" :"https://blackgirlnerds.com/wp-content/uploads/2018/02/Devilman-Crybaby-Title-image.png",
+      "vertical_img":"https://assets1.ignimgs.com/2017/08/03/devilman-crybaby-tv-2-1501799414205.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Black Butler",
+      "EpisodeCount": 37,
+      "Release": 2008,
+      "imdb_id": "tt1316554",
+      "description": "A young boy sells his soul to a demon in order to avenge his family's death and successfully lead their influential toy manufacturing company.",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/f1f053e2-ed2e-437c-94c6-c4e557e79bbc?base_image_bucket_name=image_manager&base_image=a4561687-5070-49b7-8f7f-ce51ee97c26c&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-yLijvyiac8fyhQNHa2Dg142K-7CUDJa-CeGA0aom57eRbtQ7"
+    },
+    {
+      "id": 13,
+      "title": "Parastye: The Maxim",
+      "EpisodeCount": 24,
+      "Release": 2014,
+      "imdb_id": "tt3358020",
+      "description": "17-year-old Shinichi Izumi is partially infected by a Parasyte; monsters that butcher and consume humans.",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbbYWSRBB9MFAHs1LTze6-PqcR2kwFKj4K8yprJt92cuhELnNP_yVuXnrDPi8FM6KhxZEYnSyob9pH4CVWAhamEiC6Y.webp?r=c47",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71mhz6bfM9L._SL1280_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Dr. Stone",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt9679542",
+      "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
+      "horizontal_img" :"https://www.godisageek.com/wp-content/uploads/dr-stone-crunchyroll.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/toonami/images/7/77/Dr_Stone.jpg/revision/latest?cb=20190817000200"
+    },
+    {
+      "id": 15,
+      "title": "Seven Deadly Sins",
+      "EpisodeCount": 78,
+      "Release": 2014,
+      "imdb_id": "tt3909224",
+      "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowMasterKeyArt_05f51924-a478-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Fairy Tail ",
+      "EpisodeCount": 328,
+      "Release": 2012,
+      "imdb_id": "tt1528406",
+      "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
+      "horizontal_img" :"http://www.questionablecritics.com/uploads/7/0/9/2/70926367/ft_orig.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Bleach",
+      "EpisodeCount": 366,
+      "Release": 2004,
+      "imdb_id": "tt0434665",
+      "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+      "horizontal_img" :"https://nerdgeistdotcom.files.wordpress.com/2017/04/bleach-hero.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2hARqHfwYHf2MTjqT4x4bXQgLjQlpKxgUdD8KmvHhve5G_g9"
+    },
+    {
+      "id": 18,
+      "title": "Naruto Shippuden",
+      "EpisodeCount": 500,
+      "Release": 2007,
+      "imdb_id": "tt0988824",
+      "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
+      "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/c6321cb1-1879-4d7f-9e2f-8d7d4fc55544?base_image_bucket_name=image_manager&base_image=6206d6d0-4cd7-47b2-9cb7-e24b194fbc85&size=1200x630&format=jpeg",
+      "vertical_img":"https://www.anime-planet.com/images/anime/covers/naruto-shippuden-1131.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Clannad",
+      "EpisodeCount": 24,
+      "Release": 2007,
+      "imdb_id": "tt1118804",
+      "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
+      "horizontal_img" :"https://steamcdn-a.akamaihd.net/steam/apps/324160/capsule_616x353.jpg?t=1580427852",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy"
+    },
+    {
+      "id": 20,
+      "title": "Haiku!",
+      "EpisodeCount": 60,
+      "Release": 2015,
+      "imdb_id": "tt3398540",
+      "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+      "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Mob Physco 100",
+      "EpisodeCount": 37,
+      "Release": 2016,
+      "imdb_id": "tt5897304",
+      "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1555438/Latvian/1555438_Latvian_ShowMasterKeyArt_76757223-1a15-e911-8175-020165574d09.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356"
+    },
+    {
+      "id": 22,
+      "title": "Cowboy Bepop",
+      "EpisodeCount": 26,
+      "Release": 1998,
+      "imdb_id": "tt0213338",
+      "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
+      "horizontal_img" :"https://i.imgur.com/6nj2WPu.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fVRtCNqxngYsSBWuqJWi0qx3wILKjbbuCYGVJW8UFrwB8KC3"
+    },
+    {
+      "id": 23,
+      "title": "Monster",
+      "EpisodeCount": 74,
+      "Release": 2004,
+      "imdb_id": "tt0434706",
+      "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Germany whose life enters turmoil after getting himself involved with Johan Liebert, one of his former patients, who is revealed to be a dangerous serial killer.",
+      "horizontal_img" :"https://i.redd.it/k1u1qqhte3b11.png",
+      "vertical_img":"https://assets.nflxext.com/us/boxshots/hd1080/70205011.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Fate/Zero",
+      "EpisodeCount": 25,
+      "Release": 2011,
+      "imdb_id": "tt2051178",
+      "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/9578a817-6bbb-4ee2-b2ec-b73c28b0ff8a?base_image_bucket_name=image_manager&base_image=6ac9c592-6038-4e8f-aa05-235f2e7b4c68&size=1200x630&format=jpeg",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71xw5z6JKBL.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Gintama",
+      "EpisodeCount": 367,
+      "Release": 2006,
+      "imdb_id": "tt0988818",
+      "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj"
+    },
+    {
+      "id": 26,
+      "title": "Love is war",
+      "EpisodeCount": 25,
+      "Release": 2019,
+      "imdb_id": "tt9522300",
+      "description": "The proudly privileged top two students of an elite school each makes it their mission to be the first to extract a confession of love from the other.",
+      "horizontal_img" :"https://www.ntdaily.com/wp-uploads/2020/07/kaguya-sama-a-1-pictures-1024x576.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    }
+  ],
+  "Shows_Shonen": [
+    {
+      "id": 0,
+      "title": "Black Clover",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt7441658",
+      "description": "Black Clover follows the first adventures of Asta and the Black Bulls in the fictional Clover Kingdom. After Asta receives a grimoire and joins the Black Bulls to become the new Wizard King, he explores a dungeon and meets Mars, a magic knight from the Diamond Kingdom.",
+      "horizontal_img" :"https://images.squarespace-cdn.com/content/v1/57f81d97440243944ef3eeae/1510626640536-QJU3AC8N1WMFKT6HJGH8/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/Black+Clover+banner.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Yu Yu Hakusho",
+      "EpisodeCount": 112,
+      "Release": 1993,
+      "imdb_id": "tt0185133",
+      "description": "One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/e6f09891-7847-42f5-91eb-1bc17fe8dc5b?base_image_bucket_name=image_manager&base_image=c5242ebe-4604-468c-9aa6-b2523b06ed19&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://i.pinimg.com/originals/3c/e8/4d/3ce84ddaa4e3c6e5d49ed6c2e2437cbc.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Food wars",
+      "EpisodeCount": 112,
+      "Release": 2015,
+      "imdb_id": "tt4731072",
+      "description": "Soma Yukihira enrolls in an elite culinary school to become a full-time chef and surpass his father's culinary skills.",
+      "horizontal_img" :"https://cloudfront.first4figures.com/media/resized/l-890-369/blog/1/212_Food_Wars_Shokugeki_no_Soma_TT_Cover.jpg",
+      "vertical_img":"https://resizing.flixster.com/W6UPvuAFCRfpRrk39IsqTxXLC_o=/206x305/v1.dDsyNjIyMTE7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA"
+    },
+    {
+      "id": 3,
+      "title": "The Disastrous Life of Saiki K",
+      "EpisodeCount": 120,
+      "Release": 2016,
+      "imdb_id": "tt6354518",
+      "description": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1492114/Latvian/1492114_Latvian_ShowMasterKeyArt_7451fdca-7078-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/06/the-disasterous-life-of-saiki-k.jpg?resize=284%2C398&ssl=1"
+    },
+    {
+      "id": 4,
+      "title": "Assassination Classroom",
+      "EpisodeCount": 48,
+      "Release": 2015,
+      "imdb_id": "tt3837246",
+      "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Promised Neverland",
+      "EpisodeCount": 23,
+      "Release": 2019,
+      "imdb_id": "tt8788458",
+      "description": "The Promised Neverland follows three protagonists, Emma, Norman, and Ray, along with a cast of orphans who live together. Their lives have been full of joy, that is until the protagonists learn the orphanage is really a farm where children are raised and given to demons to be eaten.",
+      "horizontal_img" :"https://i.ibb.co/0VRKnTp/image.png",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTk7drbROVE48gSvDoWS9Hby5YzsQqg3AAzQ7FOmX2NyvWMYsCumBKP3DVDIHf6z6EGV2l2m9VpNZFwH07bMXOOM-Wzg.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Death Note",
+      "EpisodeCount": 37,
+      "Release": 2006,
+      "imdb_id": "tt0877057",
+      "description": "A teen genius stumbles across a mysterious otherworldly notebook: the Death Note, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+      "horizontal_img" :"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcB_Rvp7GJN4p6tvbMmnYujlOWcRhmDvptH3WWSF2KeDPswD0TujNxisH7NxKnHF2E_tgBTY8s1f8j52hrXBUplytvnB.jpg?r=6cf",
+      "vertical_img":"https://pics.filmaffinity.com/Death_Note_TV_Series-660373023-large.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Naruto",
+      "EpisodeCount": 220,
+      "Release": 2007,
+      "imdb_id": "tt0409591",
+      "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+      "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Jojos Bizzare Adventure",
+      "EpisodeCount": 150,
+      "Release": 2012,
+      "imdb_id": "tt2359704",
+      "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
+      "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
+      "vertical_img":"https://resizing.flixster.com/d6R9nwwwXAKiR9KgC-lGfE7XFAo=/206x305/v1.dDsyODUyNDI7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA"
+    },
+    {
+      "id": 9,
+      "title": "Haiku!",
+      "EpisodeCount": 60,
+      "Release": 2015,
+      "imdb_id": "tt3398540",
+      "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+      "horizontal_img" :"https://i1.wp.com/www.monstersandcritics.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg?fit=1200%2C675&ssl=1",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/71nQwqxnYZL._AC_SY355_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Neon Genesis Evangelion",
+      "EpisodeCount": 29,
+      "Release": 1995,
+      "imdb_id": "tt0112159",
+      "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+      "horizontal_img" :"https://nofilmschool.com/sites/default/files/styles/facebook/public/evangelion-header-2-1146098-1280x0.jpeg?itok=aSZfL-NA",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/9137gjCQBRL.jpg"
+    },
+    {
+      "id": 11,
+      "title": "No Game No life",
+      "EpisodeCount": 12,
+      "Release": 2014,
+      "imdb_id": "tt3431758",
+      "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Fire Force",
+      "EpisodeCount": 48,
+      "Release": 2019,
+      "imdb_id": "tt9307686",
+      "description": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
+      "horizontal_img" :"https://media.cdn.adultswim.com/uploads/20190820/198201040151-2_19722172249-FireForce__searchImage_.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BY2IyMDA0NGEtZjIyOS00NjU0LThlOTctODA0OTZmMDU2ZTMxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Boruto",
+      "EpisodeCount": 199,
+      "Release": 2017,
+      "imdb_id": "tt6342474",
+      "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/e567be4f-2fd8-4127-bc08-580baad908e3?base_image_bucket_name=image_manager&base_image=a91d87f4-f239-4792-9266-b047a2546dea&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://resize.cdn.otakumode.com/full/u/59578e20e9bb4e30b652d7d1d0647f56.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Danganropa",
+      "EpisodeCount": 13,
+      "Release": 2013,
+      "imdb_id": "tt2902582",
+      "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life.",
+      "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1319406/Latvian/1319406_Latvian_ShowMasterKeyArt_66ad06d1-7078-e711-8175-020165574d09.jpg",
+      "vertical_img":"https://theanimeaccord.files.wordpress.com/2017/01/139147_front.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Jujutsu Kaisen",
+      "EpisodeCount": 24,
+      "Release": 2020,
+      "imdb_id": "tt12343534",
+      "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "horizontal_img" :"https://is3-ssl.mzstatic.com/image/thumb/m26fHol7IkcmHCuq6kHOtg/1200x675.jpg",
+      "vertical_img":"https://i.ibb.co/jbZ79jf/Screenshot-2021-03-02-100858.png"
+    },
+    {
+      "id": 16,
+      "title": "hunter x hunter (2011)",
+      "EpisodeCount": 148,
+      "Release": 2011,
+      "imdb_id": "tt2098220",
+      "description": "A Young boy named gon goes on an adventure to find his father.",
+      "horizontal_img" :"https://i.imgur.com/qq86DGn.png",
+      "vertical_img":"https://img.reelgood.com/content/show/917d899e-2dc8-40bc-8817-3c99ed7434f1/poster-780.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Demon Slayer",
+      "EpisodeCount": 26,
+      "Release": 2019,
+      "imdb_id": "tt9335498",
+      "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/2c3e4b00-30d9-434d-bccc-cf346e40e868?base_image_bucket_name=image_manager&base_image=8940a6b8-788b-4683-af9e-b65a3c7fa279&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://i.pinimg.com/originals/a4/9c/3a/a49c3a69841fc1d2e7809b46659e08d5.png"
+    },
+    {
+      "id": 18,
+      "title": "Tower Of God",
+      "EpisodeCount": 13,
+      "Release": 2020,
+      "imdb_id": "tt12057106",
+      "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
+      "horizontal_img" :"https://i2.wp.com/butwhythopodcast.com/wp-content/uploads/2020/06/95A5BF7A-8EF9-4548-B3AC-762345BCBF2A.jpeg?fit=800%2C449&ssl=1",
+      "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/518DZacSyRL.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Akame Ga Kill",
+      "EpisodeCount": 24,
+      "Release": 2014,
+      "imdb_id": "tt3742982",
+      "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Beastars",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt11043632",
+      "description": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts.",
+      "horizontal_img" :"https://i.ibb.co/9NMpH3t/Screenshot-2021-02-19-162815.png",
+      "vertical_img":"https://miro.medium.com/max/680/1*OFtBDF1VO8wh2_j32Pu87g.jpeg"
+    },
+    {
+      "id": 21,
+      "title": "Tokyo Goul",
+      "EpisodeCount": 48,
+      "Release": 2014,
+      "imdb_id": "tt3741634",
+      "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
+      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Dragon ball Super",
+      "EpisodeCount": 131,
+      "Release": 2015,
+      "imdb_id": "tt4644488",
+      "description": "Six months after the defeat of Majin Buu, The mighty Saiyan Son Goku continues his quest on becoming stronger.",
+      "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/0921b58c-bef9-4a4d-a677-03ec7745428c?base_image_bucket_name=image_manager&base_image=c6182167-be22-4128-aa41-c52261c53837&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJhQmNj-JMkozbhnnnewl4bkVq9ekD1gdCiTIp77oH1PolZmm"
+    },
+    {
+      "id": 23,
+      "title": "Vinland Saga",
+      "EpisodeCount": 24,
+      "Release": 2019,
+      "imdb_id": "tt10233448",
+      "description": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
+      "horizontal_img" :"https://image.tmdb.org/t/p/w780/epeKkcetNXp6s4J4iRHpe92ahCN.jpg",
+      "vertical_img":"https://static.wikia.nocookie.net/vinlandsaga/images/2/2b/Key_Visual_3.1.png/revision/latest?cb=20190627131600"
+    },
+    {
+      "id": 24,
+      "title": "The Future Diary",
+      "EpisodeCount": 27,
+      "Release": 2011,
+      "imdb_id": "tt2069441",
+      "description": "A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.",
+      "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/0c43ee4a-8e87-4864-8496-7b215c2a3976?base_image_bucket_name=image_manager&base_image=75dea922-885d-45a2-ad97-f0ab6f8f2344&size=1200x630&format=jpeg",
+      "vertical_img":"https://resizing.flixster.com/XMnMEsIiBQIT5XrJs0G5WHUj5DA=/206x305/v1.dDs0MDc1NTA7ajsxODY3OTsxMjAwOzgwMDsxMjAw"
+    },
+    {
+      "id": 25,
+      "title": "One Piece",
+      "EpisodeCount": 931,
+      "Release": 1999,
+      "imdb_id": "tt0388629",
+      "description": "The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+      "horizontal_img" :"https://i1.wp.com/myotakuworld.com/wp-content/uploads/2020/07/one-piece.jpg?fit=1280%2C720&ssl=1",
+      "vertical_img":"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkojnU-N2-X-MFVmS1xhdhnwWbYlA-m6l1OudcLvAXh9Oeq8lxEjuoHEn6DvCn0hzgLv8pQh96e7PfyoNjkNdZ-lRS4.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Soul Eater",
+      "EpisodeCount": 51,
+      "Release": 2008,
+      "imdb_id": "tt1214085",
+      "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 duo's. These pairs are a partnership between a weapon meister and a human weapon.",
+      "horizontal_img" :"https://cdn.wallpapersafari.com/60/81/lneRxH.jpg",
+      "vertical_img":"https://pm1.narvii.com/6083/d2b4c8df4706d986fc8f60487fd85ea4469d151d_hq.jpg"
+    }
+  ]  
 }
