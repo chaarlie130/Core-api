@@ -1682,5 +1682,97 @@
       "horizontal_img" :"https://cdn.wallpapersafari.com/60/81/lneRxH.jpg",
       "vertical_img":"https://pm1.narvii.com/6083/d2b4c8df4706d986fc8f60487fd85ea4469d151d_hq.jpg"
     }
-  ]  
+  ],
+  "Movies" : [
+    {
+      "id": 0,
+      "title": "Wolf Children",
+      "genre": "award",
+      "Release": 2013,
+      "imdb_id": "tt2140203",
+      "description": "Hana marries a wolf man and raises their two children alone after he dies.",
+      "horizontal_img" :"https://pm1.narvii.com/5665/bd88b4c2cd8307dc6fc751eaf92be5ea6c5bb878_hq.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9eyBTSQKT046KVw4JqBy_lC-LSgkW5eZ382LHYMFw31zSIA4"
+    },
+    {
+      "id": 1,
+      "title": "Wolf Children",
+      "genre": "award",
+      "Release": 2013,
+      "imdb_id": "tt2140203",
+      "description": "It's 1963 and Japan is in the midst of swift modernisation, leaving behind the Second World War's painful memories and focusing on a brighter future, symbolised by the coming year's Tokyo Olympics.",
+      "horizontal_img" :"https://christandpopculture.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-20-at-10.53.58-AM.png",
+      "vertical_img":"https://occ-0-300-299.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABTXQySNEvNJQTYqUjEOFsjTPZdJgpjgSVp1SgKDdDN-9FqKUbfasD8B4JDA7Bwe2W7lZK93LhE3l6ljbRb4C_VFaEmvA.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Spirited Away",
+      "genre": "award",
+      "Release": 2002,
+      "imdb_id": "tt0245429",
+      "description": "In this animated feature by noted Japanese director Hayao Miyazaki, 10-year-old Chihiro (Rumi Hiiragi) and her parents (Takashi Naitô, Yasuko Sawaguchi) stumble upon a seemingly abandoned amusement park.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHanAQBunUYOAEAAAB3/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Brainstorm_Media_1300/Program/5219436/_derived_jpg_q90_500x500_m0/SpiritedAway_2000x3000_021518.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Weathering With You",
+      "genre": "award",
+      "Release": 2019,
+      "imdb_id": "tt9426210",
+      "description": "A high-school boy who has run away to Tokyo befriends a girl who appears to be able to manipulate the weather.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GX-oSjAOJ4sPDfAEAAAAK/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd4JDbZrIIJ_KHfx_rMRy_ER6055BJrNBfZrLzM4HJ9rsL172p"
+    },
+    {
+      "id": 4,
+      "title": "Ponyo",
+      "genre": "award",
+      "Release": 2002,
+      "imdb_id": "tt0876563",
+      "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+      "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6405*674_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYCzZiBURiD8qCyxLWPw1TunAlsdRZLVIfMs9Hi6r9kBEEX93Bny5ehv6IqdmGkfTb%5D5ovZ*tZBYNCH3dOEcwf7ev8bZ.jpg",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnq1XgiWqipOvWHyQ4jW4LOabNAZbDmC1iOIpMUpBLgd7qabdS"
+    },
+    {
+      "id": 5,
+      "title": "The Night Is Short Walk on Girl",
+      "genre": "award",
+      "Release": 2017,
+      "imdb_id": "tt0876563",
+      "description": "In this comedy about one epic night in Kyoto, a college sophomore goes on a series of surreal encounters with the local nightlife, all the while unaware of the romantic longings of her classmate Senpai.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GX_OSgQ6rwMLDwwEAAAAQ/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgk-iaLfIr23zFid2N-xtGtH4X4AM8htOzVqhDvpWapn9JV1sP"
+    },
+    {
+      "id": 6,
+      "title": "In This Corner of the World",
+      "genre": "award",
+      "Release": 2016,
+      "imdb_id": "tt4769824",
+      "description": "Set in Hiroshima during World War II, an eighteen-year-old girl gets married and now has to prepare food for her family despite the rationing and lack of supplies.",
+      "horizontal_img" :"https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY5xEPIT0WjkZ60YCe33eVaievPN1D1LUMrNVBSp5Sa2j9bIgc-kI9Oqu_skGQQOR6iWA4gzIXtrwzxz8H1nJUEh32RY.jpg?r=ce9",
+      "vertical_img":"https://occ-0-2568-2567.1.nflxso.net/art/4d958/8d7361e45ccf96ad7551a36fb0775d94ac54d958.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Boy and the Beast",
+      "genre": "award",
+      "Release": 2015,
+      "imdb_id": "tt4272866",
+      "description": "When a young orphaned boy living on the streets of Shibuya stumbles upon a fantastic world of beasts, he's taken in by a gruff warrior beast looking for an apprentice.",
+      "horizontal_img" :"https://is4-ssl.mzstatic.com/image/thumb/Video124/v4/51/82/0f/51820fed-1018-339c-a163-955919db9391/pr_source.lsr/1200x675.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp0y1G8olmB4SjPov-p9wiaqxMYno4yVsODIiNalXHheKbXo0U"
+    },
+    {
+      "id": 8,
+      "title": "The Wind Rises",
+      "genre": "award",
+      "Release": 2013,
+      "imdb_id": "tt2013293",
+      "description": "A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXsQzAw8HPITCwgEAAAAM/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkETC5JWhNPs7i_XIbtgaNCafGeOHP2Pno4ZhZedvjpCF-rs8U"
+    }
+  ]
 }
