@@ -2043,6 +2043,116 @@
       "description": "The life and works of Japanese artist and ukiyo-e painter Katsushika Hokusai, as seen from the eyes of his daughter, Katsushika O-Ei.",
       "horizontal_img" :"https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXEp3QKiIySfCdCLJg3REM7YlXAjnOXXtfiHMMOo2V2jcAjG5MWRpM6RdVqiSd7NZeinjSxH_JCY-msKw8ZwqiCd3Mvy.jpg?r=bec",
       "vertical_img":"https://occ-0-114-116.1.nflxso.net/art/fb0f1/108e540777a913777413399dc9d677974affb0f1.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Colorful",
+      "genre": "award",
+      "Release": 2010,
+      "imdb_id": "tt1677561",
+      "description": "A sinful spirit is granted the opportunity to prove worthy for rebirth, inhabiting the body of a student who killed himself.",
+      "horizontal_img" :"https://image.tmdb.org/t/p/w780/hiBwb7IUjb4er6Ej5QGtNdImn19.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BZWExYWIwZDctMzA5YS00ZDNiLTk1MDgtMzA4YjZhMDMwYmYwXkEyXkFqcGdeQXVyMjIxNDMzMTg@._V1_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Summer Wars",
+      "genre": "award",
+      "Release": 2009,
+      "imdb_id": "tt1474276",
+      "description": "A student tries to fix a problem he accidentally caused in OZ, a digital world, while pretending to be the fiancé of his friend at her grandmother's 90th birthday.",
+      "horizontal_img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZTunPPjCAwXW8gkZ4Vir4yH-PjEWGp6JHsRbqY0kyHjiF1-H",
+      "vertical_img":"https://i.imgur.com/bKwjyhK.png"
+    },
+    {
+      "id": 20,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "genre": "award",
+      "Release": 2005,
+      "imdb_id": "tt0485323",
+      "description": "Edward Elric, an alchemist from an alternate world, races to prevent the Thule Society from harnessing alchemy to wage war on his home.",
+      "horizontal_img" :"https://i.ytimg.com/vi/W2zUVzdxGt8/maxresdefault.jpg",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BNzc0MTA1YmYtZTQwNy00MDYxLWJlNDMtYjAzOWEwMjliYWFmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Giovanni's Island",
+      "genre": "award",
+      "Release": 2014,
+      "imdb_id": "tt3178174",
+      "description": "A dramatic yet heart-warming story of cross-cultural friendship among children in the aftermath of WWII, presented by Tokyo-based award-winning animation studio Production I.G. Based on true events.",
+      "horizontal_img" :"https://i.ibb.co/Gpzx1K3/image.png",
+      "vertical_img":"https://img.reelgood.com/content/movie/ab20c897-ec8f-462f-ad53-5b8a9b498981/poster-780.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Akira",
+      "genre": "award",
+      "Release": 1988,
+      "imdb_id": "tt0094625",
+      "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/64a5a8d0-1406-4178-97a5-2649504faa85?base_image_bucket_name=image_manager&base_image=bb65ba18-750f-4bb9-bb50-b08adea30204&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6wAMW5FJ6P0VRoUxwiQY8lMRfI_k3icJXVIeYe6ofcI2zRVF"
+    },
+    {
+      "id": 23,
+      "title": "Akira",
+      "genre": "award",
+      "Release": 1988,
+      "imdb_id": "tt0094625",
+      "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/64a5a8d0-1406-4178-97a5-2649504faa85?base_image_bucket_name=image_manager&base_image=bb65ba18-750f-4bb9-bb50-b08adea30204&size=1200x630&format=jpeg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6wAMW5FJ6P0VRoUxwiQY8lMRfI_k3icJXVIeYe6ofcI2zRVF"
+    },
+    {
+      "id": 24,
+      "title": "Sword Art Online the Movie: Ordinal Scale",
+      "genre": "award",
+      "Release": 2017,
+      "imdb_id": "tt5544384",
+      "description": "Kirito uncovers a conspiracy within Ordinal Scale, a popular AR game developed for a new system called The Augma.",
+      "horizontal_img" :"https://i.imgur.com/ejaBsTi.jpeg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6A0nauCp-g7xGrXqQTzoScHfPcsO5jYAQOTef5KLjiWYqo6n"
+    },
+    {
+      "id": 25,
+      "title": "Cowboy Bebop: The Movie",
+      "genre": "award",
+      "Release": 2001,
+      "imdb_id": "tt0275277",
+      "description": "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
+      "horizontal_img" :"https://www.lab111.nl/wp-content/uploads/2018/10/Cowboy-Bebop-Banner.jpg",
+      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Cowboy%20Be-Bop/_derived_jpg_q90_500x500_m0/CowboyBeBop-BoxArt.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Cowboy Bebop: The Movie",
+      "genre": "award",
+      "Release": 2001,
+      "imdb_id": "tt0275277",
+      "description": "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
+      "horizontal_img" :"https://www.lab111.nl/wp-content/uploads/2018/10/Cowboy-Bebop-Banner.jpg",
+      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Cowboy%20Be-Bop/_derived_jpg_q90_500x500_m0/CowboyBeBop-BoxArt.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Howl's Moving Castle",
+      "genre": "award",
+      "Release": 2004,
+      "imdb_id": "tt0347149",
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHR0QRNbnUYOAEAAABB/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDBfEqTdzcHrY1ry2MNFKQ81_br7TLbmNltyQBiX8u7z6X_VzW"
+    },
+    {
+      "id": 28,
+      "title": "Flavors of Youth",
+      "genre": "award",
+      "Release": 2018,
+      "imdb_id": "tt8176578",
+      "description": "Three different stories of youth set in different cities of China.",
+      "horizontal_img" :"https://i.ibb.co/G0xrDT5/image.png",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxrSUhRl8H3Hb8SC_cCBqgebzj68khZIq4l3LpNwb5gooNjvYF"
     }
   ]
 }
