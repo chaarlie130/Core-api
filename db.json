@@ -2061,8 +2061,8 @@
       "Release": 2009,
       "imdb_id": "tt1474276",
       "description": "A student tries to fix a problem he accidentally caused in OZ, a digital world, while pretending to be the fiancé of his friend at her grandmother's 90th birthday.",
-      "horizontal_img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZTunPPjCAwXW8gkZ4Vir4yH-PjEWGp6JHsRbqY0kyHjiF1-H",
-      "vertical_img":"https://i.imgur.com/bKwjyhK.png"
+      "horizontal_img" :"https://i.imgur.com/bKwjyhK.png",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZTunPPjCAwXW8gkZ4Vir4yH-PjEWGp6JHsRbqY0kyHjiF1-H"
     },
     {
       "id": 20,
@@ -2096,16 +2096,6 @@
     },
     {
       "id": 23,
-      "title": "Akira",
-      "genre": "award",
-      "Release": 1988,
-      "imdb_id": "tt0094625",
-      "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
-      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/64a5a8d0-1406-4178-97a5-2649504faa85?base_image_bucket_name=image_manager&base_image=bb65ba18-750f-4bb9-bb50-b08adea30204&size=1200x630&format=jpeg",
-      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6wAMW5FJ6P0VRoUxwiQY8lMRfI_k3icJXVIeYe6ofcI2zRVF"
-    },
-    {
-      "id": 24,
       "title": "Sword Art Online the Movie: Ordinal Scale",
       "genre": "award",
       "Release": 2017,
@@ -2115,27 +2105,17 @@
       "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6A0nauCp-g7xGrXqQTzoScHfPcsO5jYAQOTef5KLjiWYqo6n"
     },
     {
+      "id": 24,
+      "title": "Cowboy Bebop: The Movie",
+      "genre": "award",
+      "Release": 2001,
+      "imdb_id": "tt0275277",
+      "description": "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
+      "horizontal_img" :"https://www.lab111.nl/wp-content/uploads/2018/10/Cowboy-Bebop-Banner.jpg",
+      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Cowboy%20Be-Bop/_derived_jpg_q90_500x500_m0/CowboyBeBop-BoxArt.jpg"
+    },
+    {
       "id": 25,
-      "title": "Cowboy Bebop: The Movie",
-      "genre": "award",
-      "Release": 2001,
-      "imdb_id": "tt0275277",
-      "description": "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
-      "horizontal_img" :"https://www.lab111.nl/wp-content/uploads/2018/10/Cowboy-Bebop-Banner.jpg",
-      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Cowboy%20Be-Bop/_derived_jpg_q90_500x500_m0/CowboyBeBop-BoxArt.jpg"
-    },
-    {
-      "id": 26,
-      "title": "Cowboy Bebop: The Movie",
-      "genre": "award",
-      "Release": 2001,
-      "imdb_id": "tt0275277",
-      "description": "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
-      "horizontal_img" :"https://www.lab111.nl/wp-content/uploads/2018/10/Cowboy-Bebop-Banner.jpg",
-      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Sony%20Pictures/Cowboy%20Be-Bop/_derived_jpg_q90_500x500_m0/CowboyBeBop-BoxArt.jpg"
-    },
-    {
-      "id": 27,
       "title": "Howl's Moving Castle",
       "genre": "award",
       "Release": 2004,
@@ -2145,7 +2125,7 @@
       "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDBfEqTdzcHrY1ry2MNFKQ81_br7TLbmNltyQBiX8u7z6X_VzW"
     },
     {
-      "id": 28,
+      "id": 26,
       "title": "Flavors of Youth",
       "genre": "award",
       "Release": 2018,
