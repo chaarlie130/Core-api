@@ -189,7 +189,7 @@
       "Release": 2014,
       "imdb_id": "tt0877057",
       "description": "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. ",
-      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/29a2841c-3556-49e5-89b1-84cbe2682fc9?base_image_bucket_name=image_manager&base_image=d483d427-4e0d-48cf-8b33-9b6574f0337a&region=US&format=jpeg&size=952x536",
+      "horizontal_img" :"https://i.imgur.com/JqEZRqq.png",
       "vertical_img":"https://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg"
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "id": 21,
-      "title": "Cowboy Bepop",
+      "title": "Cowboy Bebop",
       "EpisodeCount": 26,
       "Release": 1998,
       "imdb_id": "tt0213338",
