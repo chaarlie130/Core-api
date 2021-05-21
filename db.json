@@ -810,6 +810,66 @@
       "horizontal_img" :"https://i.ibb.co/G0xrDT5/image.png",
       "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxrSUhRl8H3Hb8SC_cCBqgebzj68khZIq4l3LpNwb5gooNjvYF"
     }
+    {
+      "id": 28,
+      "title": "Princess Mononoke",
+      "genre": "ghibli",
+      "Release": 1997,
+      "imdb_id": "tt0119698",
+      "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHUCwY3E6u9KwEAAAAO/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntZTJb1c6O4iFaT_Ll3w4a-R3TzlpID2dJ0wDdwjemnMbOx7r"
+    },
+    {
+      "id": 29,
+      "title": "Grave if the Fireflies",
+      "genre": "ghibli",
+      "Release": 1988,
+      "imdb_id": "tt0095327",
+      "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+      "horizontal_img" :"https://pbs.twimg.com/media/DLWUPlnVwAEiKpD.jpg:large",
+      "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhBANlyskGnj8-hhTjBHS66owATYWWY2kb7Mtb8beDt-u3TMl4"
+    },
+    {
+      "id": 30,
+      "title": "Kiki's Delivery Service",
+      "genre": "ghibli",
+      "Release": 1989,
+      "imdb_id": "tt0097814",
+      "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+      "horizontal_img" :"https://i.ytimg.com/vi/VVRn3fQPGA0/maxresdefault.jpg",
+      "vertical_img":"https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/3234814/a6d3556d-b4e7-4a73-a126-eb9d89cae179.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Porco Rosso",
+      "genre": "ghibli",
+      "Release": 1992,
+      "imdb_id": "tt0104652",
+      "description": "In 1930s Italy, a veteran World War I pilot is cursed to look like an anthropomorphic pig.",
+      "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*67*65_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5B9WD3XwV5tBgBc1rb6zq1th0DgCV%5BZZZZYGPO480j93bPjbyuFsYj4x3gx%5DPeN6NbUbvaFned64CcDn7F5*CxfQns%5DheSFMQvZ*taZfnEzFkik3Gk9BX6UeMf7bR.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHvc70JwNx02FUZgJkvxA1UaPpXGGj9qi7XQ5D86oo14RYlBi"
+    },
+    {
+      "id": 34,
+      "title": "Castle In the Sky",
+      "genre": "ghibli",
+      "Release": 1986,
+      "imdb_id": "tt0092067",
+      "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHEfQegZY-qmgEAAADp/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3gy0BOh3rY2r6jy1iTZiHImXBKQHpckBP140_OrDaPyjZrxyK"
+    },
+    {
+      "id": 35,
+      "title": "Nausicaä of the Valley of the Wind",
+      "genre": "ghibli",
+      "Release": 1984,
+      "imdb_id": "tt0087544",
+      "description": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHVaQyRPXUYOAEAAABO/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-OOxneThvqJIK9big6w3gdIuCFG7X180QOyvn2kZGyV10AEM"
+    }
   ],
   "Top_Anime": [
     {
