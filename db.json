@@ -2261,6 +2261,16 @@
       "description": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
       "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHVaQyRPXUYOAEAAABO/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
       "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-OOxneThvqJIK9big6w3gdIuCFG7X180QOyvn2kZGyV10AEM"
+    },
+    {
+      "id": 36,
+      "title": "Ponyo",
+      "genre": "ghibli",
+      "Release": 2002,
+      "imdb_id": "tt0876563",
+      "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+      "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6405*674_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYCzZiBURiD8qCyxLWPw1TunAlsdRZLVIfMs9Hi6r9kBEEX93Bny5ehv6IqdmGkfTb%5D5ovZ*tZBYNCH3dOEcwf7ev8bZ.jpg",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnq1XgiWqipOvWHyQ4jW4LOabNAZbDmC1iOIpMUpBLgd7qabdS"
     }
   ]
 }
