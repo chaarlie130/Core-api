@@ -248,7 +248,7 @@
       "imdb_id": "tt8515016",
       "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
       "horizontal_img" :"https://occ-0-993-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaPOHN8k_x4vhKObplg3TYacJ63iph77xrLvx_e7ghFxXRsD6J9-mm2J6kEuEGDVfb7AtbYs6dVjJW_ibZjqg6PPGAM.jpg",
-      "vertical_img":"https://www.themoviedb.org/t/p/w500/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg"
+      "vertical_img":"https://streaming-engine-assets.rftslb.com/posters/image/image/1303273/main_main.jpg"
     },
     {
       "id": 25,
@@ -287,7 +287,7 @@
       "Release": 2014,
       "imdb_id": "tt3431758",
       "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
-      "horizontal_img" :"https://img.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image_bucket_name=image_manager&base_image=14d8a69b-aa68-4a31-8d20-73963bc1dd58&region=US&format=jpeg&size=952x536",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW_EV00G-YfwFxWqT4-h5AuRrgpNsAocTc2hTsESGoE8lM8UYgIL1dS3U1m88EGfSJVX8CSpEfsAiU8Fjr74b_ADKtk.webp?r=369",
       "vertical_img":"https://ib3.hulu.com/user/v3/artwork/6e4dd558-5c67-465f-be02-abc5226900bb?base_image=860db452-24eb-4d79-ab7d-ff0f4ab4ae17&base_image_bucket_name=hummus&size=400x600&format=jpeg"
     },
     {
@@ -537,7 +537,7 @@
       "Release": 2008,
       "imdb_id": "tt1214085",
       "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 duo's. These pairs are a partnership between a weapon meister and a human weapon.",
-      "horizontal_img" :"https://cdn.wallpapersafari.com/60/81/lneRxH.jpg",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVXbeHn_lvdlW8QlDSYjkntrbkX1veX5EJekCcRAdq1c5RwAvMtvLcxBCZan1SDLv8nHHM-H1ouYRE7NRwFRuW8xnUo.webp?r=2c8",
       "vertical_img":"https://pm1.narvii.com/6083/d2b4c8df4706d986fc8f60487fd85ea4469d151d_hq.jpg"
     },
     {
@@ -869,6 +869,126 @@
       "description": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
       "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHVaQyRPXUYOAEAAABO/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
       "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-OOxneThvqJIK9big6w3gdIuCFG7X180QOyvn2kZGyV10AEM"
+    },
+    {
+      "id": 87,
+      "title": "The Tale of The Princess Kaguya",
+      "genre": "ghibli",
+      "Release": 2013,
+      "imdb_id": "tt2576852",
+      "description": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrS6Pgh76I5awgEAAAM5/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://img.reelgood.com/content/movie/2d9b904b-45db-49b6-8a53-16f715b3b35a/poster-780.jpg"
+    },
+    {
+      "id": 88,
+      "title": "Only Yesterday",
+      "genre": "ghibli",
+      "Release": 1991,
+      "imdb_id": "tt0102587",
+      "description": "A twenty-seven-year-old office worker travels to the countryside while reminiscing about her childhood in Tokyo.",
+      "horizontal_img" :"https://flixable.b-cdn.net/hbo-max/small/only-yesterday.jpg",
+      "vertical_img":"https://img.reelgood.com/content/movie/1da8ad46-c7ec-47af-a283-7470d3c32574/poster-780.jpg"
+    },
+    {
+      "id": 89,
+      "title": "The Secret World of Arrietty",
+      "genre": "ghibli",
+      "Release": 2010,
+      "imdb_id": "tt1568921",
+      "description": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrGPIQzIqSZGXgEAAAAh/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 90,
+      "title": "The Cat Returns",
+      "genre": "ghibli",
+      "Release": 2002,
+      "imdb_id": "tt0347618",
+      "description": "After helping a cat, a seventeen-year-old girl finds herself involuntarily engaged to a cat Prince in a magical world where her only hope of freedom lies with a dapper cat statuette come to life.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrGVHA7FCLfDNQEAAAC8/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzztC9qzLY6CkH-VFATngXqg4TtANeqXASNmGeVxh0hAhAE42r"
+    },
+    {
+      "id": 91,
+      "title": "Tales from Earthsea",
+      "genre": "ghibli",
+      "Release": 2006,
+      "imdb_id": "tt0495596",
+      "description": "In a mythical land, a man and a young boy investigate a series of unusual occurrences.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrBBpQxojcLCagEAAAAE/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPCj2_9oJruYM7w1BqetCR6DjXziizuUix-hs50j7zKL06PpVn"
+    },
+    {
+      "id": 93,
+      "title": "When Marnie Was There",
+      "genre": "ghibli",
+      "Release": 2014,
+      "imdb_id": "tt3398268",
+      "description": "Due to 12 y.o. Anna's asthma, she's sent to stay with relatives of her guardian in the Japanese countryside. She likes to be alone, sketching",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHTGwLxKKu9KwEAAAAJ/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg"
+    },
+    {
+      "id": 95,
+      "title": "Whisper Of the Heart",
+      "genre": "ghibli",
+      "Release": 1995,
+      "imdb_id": "tt0113824",
+      "description": "A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHaVgQ_OnUYOAEAAABb/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 96,
+      "title": "My Neighbors the Yamadas",
+      "genre": "ghibli",
+      "Release": 1999,
+      "imdb_id": "tt0206013",
+      "description": "The life and misadventures of a family in contemporary Japan.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHbMg15yHUYOAEAAACI/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJyktc4wXQ6ASqQbMxevhghYPCb9gSBVEBF-ZBJ8KtRyVqL7au"
+    },
+    {
+      "id": 97,
+      "title": "Ocean Waves",
+      "genre": "ghibli",
+      "Release": 1993,
+      "imdb_id": "tt0108432",
+      "description": "As a young man returns home after his first year away at college he recalls his senior year of high school and the iron-willed, big city girl that turned his world upside down.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrTFHQyzuL7DwgEAAAN1/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxJCqrnrjQju0gNNwnTHnsO1wUPRvi5OVlvoYw1PbDN4XzYw7k"
+    },
+    {
+      "id": 48,
+      "title": "Ghost in the Shell",
+      "genre": "ghibli",
+      "Release": 1993,
+      "imdb_id": "tt0113568",
+      "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+      "horizontal_img" :"https://www.unionemonregalese.it/wp-content/uploads/2021/01/Immagineant_640x302.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPEhh1ge6myhoErgGj5DoddT39uNNPfrdrNFpljS_jffvU-umv"
+    },
+    {
+      "id": 99,
+      "title": "Pom Poko",
+      "genre": "ghibli",
+      "Release": 1994,
+      "imdb_id": "tt0110008",
+      "description": "A community of magical shape-shifting raccoon dogs struggle to prevent their forest home from being destroyed by urban development.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHVcw4AYHUYOAEAAABP/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUJsQZyyOKebS8dPd-P2l1Ezmua32nwQj65dprZIQYRZnh5D4z"
+    },
+    {
+      "id": 100,
+      "title": "The Red Turtle",
+      "genre": "ghibli",
+      "Release": 2016,
+      "imdb_id": "tt3666024",
+      "description": "A man is shipwrecked on a deserted island and encounters a red turtle, which changes his life.",
+      "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3c481822bc4f6bdf6d38cd81e2c87e076f33c4bdc0b9546dae91fe69ec27e5dd._UY500_UX667_RI_V_TTW_.jpg",
+      "vertical_img":"https://www.scriptslug.com/assets/uploads/posters/_540xAUTO_crop_center-center_75_none/the-red-turtle-2016.jpg"
     }
   ],
   "Top_Anime": [
@@ -2271,6 +2391,146 @@
       "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6405*674_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYCzZiBURiD8qCyxLWPw1TunAlsdRZLVIfMs9Hi6r9kBEEX93Bny5ehv6IqdmGkfTb%5D5ovZ*tZBYNCH3dOEcwf7ev8bZ.jpg",
       "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnq1XgiWqipOvWHyQ4jW4LOabNAZbDmC1iOIpMUpBLgd7qabdS"
+    },
+    {
+      "id": 37,
+      "title": "The Tale of The Princess Kaguya",
+      "genre": "ghibli",
+      "Release": 2013,
+      "imdb_id": "tt2576852",
+      "description": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrS6Pgh76I5awgEAAAM5/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://img.reelgood.com/content/movie/2d9b904b-45db-49b6-8a53-16f715b3b35a/poster-780.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Only Yesterday",
+      "genre": "ghibli",
+      "Release": 1991,
+      "imdb_id": "tt0102587",
+      "description": "A twenty-seven-year-old office worker travels to the countryside while reminiscing about her childhood in Tokyo.",
+      "horizontal_img" :"https://flixable.b-cdn.net/hbo-max/small/only-yesterday.jpg",
+      "vertical_img":"https://img.reelgood.com/content/movie/1da8ad46-c7ec-47af-a283-7470d3c32574/poster-780.jpg"
+    },
+    {
+      "id": 39,
+      "title": "The Secret World of Arrietty",
+      "genre": "ghibli",
+      "Release": 2010,
+      "imdb_id": "tt1568921",
+      "description": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrGPIQzIqSZGXgEAAAAh/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 40,
+      "title": "The Cat Returns",
+      "genre": "ghibli",
+      "Release": 2002,
+      "imdb_id": "tt0347618",
+      "description": "After helping a cat, a seventeen-year-old girl finds herself involuntarily engaged to a cat Prince in a magical world where her only hope of freedom lies with a dapper cat statuette come to life.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrGVHA7FCLfDNQEAAAC8/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzztC9qzLY6CkH-VFATngXqg4TtANeqXASNmGeVxh0hAhAE42r"
+    },
+    {
+      "id": 41,
+      "title": "Tales from Earthsea",
+      "genre": "ghibli",
+      "Release": 2006,
+      "imdb_id": "tt0495596",
+      "description": "In a mythical land, a man and a young boy investigate a series of unusual occurrences.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrBBpQxojcLCagEAAAAE/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPCj2_9oJruYM7w1BqetCR6DjXziizuUix-hs50j7zKL06PpVn"
+    },
+    {
+      "id": 42,
+      "title": "Wolf Children",
+      "genre": "ghibli",
+      "Release": 2013,
+      "imdb_id": "tt2140203",
+      "description": "Hana marries a wolf man and raises their two children alone after he dies.",
+      "horizontal_img" :"https://pm1.narvii.com/5665/bd88b4c2cd8307dc6fc751eaf92be5ea6c5bb878_hq.jpg",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9eyBTSQKT046KVw4JqBy_lC-LSgkW5eZ382LHYMFw31zSIA4"
+    },
+    {
+      "id": 43,
+      "title": "When Marnie Was There",
+      "genre": "ghibli",
+      "Release": 2014,
+      "imdb_id": "tt3398268",
+      "description": "Due to 12 y.o. Anna's asthma, she's sent to stay with relatives of her guardian in the Japanese countryside. She likes to be alone, sketching",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHTGwLxKKu9KwEAAAAJ/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Spirited Away",
+      "genre": "ghibli",
+      "Release": 2002,
+      "imdb_id": "tt0245429",
+      "description": "In this animated feature by noted Japanese director Hayao Miyazaki, 10-year-old Chihiro (Rumi Hiiragi) and her parents (Takashi Naitô, Yasuko Sawaguchi) stumble upon a seemingly abandoned amusement park.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHanAQBunUYOAEAAAB3/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://cps-static.rovicorp.com/2/Open/Brainstorm_Media_1300/Program/5219436/_derived_jpg_q90_500x500_m0/SpiritedAway_2000x3000_021518.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Whisper Of the Heart",
+      "genre": "ghibli",
+      "Release": 1995,
+      "imdb_id": "tt0113824",
+      "description": "A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHaVgQ_OnUYOAEAAABb/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 46,
+      "title": "My Neighbors the Yamadas",
+      "genre": "ghibli",
+      "Release": 1999,
+      "imdb_id": "tt0206013",
+      "description": "The life and misadventures of a family in contemporary Japan.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHbMg15yHUYOAEAAACI/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJyktc4wXQ6ASqQbMxevhghYPCb9gSBVEBF-ZBJ8KtRyVqL7au"
+    },
+    {
+      "id": 47,
+      "title": "Ocean Waves",
+      "genre": "ghibli",
+      "Release": 1993,
+      "imdb_id": "tt0108432",
+      "description": "As a young man returns home after his first year away at college he recalls his senior year of high school and the iron-willed, big city girl that turned his world upside down.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrTFHQyzuL7DwgEAAAN1/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxJCqrnrjQju0gNNwnTHnsO1wUPRvi5OVlvoYw1PbDN4XzYw7k"
+    },
+    {
+      "id": 48,
+      "title": "Ghost in the Shell",
+      "genre": "ghibli",
+      "Release": 1993,
+      "imdb_id": "tt0113568",
+      "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+      "horizontal_img" :"https://www.unionemonregalese.it/wp-content/uploads/2021/01/Immagineant_640x302.jpg",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPEhh1ge6myhoErgGj5DoddT39uNNPfrdrNFpljS_jffvU-umv"
+    },
+    {
+      "id": 49,
+      "title": "Pom Poko",
+      "genre": "ghibli",
+      "Release": 1994,
+      "imdb_id": "tt0110008",
+      "description": "A community of magical shape-shifting raccoon dogs struggle to prevent their forest home from being destroyed by urban development.",
+      "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXrHVcw4AYHUYOAEAAABP/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUJsQZyyOKebS8dPd-P2l1Ezmua32nwQj65dprZIQYRZnh5D4z"
+    },
+    {
+      "id": 50,
+      "title": "The Red Turtle",
+      "genre": "ghibli",
+      "Release": 2016,
+      "imdb_id": "tt3666024",
+      "description": "A man is shipwrecked on a deserted island and encounters a red turtle, which changes his life.",
+      "horizontal_img" :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3c481822bc4f6bdf6d38cd81e2c87e076f33c4bdc0b9546dae91fe69ec27e5dd._UY500_UX667_RI_V_TTW_.jpg",
+      "vertical_img":"https://www.scriptslug.com/assets/uploads/posters/_540xAUTO_crop_center-center_75_none/the-red-turtle-2016.jpg"
     }
   ]
 }
