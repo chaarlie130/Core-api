@@ -295,7 +295,7 @@
       "content": "tv",
       "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
       "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-      "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg"
+      "vertical_img":"https://resizing.flixster.com/d6R9nwwwXAKiR9KgC-lGfE7XFAo=/206x305/v1.dDsyODUyNDI7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA"
     },
     {
       "id": 27,
@@ -1306,8 +1306,8 @@
       "imdb_id": "tt1279024",
       "content": "tv",
       "description": "Ryuji Takasu lives in a falling down house with his mother, and although being a nice guy is cursed with the evil look of his father causing people to avoid him.",
-      "horizontal_img" :"https://assets.mycast.io/posters/toradora-live-action-fan-casting-poster-54255-large.jpg?1599143575",
-      "vertical_img":"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf8AKFZ9-b5_DUGbRaaPk8PSrxV0NsaBIcMkSWcF3tFa64e0MBKwHczXP6d0mWuszIfKhSlijeEgXH3CX2Qu775JqzE.webp?r=257"
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf8AKFZ9-b5_DUGbRaaPk8PSrxV0NsaBIcMkSWcF3tFa64e0MBKwHczXP6d0mWuszIfKhSlijeEgXH3CX2Qu775JqzE.webp?r=257",
+      "vertical_img":"https://assets.mycast.io/posters/toradora-live-action-fan-casting-poster-54255-large.jpg?1599143575"
     },
     {
       "id": 121,
@@ -1839,7 +1839,7 @@
       "content": "tv",
       "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
       "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-      "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg"
+      "vertical_img":"https://resizing.flixster.com/d6R9nwwwXAKiR9KgC-lGfE7XFAo=/206x305/v1.dDsyODUyNDI7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA"
     },
     {
       "id": 10,
@@ -3191,7 +3191,7 @@
       "content": "tv",
       "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
       "horizontal_img" :"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg",
-      "vertical_img":"https://pbs.twimg.com/media/EZUc_GeUMAEWwel.jpg"
+      "vertical_img":"https://resizing.flixster.com/d6R9nwwwXAKiR9KgC-lGfE7XFAo=/206x305/v1.dDsyODUyNDI7ajsxODcwNTsxMjAwOzE2MDA7MjQwMA"
     },
     {
       "id": 27,
@@ -3239,6 +3239,17 @@
     },
     {
       "id": 31,
+      "title": "Assassination Classroom",
+      "EpisodeCount": 48,
+      "Release": 2015,
+      "imdb_id": "tt3837246",
+      "content": "tv",
+      "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
+      "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/aeb20011-e054-483b-8422-39ad643fc224?base_image_bucket_name=image_manager&base_image=2f4c341a-37e1-4ce1-86ff-4d4f16922a24&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg"
+    },
+    {
+      "id": 32,
       "title": "Code Geass",
       "EpisodeCount": 55,
       "Release": 2006,
