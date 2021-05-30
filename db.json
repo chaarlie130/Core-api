@@ -2073,6 +2073,72 @@
       "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
       "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
       "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1605017/English/1605017_English_ShowKeyart_79f22d78-28ba-40c1-bf7f-e8ec618b2996.jpg"
+    },
+    {
+      "id": 12,
+      "title": "High School DxD",
+      "EpisodeCount": 59,
+      "Release": 2012,
+      "imdb_id": "tt2230051",
+      "content": "tv",
+      "description": "After being killed on his first date, idiotic and perverted Issei Hyodo is resurrected as a demon by Rias Gremory only to be recruited into her club of high-class devils.",
+      "horizontal_img" :"https://occ-0-300-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdcGVCZPVZliz1aeKpLoAdzkYCbh5K8P5ga9rQZ5d8fHEFvjiKTG6pGElq3ph_Fax1k8dqb3rn4r9pBvZVAJcYkMCHc.jpg?r=178",
+      "vertical_img":"https://occ-0-1007-1360.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABTtbv5MuZwzz3WVbRg_6XPzLkGMICQc3vMNogg9jTbrL6WZnOFGPeII-X1n7wtLQ28AEHFks4N4zSZM_dCGIYweoqw.jpg?r=f3d"
+    },
+    {
+      "id": 13,
+      "title": "Dragon Ball",
+      "EpisodeCount": 170,
+      "Release": 2017,
+      "imdb_id": "tt0088509",
+      "content": "tv",
+      "description": "Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.",
+      "horizontal_img" :"https://1.bp.blogspot.com/-AizBPErEwrg/XPYbEi3OTZI/AAAAAAAAAFs/C2Ac9bRDWo8wM-8GPxvuhauROBgK2TpjQCLcBGAs/s1600/dragonball%2Bcover.jpg",
+      "vertical_img":"https://www.themoviedb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Kill La Kill",
+      "EpisodeCount": 25,
+      "Release": 2013,
+      "imdb_id": "tt3114390",
+      "content": "tv",
+      "description": "A young girl arrives at a school of superhumans to find out the truth behind her father's murder.",
+      "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/ada5fc9a-aff5-4839-a6c1-c9713ea5c734?base_image_bucket_name=image_manager&base_image=dc7e35cd-2986-40c1-836e-6712d4dc22aa&region=US&format=jpeg&size=952x536",
+      "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8vFSP6adUuXA1iFeVntYqhiSw7ipjycERdj10UusYtQfLVceV"
+    },
+    {
+      "id": 15,
+      "title": "Naruto",
+      "EpisodeCount": 220,
+      "Release": 2007,
+      "imdb_id": "tt0409591",
+      "content": "tv",
+      "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "horizontal_img" :"https://www.funimation.com/blog/wp-content/uploads/2019/10/1.jpg",
+      "vertical_img":"https://i.pinimg.com/originals/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Pokemon",
+      "EpisodeCount": 1100,
+      "Release": 1997,
+      "imdb_id": "tt0168366",
+      "content": "tv",
+      "description": "Ash Ketchum, his yellow pet Pikachu, and his human friends explore a world of powerful creatures.",
+      "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXrZXeBuR7wyUWaRPmqM1B_AHoSLnhWtJhbnsW7wQwHTldlputYnyCh2Nm34MSnuI6X5PFy08z8nKhYNUu7k_Sug51o.webp?r=593",
+      "vertical_img":"https://occ-0-299-300.1.nflxso.net/art/da366/ad4ca4ae36ce9ad4d58c575407f764898c9da366.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Dragon Ball GT",
+      "EpisodeCount": 65,
+      "Release": 1996,
+      "imdb_id": "tt0139774",
+      "content": "tv",
+      "description": "After Goku is made a kid again by the Black Star Dragon Balls, he goes on a journey to get back to his old self.",
+      "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/6c1ab43c-c550-4e80-a299-e788f0a3d980?base_image_bucket_name=image_manager&base_image=e99f4294-182d-49f7-bc5c-93020f518834&size=1200x630&format=jpeg",
+      "vertical_img":"https://cdn.myanimelist.net/images/anime/1262/93119.jpg"
     }
   ],
   "Shows_Top": [
@@ -3285,7 +3351,7 @@
     },
     {
       "id": 1,
-      "title": "Wolf Children",
+      "title": "From Up on Poppy Hill",
       "genre": "Award Winning Movies",
       "Release": 2013,
       "imdb_id": "tt2140203",
