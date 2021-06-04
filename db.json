@@ -1311,7 +1311,7 @@
     },
     {
       "id": 119,
-      "title": "You lie in april",
+      "title": "Your lie in april",
       "EpisodeCount": 23,
       "Release": 2014,
       "imdb_id": "tt3895150",
@@ -1572,6 +1572,50 @@
       "description": "After being killed on his first date, idiotic and perverted Issei Hyodo is resurrected as a demon by Rias Gremory only to be recruited into her club of high-class devils.",
       "horizontal_img" :"https://occ-0-300-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdcGVCZPVZliz1aeKpLoAdzkYCbh5K8P5ga9rQZ5d8fHEFvjiKTG6pGElq3ph_Fax1k8dqb3rn4r9pBvZVAJcYkMCHc.jpg?r=178",
       "vertical_img":"https://occ-0-1007-1360.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABTtbv5MuZwzz3WVbRg_6XPzLkGMICQc3vMNogg9jTbrL6WZnOFGPeII-X1n7wtLQ28AEHFks4N4zSZM_dCGIYweoqw.jpg?r=f3d"
+    },
+    {
+      "id": 143,
+      "title": "Another",
+      "EpisodeCount": 13,
+      "Release": 2012,
+      "imdb_id": "tt2176165",
+      "content": "tv",
+      "description": "A young man named, Koichi Sakakibara, transfers to a new school where he finds himself drawn into a mystery involving a mysterious girl and a series of gruesome deaths.",
+      "horizontal_img" :"https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS828WmkkXhsNOS9YaVY6QRMbAncsKkB3LQJ1vyf_cmtsoSZ4zsp96UVYGqrnmXSi9zZNjGCaDphz6Fv3pg-w2SSeUDz.jpg?r=9cd",
+      "vertical_img":"https://pm1.narvii.com/5942/e6c1e6f14d89680246a2a31eebc66f0c73a0bf7c_hq.jpg"
+    },
+    {
+      "id": 144,
+      "title": "Psycho-Pass",
+      "EpisodeCount": 41,
+      "Release": 2012,
+      "imdb_id": "tt2379308",
+      "content": "tv",
+      "description": "Believing in humanity and order, policewoman Akane Tsunemori obeys the ruling, computerized, precognitive Sibyl System",
+      "horizontal_img" :"https://scdn.nflximg.net/images/5622/9965622.jpg",
+      "vertical_img":"https://art-s.nflximg.net/c9a76/d1b7007fef7b40e2252f295b431687794ebc9a76.jpg"
+    },
+    {
+      "id": 145,
+      "title": "Death Parade",
+      "EpisodeCount": 12,
+      "Release": 2015,
+      "imdb_id": "tt4279012",
+      "content": "tv",
+      "description": "After death, humans go to either heaven or hell. But for some, at the instant of their death, they arrive at the Quindecim, a bar attended by the mysterious white-haired Decim.",
+      "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6843*7293_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYz3G4dcrIjtYnneDyD5x1NUujI33fmpiqD%5DoDXmLPpIMg0m9rdNEZoR0BEUu8*hUVRAHXqMzVCLzH6fWeMScuXr0VWd.jpg",
+      "vertical_img":"https://assets.mycast.io/posters/12413_large.jpg?1562675921"
+    },
+    {
+      "id": 146,
+      "title": "OverLord",
+      "EpisodeCount": 39,
+      "Release": 2015,
+      "imdb_id": "tt4869896",
+      "content": "tv",
+      "description": "A young man is trapped within a video game as a warrior king, and sets out to make this new world his own empire.",
+      "horizontal_img" :"https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVqvC81-si0BvgcH8d17KUyZQwq66LOBPHVA4qEiZzV3diAjbB3rRmciSXvKYm4kNvNZ4tAX6gcuf1QlKuQfNhN0Mkez.jpg?r=f05",
+      "vertical_img":"https://m.media-amazon.com/images/M/MV5BOTFlY2NkOWItNTI3Yy00NDA5LTkzOTQtZGVmNDJlMzM4OGJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_QL75_UY562_CR9,0,380,562_.jpg"
     }
   ],
   "Top_Anime": [
