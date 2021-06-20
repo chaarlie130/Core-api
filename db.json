@@ -1823,6 +1823,63 @@
       "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
       "horizontal_img" :"https://nofilmschool.com/sites/default/files/styles/facebook/public/evangelion-header-2-1146098-1280x0.jpeg?itok=aSZfL-NA",
       "vertical_img":"https://i.pinimg.com/474x/63/2d/4e/632d4ef1a114182001ebb08df009a4b9.jpg"
+    },
+    {
+      "id": 152,
+      "title": "A Silent Voice",
+      "Release": 2016,
+      "imdb_id": "tt5323662",
+      "tmdb_id": "378064",
+      "content": "movie",
+      "description": "A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.",
+      "horizontal_img" :"https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQqbAoahMhoXhkk50zAaHllAcStt92EQf16t0uIaCtbVLWJW6ugPTFWL6_Lzhgd5n6N3Oi4NyU2IV5p9hKgolK0OWDc.jpg?r=a0c",
+      "vertical_img":"https://occ-0-2717-360.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABf4oeIkggKIj8iJVVjDEXno3Q3n_RXqoU1485dX8y5DCrC90T0Ei_bUQmRUD9vD9wjaSu3y73kvsMkTbfn6oDYxa9w.jpg?r=725"
+    },
+    {
+      "id": 153,
+      "title": "HighSchool Of The Dead",
+      "EpisodeCount": 12,
+      "Release": 2010,
+      "imdb_id": "tt1685401",
+      "tmdb_id": "56998",
+      "content": "tv",
+      "description": "High school students are overwhelmed with the start of the zombie apocalypse.",
+      "horizontal_img" :"https://i.imgur.com/mwwANJn.png",
+      "vertical_img":"https://i.pinimg.com/originals/4c/40/07/4c4007dd631b46d3421b99c91add57f6.jpg"
+    },
+    {
+      "id": 154,
+      "title": "Yu-Gi-Oh!",
+      "EpisodeCount": 225,
+      "Release": 1998,
+      "imdb_id": "tt0249327",
+      "tmdb_id": "36406",
+      "content": "tv",
+      "description": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.",
+      "horizontal_img" :"https://occ-0-56-55.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVhPZinAl-7gVF0uK_Hfg-sePU-cXu20ggz_xLixmXk9xpk_H3dTG_YjbSvf0vGrf163au21u-labYCasFZAA9-yvDI.jpg?r=3ac",
+      "vertical_img":"https://occ-0-768-769.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABQa_AAxBshEzpIrbBUrEL06NXIS7Mz-aqYEvPyjoxrPfdmfpQx58-FU9g7kEX5fZmMxt5lM6lDrFQCippEgHS5-mSdX6.jpg?r=e45"
+    },
+    {
+      "id": 155,
+      "title": "Fireworks",
+      "Release": 2017,
+      "imdb_id": "tt6317962",
+      "tmdb_id": "431819",
+      "content": "movie",
+      "description": "Moshimo, Japan. The annual fireworks festival is about to take place and a group of schoolboys, arguing over whether they are round or flat when viewed from different angles, set out to find it out.",
+      "horizontal_img" :"https://occ-0-114-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdD7Q_xIDZdEvhm6IvF5gpYj-GB4GHZSgXPGejZDjtKBO_JS7LVNGDVVVuR5YKRIQWbFINv0i2eRjRPNdraHl4IcjE8.jpg?r=3e1",
+      "vertical_img":"https://occ-0-3377-185.1.nflxso.net/art/89bd5/b208db2340a0f9cdb40da57c1a72025806289bd5.jpg"
+    },
+    {
+      "id": 156,
+      "title": "Samurai Champloo",
+      "Release": 2004,
+      "imdb_id": "tt0423731",
+      "tmdb_id": "1063",
+      "content": "tv",
+      "description": "Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the 'samurai who smells of sunflowers.'",
+      "horizontal_img" :"https://occ-0-358-360.1.nflxso.net/dnm/api/v5/rendition/412e4119fb212e3ca9f1add558e2e7fed42f8fb4/AAAABdMpBcPVg7qkblpw5CuV-Z4VLkRQ2lIchv6Nc8y7Bz9f3BWo-xZkdNgyn-FKKtbUsvqMmNr8GnyjCrQ434-wVvgr7TEHdSxW9iJ-BUOjjeDxu5zwonr1noV2V4VBl1QYtk1qkbbU1Q.jpg",
+      "vertical_img":"https://occ-0-300-2773.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABRnb7siblXGqImxVhNuqktC863-El0PPgJHKNL_-hIF0234ADx0mlkzoPeJ36fMkS4yHwmuSLklXhX1g5zpqBXcBjw.jpg?r=151"
     }
   ],
   "Top_Anime": [
