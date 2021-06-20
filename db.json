@@ -1873,6 +1873,7 @@
     {
       "id": 156,
       "title": "Samurai Champloo",
+      "EpisodeCount": 26,
       "Release": 2004,
       "imdb_id": "tt0423731",
       "tmdb_id": "1063",
@@ -1880,6 +1881,17 @@
       "description": "Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the 'samurai who smells of sunflowers.'",
       "horizontal_img" :"https://occ-0-358-360.1.nflxso.net/dnm/api/v5/rendition/412e4119fb212e3ca9f1add558e2e7fed42f8fb4/AAAABdMpBcPVg7qkblpw5CuV-Z4VLkRQ2lIchv6Nc8y7Bz9f3BWo-xZkdNgyn-FKKtbUsvqMmNr8GnyjCrQ434-wVvgr7TEHdSxW9iJ-BUOjjeDxu5zwonr1noV2V4VBl1QYtk1qkbbU1Q.jpg",
       "vertical_img":"https://occ-0-300-2773.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABRnb7siblXGqImxVhNuqktC863-El0PPgJHKNL_-hIF0234ADx0mlkzoPeJ36fMkS4yHwmuSLklXhX1g5zpqBXcBjw.jpg?r=151"
+    },
+    {
+      "id": 157,
+      "title": "The Garden of Words",
+      "Release": 2013,
+      "imdb_id": "tt2591814",
+      "tmdb_id": "198375",
+      "content": "movie",
+      "description": "A 15-year-old boy and 27-year-old woman find an unlikely friendship one rainy day in the Shinjuku Gyoen National Garden.",
+      "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSxt4h-hyjBDQfUxrvjDF3N6Xxa8-gXsF_KPoyWNJvW0cGnv8AZqAy12-KxSBonfXKSR6diIzr2U2JRLaAgnF0B2rAI.jpg?r=411",
+      "vertical_img":"https://occ-0-3934-116.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABQw0IrJTT4A4OkiMPAJqx3IceP8qJPbZ-8Of_VDuqshQx8IBbflFpnUNgfREVmAnGivHN5l-bFsmuLY2jNTuVOlz63Wk.jpg?r=3d3"
     }
   ],
   "Top_Anime": [
