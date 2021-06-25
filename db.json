@@ -1,5 +1,5 @@
 {
-  "Search_Anime" : [
+"Search_Anime" : [
     {
       "id": 0,
       "title": "Hunter x Hunter",
@@ -281,7 +281,7 @@
       "imdb_id": "tt0213338",
       "tmdb_id": "30991",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
       "horizontal_img" :"https://art-s.nflximg.net/0fecb/5a9cc781f7017984715667d67aa610c227f0fecb.jpg",
       "vertical_img":"https://occ-0-768-769.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAAASkxL-0BetYYt928sLABYs_CvndY3VC9-RT-dQqoRvxd4wnAWGQErJHRoXAqG9iscHjJMPPdJvTybPYVa3znFwWXyVRHDd8.jpg?r=c08"
@@ -294,7 +294,7 @@
       "imdb_id": "tt2250192",
       "tmdb_id": "45782",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "The series takes place in the near future and focuses on protagonist Kazuto 'Kirito' Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds.",
       "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdnlEW9NXXBZ-XdYmgq_5UvNFD2-EZPc9gYhwod4qC3wXOL6nwBpeg_G1NAGsGMlqW-gpE_ywzqwC2aGiki2s2yEi1oL.jpg?r=ced",
       "vertical_img":"https://i.imgur.com/iQZxZfk.png"
@@ -307,7 +307,7 @@
       "imdb_id": "tt3742982",
       "tmdb_id": "61223",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
       "vertical_img":"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABfkpzetRwQpjER_ge6R1bfm70vmshC1ClSBhy1nvH_sVj4CprPB9fg5F8qI0ynVUqzmRTZlgwtNBvGlcBcgXFFNNJU1y.jpg?r=3b0"
@@ -320,7 +320,7 @@
       "imdb_id": "tt8515016",
       "tmdb_id": "80564",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
       "horizontal_img" :"https://occ-0-993-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaPOHN8k_x4vhKObplg3TYacJ63iph77xrLvx_e7ghFxXRsD6J9-mm2J6kEuEGDVfb7AtbYs6dVjJW_ibZjqg6PPGAM.jpg",
       "vertical_img":"https://streaming-engine-assets.rftslb.com/posters/image/image/1303273/main_main.jpg"
@@ -333,7 +333,7 @@
       "imdb_id": "tt9679542",
       "tmdb_id": "86031",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
       "horizontal_img" :"https://occ-0-993-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABab7SQCrErt3luGDQDNyEuUrA_2dAY-sH68553C-AVm1PBmg4EVSJMFmF_8s0jTbGy5nvIDbjugjIKjmOh5E-ad921pu.jpg?r=f8c",
       "vertical_img":"https://occ-0-753-1007.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUV2n6cYi5UyaocJFIJKi72WQbhTo_OAfYAQuGlPZ_7PyG8w9UxLk2-18uh_h76leMV75MKtG_HJ5jvSZpXkl42G8Q.jpg?r=5a3"
@@ -346,7 +346,7 @@
       "imdb_id": "tt2359704",
       "tmdb_id": "45790",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Jonathan Joestar, nicknamed JoJo, becomes involved in a battle against his stepbrother, Dio Brando, who is intent on taking control of the Joestar fortune.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*527*534_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYHj6sXiDo9gIlnQrECnKngJ9ulN1dR2V0wj0dBJwSeFvLZE0yN9oFerDeHwVtnY%5DxyZ6525w0zi*Rfg%5DAjFUub%5Doxpd.jpg",
       "vertical_img":"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABcKMv3-MfV8A7NB-mWfp5L9F1dr-BH7qU_2UfUl1tTCbc1O5PcXZ19QU6nFpUnz5IvNDHL5B_Hj99h-vbx6AFb5atxej.jpg"
@@ -359,7 +359,7 @@
       "imdb_id": "tt6342474",
       "tmdb_id": "70881",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Son of Naruto Uzumaki, Boruto, follows his father's footsteps along with his friends to become great ninja. Throughout all their adventures, Boruto is determined to make his mark in the ninja world and live outside of his father's shadow.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*011*006_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYIhM0UVoQ*FKuuoPLac51oRedI%5DzloJrd1CS8Hpx29NtzHFyI%5DNAPND2C%5DwGqII4BEb482IaEGfKYGw**VIKamVPO7d.jpg",
       "vertical_img":"https://images.theposterdb.com/prod/public/images/posters/optimized/shows/6521/season_c/YMMfp0APbQGDWnpY0AYuzDKepm2NquA3t4ygxYqi.webp"
@@ -372,7 +372,7 @@
       "imdb_id": "tt3431758",
       "tmdb_id": "60808",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Siblings Sora and Shiro together make up the most feared team of pro gamers in the world, The Blank. When they manage to beat god himself in a game of chess, they are sent to a world where all disputes are settled with games.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW_EV00G-YfwFxWqT4-h5AuRrgpNsAocTc2hTsESGoE8lM8UYgIL1dS3U1m88EGfSJVX8CSpEfsAiU8Fjr74b_ADKtk.webp?r=369",
       "vertical_img":"https://occ-0-2954-2567.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABVeBqB-nBzVtLFso565YboKzTJe-c6cPiWwLOPXKRPbSpU6QyqZhDKKVLeCWVp7gqapZsTRnbGbn_g4okN1QmHp-K8Nf.jpg"
@@ -385,7 +385,7 @@
       "imdb_id": "tt2051178",
       "tmdb_id": "45845",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.",
       "horizontal_img" :"https://i.imgur.com/lVm1GIK.png",
       "vertical_img":"https://occ-0-768-769.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABfvg4g_QLWm9IJGIDnhnlmYriMeKJHAuo-fd_LI-gNDH3VolvQB9gF1wrtqbFAfnLaRdNZ2e8ykHg5hGNcVegvdTzn4uJWI.jpg?r=6c9"
@@ -398,7 +398,7 @@
       "imdb_id": "tt0988818",
       "tmdb_id": "57041",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "TA young samurai in feudal Tokyo finds work in a world taken over by aliens.",
       "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
       "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj"
@@ -411,7 +411,7 @@
       "imdb_id": "tt3837246",
       "tmdb_id": "62110",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Students must kill an octopus-like alien who portrays a teacher. Otherwise, he will destroy the Earth once the school year is over.",
       "horizontal_img" :"https://occ-0-784-778.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ6Y-nWF5ezW4E85X1rvUmZ9RwFJa2s3DMWHwUhSxhPPPOparVaCwoqAFvTONtYZ_KcVzSF4sqVF48cLNgFA9ydQ1sY.jpg?r=069",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg"
@@ -424,7 +424,7 @@
       "imdb_id": "tt5897304",
       "tmdb_id": "67075",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Mob Psycho 100 is the story about a young middle schooler, Shigeo Kageyama, nicknamed 'Mob' living in Seasoning City. Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class.",
       "horizontal_img" :"https://occ-0-299-1007.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYSKslzEq6zXGRVwxFHwLAsU8JJijTvi6Ezcv-G0sTuTk7UzJYqEjrOaPgS6PlUjz3V9r7LZDelH5uL8rbXY1kbDYIM.jpg?r=09c",
       "vertical_img":"https://occ-0-64-58.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABUdAL84gdKiirGg09RxgzJPQHM9yREaxzCOFLIGmKcp9v6GbGB7j55VSMv_I3u-ZiASMJWF2VoI96edCpvwsvoETR7VPaBo.jpg?r=301"
@@ -437,7 +437,7 @@
       "imdb_id": "tt4917066",
       "tmdb_id": "64706",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Kiyoshi, a new student, is sent to Hachimitsu Academy's prison, where harsh punishment awaits.",
       "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/w_1200,ar_16:9,c_fill,q_60/oth/FunimationStoreFront/1301063/Latvian/1301063_Latvian_ShowMasterKeyArt_c212eb78-deff-e611-8175-020165574d09.jpg",
       "vertical_img": "https://occ-0-300-2773.1.nflxso.net/art/bcbc9/7bb58b90d6dcf2e461ea9e44ca7bc226008bcbc9.jpg"
@@ -450,7 +450,7 @@
       "imdb_id": "tt8673610",
       "tmdb_id": "80671",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "One newcomer red blood cell just wants to do her job. Between bacteria incursions and meeting a certain white blood cell, she's got a lot to learn.",
       "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVvyXJZ1tXWCB1kboprVwLWZPDqljX3Rwwi0EdkEToB_Uq7yhHbVqj9ynH6K0a6Sc8E2UsfrRGcXwginCwLYvP3g6dn-.jpg?r=0c6",
       "vertical_img":"https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABVmOf_arGcBwspGP9bjAGeA3tc30esRT-0hj3gjUc0jJVoBXZDkLD2HpM9K8kqx6uZoRvdfsO6GRvJHBHAQ41ZdMIQ.jpg?r=ddd"
@@ -463,7 +463,7 @@
       "imdb_id": "tt1118804",
       "tmdb_id": "24835",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZlb5OS-CY2rybCI_ls5MeMLDB4IBQ_NyaCv2S6hCUObSGmZ1Fzj4g27EhyUKGQhrTxVtBNhbJTrj7t2Jx03DLM3XMg.webp?r=a46",
       "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy"
@@ -476,7 +476,7 @@
       "imdb_id": "tt0816397",
       "tmdb_id": "1043",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A girl at a prestigious school befriends the members of a 'host club'.",
       "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/4a92ac4e-cbe2-41f5-bfb8-eb11dc479bfd?base_image_bucket_name=image_manager&base_image=569861d4-2f21-42a2-8bf8-69291d544c87&size=1200x630&format=jpeg",
       "vertical_img":"https://i.pinimg.com/736x/44/da/01/44da012d3ba8769cd8830bbdd66b81eb.jpg"
@@ -489,7 +489,7 @@
       "imdb_id": "tt11163352",
       "tmdb_id": "97009",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now.",
       "horizontal_img" :"https://occ-0-1348-1347.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABbHyoKghQKLh-3bzrhjuYbK-ywTo6LlmKMJmEHBd2sB7SJ2a8QVYa-m1hhx6ru3sTwbeio2ZjPLdHksi8IEBYD2aQK3eD2zSE2nNX6D5jkeTL667pDt5slowD8HJ.jpg?r=b90",
       "vertical_img":"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABYO9YzB04r-rZNRD65DwM0e8SNusPnZqTYKEt-EOQd5AUOgnSTCWFInLKj9pHzmBDA-zp5T2usxuPd5D7zQjuRlRqdtDg2afuPctPWUyvDcAKRttkaHnsgIqxlc.jpg?r=11c"
@@ -502,7 +502,7 @@
       "imdb_id": "tt5626028",
       "tmdb_id": "65930",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
       "horizontal_img" :"https://wallpaperaccess.com/full/693425.jpg",
       "vertical_img":"https://occ-0-1168-1217.1.nflxso.net/art/4291c/4e83ac94bdb859d22ca3dc696b031900e404291c.jpg"
@@ -515,7 +515,7 @@
       "imdb_id": "tt5249462",
       "tmdb_id": "65249",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "29-year-old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings while he was in 5th grade.",
       "horizontal_img" :"https://occ-0-784-778.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYjCqlo0Qc7o8ebKeRkliXPST85HSYAQDaTC6zLj9WFhAyFquywCZk5AVzfuTCZvL2jzaYiQ8K46ut_38JWS_4qimc5pI0Qn.jpg?r=04e",
       "vertical_img":"https://occ-0-2219-1361.1.nflxso.net/art/392ff/b95660b2c6ab13a619167b8a01fc7bab5b0392ff.jpg"
@@ -528,7 +528,7 @@
       "imdb_id": "tt7078180",
       "tmdb_id": "75214",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people.",
       "horizontal_img" :"https://occ-0-2042-1007.1.nflxso.net/art/215d6/2c7c9d4124cdb5a2f51c427e2efcf265911215d6.jpg",
       "vertical_img":"https://occ-0-2042-1007.1.nflxso.net/art/d310e/d639446f80864059b4b0b5b18cc03b15b52d310e.jpg"
@@ -541,7 +541,7 @@
       "imdb_id": "tt6660498",
       "tmdb_id": "75208",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.",
       "horizontal_img" :"https://blackgirlnerds.com/wp-content/uploads/2018/02/Devilman-Crybaby-Title-image.png",
       "vertical_img":"https://assets1.ignimgs.com/2017/08/03/devilman-crybaby-tv-2-1501799414205.jpg"
@@ -554,7 +554,7 @@
       "imdb_id": "tt3358020",
       "tmdb_id": "61459",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "17-year-old Shinichi Izumi is partially infected by a Parasyte; monsters that butcher and consume humans.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbbYWSRBB9MFAHs1LTze6-PqcR2kwFKj4K8yprJt92cuhELnNP_yVuXnrDPi8FM6KhxZEYnSyob9pH4CVWAhamEiC6Y.webp?r=c47",
       "vertical_img":"https://occ-0-37-33.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYo7zzqM9InyTrg5bCaMWIH5IZs0RFK25KlOkU4uA6pSGV-DkzFXBkbug-ub5ICO6OYTMjaY-LnnQaFb23ZiHRMewA.jpg?r=70a"
@@ -567,7 +567,7 @@
       "imdb_id": "tt9522300",
       "tmdb_id": "83121",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "The proudly privileged top two students of an elite school each makes it their mission to be the first to extract a confession of love from the other.",
       "horizontal_img" :"https://www.ntdaily.com/wp-uploads/2020/07/kaguya-sama-a-1-pictures-1024x576.jpg",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
@@ -580,7 +580,7 @@
       "imdb_id": "tt0185133",
       "tmdb_id": "30669",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic.",
       "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/e6f09891-7847-42f5-91eb-1bc17fe8dc5b?base_image_bucket_name=image_manager&base_image=c5242ebe-4604-468c-9aa6-b2523b06ed19&region=US&format=jpeg&size=952x536",
       "vertical_img":"https://i.pinimg.com/originals/3c/e8/4d/3ce84ddaa4e3c6e5d49ed6c2e2437cbc.jpg"
@@ -593,7 +593,7 @@
       "imdb_id": "tt9307686",
       "tmdb_id": "88046",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
       "horizontal_img" :"https://media.cdn.adultswim.com/uploads/20190820/198201040151-2_19722172249-FireForce__searchImage_.jpg",
       "vertical_img":"https://images.theposterdb.com/prod/public/images/posters/optimized/shows/72162/season_c/tF94T4FiSqe4iRtWj5TUryWXMKlbKK5HzsgF9atP.webp"
@@ -606,7 +606,7 @@
       "imdb_id": "tt2902582",
       "tmdb_id": "49471",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life.",
       "horizontal_img" :"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1319406/Latvian/1319406_Latvian_ShowMasterKeyArt_66ad06d1-7078-e711-8175-020165574d09.jpg",
       "vertical_img":"https://theanimeaccord.files.wordpress.com/2017/01/139147_front.jpg"
@@ -619,7 +619,7 @@
       "imdb_id": "tt12343534",
       "tmdb_id": "95479",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
       "horizontal_img" :"https://is3-ssl.mzstatic.com/image/thumb/m26fHol7IkcmHCuq6kHOtg/1200x675.jpg",
       "vertical_img":"https://i.imgur.com/2oFYmz3.png"
@@ -632,7 +632,7 @@
       "imdb_id": "tt12057106",
       "tmdb_id": "97860",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
       "horizontal_img" :"https://i2.wp.com/butwhythopodcast.com/wp-content/uploads/2020/06/95A5BF7A-8EF9-4548-B3AC-762345BCBF2A.jpeg?fit=800%2C449&ssl=1",
       "vertical_img":"https://images-na.ssl-images-amazon.com/images/I/518DZacSyRL.jpg"
@@ -645,7 +645,7 @@
       "imdb_id": "tt11043632",
       "tmdb_id": "90937",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts.",
       "horizontal_img" :"https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSZWFfPwfBMiofjaxs82e7H842Nj8O5QiJ2sHOxXKBgI9GJLTo76TTm3g2Po06b-ya0qSXJJtCyqx80n1nB1SQoq6gtwPlerxgXdXmB9LqwUYxey9CqfgXMviBPA.jpg?r=de7",
       "vertical_img":"https://occ-0-1007-1360.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYjMAWPQYRbDCyQwEZq3NI5juRjU02-WE9WV0xK02dDvYir3VVFDN7nApO0PXGrYTvCcmkC2LCcr6l-pXnQiuYVy8g.jpg?r=d58"
@@ -658,7 +658,7 @@
       "imdb_id": "tt4644488",
       "tmdb_id": "62715",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Six months after the defeat of Majin Buu, The mighty Saiyan Son Goku continues his quest on becoming stronger.",
       "horizontal_img" :"https://img4.hulu.com/user/v3/artwork/0921b58c-bef9-4a4d-a677-03ec7745428c?base_image_bucket_name=image_manager&base_image=c6182167-be22-4128-aa41-c52261c53837&size=1200x630&format=jpeg",
       "vertical_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJhQmNj-JMkozbhnnnewl4bkVq9ekD1gdCiTIp77oH1PolZmm"
@@ -671,7 +671,7 @@
       "imdb_id": "tt10233448",
       "tmdb_id": "88803",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*7558*6812_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYyVlS%5DtKRZwMSH5s2fdptu0JnUhrDVJaLqaCbeBJt1B4rH%5Dfdyf0XLxPYzQJijS7RM1eyt5oKV95u6Ts7SzVtenQi6B.jpg",
       "vertical_img":"https://occ-0-993-988.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVVCc0whg_7_WtsquhyDzo2LYIvaEk-QZSaEEtZ0QlGDdU9H3lD-iBTxXloYwdhaEPCfd1TeHSyvGDDEzhzCADAzA50L.jpg?r=617"
@@ -684,7 +684,7 @@
       "imdb_id": "tt2069441",
       "tmdb_id": "46671",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6812*6811_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYCe36xUFTtZCkwp2l6NuaKJkBcD9Os3%5DB9W7UdgOIaCkdocqiaszm59yz6sWYzIPGsKmdaw5QCznMstb%5DDcHPj%5DEvdd.jpg",
       "vertical_img":"https://resizing.flixster.com/XMnMEsIiBQIT5XrJs0G5WHUj5DA=/206x305/v1.dDs0MDc1NTA7ajsxODY3OTsxMjAwOzgwMDsxMjAw"
@@ -697,7 +697,7 @@
       "imdb_id": "tt1214085",
       "tmdb_id": "37305",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 duo's. These pairs are a partnership between a weapon meister and a human weapon.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVXbeHn_lvdlW8QlDSYjkntrbkX1veX5EJekCcRAdq1c5RwAvMtvLcxBCZan1SDLv8nHHM-H1ouYRE7NRwFRuW8xnUo.webp?r=2c8",
       "vertical_img":"https://occ-0-2218-2219.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUSVIIXYWgsyNeY0ziTXGXgr86vroVtMN8NUY7gdKlwiQtTmGfAzZshZCVLNEqE6w78LI63Qdk8i2gHgvpM6HrIQz0-t.jpg?r=f6e"
@@ -1529,7 +1529,7 @@
       "imdb_id": "tt8993398",
       "tmdb_id": "82739",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "The seemingly normal life of Sakuta Azusagawa, a high school student changes drastically when he meets a wild bunny girl that seems to be invisible to others.",
       "horizontal_img" :"https://occ-0-64-325.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe4jJsMKyMB1TPgRNycOJZzmiT6GhGlJdKirEMMwOTVPzFXiEYae9Ht6NZDg6L1vfrwWOerTehnK-b16CS8uG7dvOjI.jpg?r=344",
       "vertical_img":"https://occ-0-58-64.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQfV4Rid0OdFlzDZUu3i7I05LVhBC85wDzxD_6bLcfeQgGmyFDNjdyr7zygrpt3SkSiQzX5b8hHhdO3dQHgAo1fA3aSU.jpg?r=e03"
@@ -1542,7 +1542,7 @@
       "imdb_id": "tt1279024",
       "tmdb_id": "42916",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Ryuji Takasu lives in a falling down house with his mother, and although being a nice guy is cursed with the evil look of his father causing people to avoid him.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf8AKFZ9-b5_DUGbRaaPk8PSrxV0NsaBIcMkSWcF3tFa64e0MBKwHczXP6d0mWuszIfKhSlijeEgXH3CX2Qu775JqzE.webp?r=257",
       "vertical_img":"https://occ-0-1223-58.1.nflxso.net/art/1b74a/5e841295ea10225a39ac2ceb8273329225d1b74a.jpg"
@@ -1555,7 +1555,7 @@
       "imdb_id": "tt3895150",
       "tmdb_id": "61663",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSChD3wgVxEYJ1Ezyn8ZtqBtyBQtFBvSCOPt4hIG7ODjijWH_Pyxn3jfUGgJSDwtI8zvEQX0YqobBKLQQMJ8vlaASZU.webp?r=4c0",
       "vertical_img":"https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABaQkE7e_B-e7DGXjsf8xP-WZ7rr8_PnZKUisjCZV_j6QOXkZLojXXoAHYk2KSXzXmuMk8Qo_yeYVzN86BlhPW7NxRw.jpg?r=960"
@@ -1568,7 +1568,7 @@
       "imdb_id": "tt7865090",
       "tmdb_id": "76121",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "In a future world where humanity has been driven to endangerment by giant beasts, a strike force is assembled to destroy the monsters and save the world.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*674*604_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYywfrQoBiTvK%5DqLwe3tMTB744l4g8g6XeFNUrsOUa3DwXNlx4g3lK31HqXjFxRy%5DnrtkXqiJYfBQ9Ev3i7JSo8h95J9.jpg",
       "vertical_img":"https://occ-0-64-325.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABSLthuPD0RywRFH-tAfHqErcFl8YrM5Mh7DAXWjqvIFjXZGiDyTPag80vu6BK-9Kd9-jtCTkI65m-iH6RMluptJmvw9z.jpg?r=926"
@@ -1581,7 +1581,7 @@
       "imdb_id": "tt9304350",
       "tmdb_id": "85991",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After Tohru is taken in by the Soma family, she learns that twelve family members transform involuntarily into animals of the Chinese zodiac and helps them deal with the emotional pain caused by the transformations.",
       "horizontal_img" :"https://occ-0-64-58.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABbAhYL-Wr4rAxQRioSXcBQ1gSE47J2rFIwL_77lMaH_JQZqLKsnyDoLZCHVv3Pgc8-PyzmQqrXCKggF0oYeRmaN90ZY.jpg",
       "vertical_img":"https://occ-0-58-64.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABRdRWh188aJ-_DKMBGJO8Dvuq93utgKzlBXoRfYnZVjEvs7dx8Vn4BSrgLOAdzM5CRF9Bav8ol9JBIrhNfk4niQBDg__.jpg?r=cc7"
@@ -1594,7 +1594,7 @@
       "imdb_id": "tt4616700",
       "tmdb_id": "62565",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A pretty young girl and a sweet but plain-looking boy fall in love. Will their relationship prevail?",
       "horizontal_img" :"https://img2.hulu.com/user/v3/artwork/3335d69b-d2c3-4901-a1f0-b32f8b4c5ce2?base_image_bucket_name=image_manager&base_image=4b260cdf-9c1e-4ec0-9c05-09ea8c41dfeb&region=US&format=jpeg&size=952x536",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BMzUxZDhmN2EtNzU0NS00YzRkLWJhYWEtYTQ2MzdjOTFlZTY4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
@@ -1607,7 +1607,7 @@
       "imdb_id": "tt11448214",
       "tmdb_id": "96316",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After being dumped by his girlfriend, a college student enlists a dating service to rent a girlfriend who, unbeknownst to him, happens to be both a fellow student and his neighbor.",
       "horizontal_img" :"https://thedeadtoons.com/wp-content/uploads/2020/06/Rent-a-Girlfriend-episode-1-release-date-preview-cast-plot-spoilers-1200x720.png",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BODdmM2VhY2QtMmIyNy00YTk0LTg3NWEtNTllNGEzMjUyOGY5XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
@@ -1620,7 +1620,7 @@
       "imdb_id": "tt1118804",
       "tmdb_id": "24835",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZlb5OS-CY2rybCI_ls5MeMLDB4IBQ_NyaCv2S6hCUObSGmZ1Fzj4g27EhyUKGQhrTxVtBNhbJTrj7t2Jx03DLM3XMg.webp?r=a46",
       "vertical_img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXcG7i31DW_gc3qT8uT6sbRSNFBS0uvQjFb90loLchCaxvfvy"
@@ -1633,7 +1633,7 @@
       "imdb_id": "tt6112556",
       "tmdb_id": "68129",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After suffering defeat, Yuri Katsuki hangs up his ice skates for good. But will an encounter with two top skaters reignite his passion?",
       "horizontal_img" :"https://occ-0-2042-1007.1.nflxso.net/art/d7912/4ba10554e24410ade94e4366d6d2c6acb15d7912.jpg",
       "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3O8bm8yuHWZcJW6ZjXdXGzNy1LMVZTA2asW4mUuSLDFygWng6"
@@ -1646,7 +1646,7 @@
       "imdb_id": "tt0114327",
       "tmdb_id": "3570",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "The magical action-adventures of a teenage girl who learns of her destiny as the legendary warrior Sailor Moon and must band together with the other Sailor Scouts to defend the Earth and Galaxy.",
       "horizontal_img" :"http://occ-0-993-988.1.nflxso.net/art/afed1/25cd1958d78ea707363be6f8147f4decef2afed1.jpg",
       "vertical_img":"https://i.pinimg.com/736x/d5/1e/6e/d51e6e936839419082415b7826275f70.jpg"
@@ -1659,7 +1659,7 @@
       "imdb_id": "tt0114327",
       "tmdb_id": "83103",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Natsuo Fujii is in love with his teacher, Hina. Attempting to forget his feelings towards her, Natsuo goes to a mixer with his classmates where he meets an odd girl named Rui Tachibana.",
       "horizontal_img" :"https://images.sgcafe.net/2020/05/domestic-girlfriend.png",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BM2RmZmI2NmUtNDhjMi00MGQ4LWIyYTEtZmMxM2E1ZjBkYTU0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
@@ -1672,7 +1672,7 @@
       "imdb_id": "tt5607616",
       "tmdb_id": "65942",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Shortly after being summoned to a new world, Subaru Natsuki and his new female companion are brutally murdered.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*8429*604_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYE2ICGUTOoJ4Mj7NTWwvvCPxPpGpnpWbMhbTWpC9yN1wdsNRnKFITmc%5DQyF2oDzVQrUwPEKELZ1Dcw4VMdCsGDqvelF.jpg",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_.jpg"
@@ -1685,7 +1685,7 @@
       "imdb_id": "tt1847445",
       "tmdb_id": "36243",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "When a nameless student at Kyoto University encounters a demigod one night, he asks to relive the past three years in order to win the heart of Ms. Akashi, the object of his affection.",
       "horizontal_img" :"https://occ-0-1168-299.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABR29jz00BRqyRiPb32Lyehu2DVe87CEE6Zicl3OSBx8iUhxpf-oIUq-LvP8TlrH258_qHnFHKFerKqXHTHU43XhonH0.jpg?r=39c",
       "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1376742/Latvian/1376742_Latvian_ShowKeyart_0dc51654-89d8-ea11-82a8-dd291e252010.jpg"
@@ -1698,7 +1698,7 @@
       "imdb_id": "tt0279077",
       "tmdb_id": "5895",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A 12-year old boy named Naota one day meets a strange woman, riding a Vespa and wielding a big guitar. As soon as she appears, mysterious things start happening.",
       "horizontal_img" :"https://img3.hulu.com/user/v3/artwork/46a6a0ec-2ff1-46e1-8a39-a09d8176d088?base_image_bucket_name=image_manager&base_image=cb0c5806-405d-4e7b-9a0c-ba7f3af1521c&size=1200x630&format=jpeg",
       "vertical_img":"http://pm1.narvii.com/6359/688a5b644bebdd6ea364ececb77fd079520ce13e_00.jpg"
@@ -1711,7 +1711,7 @@
       "imdb_id": "tt5839732",
       "tmdb_id": "66958",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "One day, Naho Takamiya receives a letter written to herself from ten years in the future.",
       "horizontal_img" :"https://attackongeek.com/wp-content/uploads/2019/08/Orange.jpg",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BMWNiMmFiOTAtNWEyNC00YjZlLWI5ODMtNDQ4Mjk1MDQ2ZTY5XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
@@ -1724,7 +1724,7 @@
       "imdb_id": "tt5857720",
       "tmdb_id": "66941",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A young man, failing at life, is offered a new start as a 10 years younger high-school student.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*011*006_8_muochl_mvg%5Bzig%5B64x34%5B8yvz10z704v41zvx74z97w9633v70w00y5v64x34.jpg",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BZjk3ZmM0NmMtYzY1MC00Y2MyLTkxZjYtNjA2MDlhNTRhNWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
@@ -1737,7 +1737,7 @@
       "imdb_id": "tt9584920",
       "tmdb_id": "84669",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A poor, straight A student is hired to tutor some rich quintuplets. The story is told as a flashback from a future that shows that he ends up getting married to one of them.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*35*41_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYuCpyqqbQ2hxj3qmkLkHP2UdeHVyV*YbE8JgXE*u8gf4V8khtBuaMsCcWhQXHsZFYioxnMdcVR02YwPS6FMv5hBHypV.jpg",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BMDA0Y2NmYzAtYjQxMC00MjY2LTg4ZjItMDUwMTUyOTNlODM0XkEyXkFqcGdeQXVyNDMxMDE4MDA@._V1_.jpg"
@@ -1750,7 +1750,7 @@
       "imdb_id": "tt8254880",
       "tmdb_id": "78457",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A gaming otaku and a fujoshi reunite for the first time since middle school at work.",
       "horizontal_img" :"https://i.imgur.com/6M1PDd2.png",
       "vertical_img":"https://static.wikia.nocookie.net/wotaku-ni-koi-wa-muzukashii/images/8/8d/Volume_1_English.jpg/revision/latest?cb=20200528014717"
@@ -1763,7 +1763,7 @@
       "imdb_id": "tt1298820",
       "tmdb_id": "24835",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A sequel to the recently wrapped anime based on the Key Clannad franchise. After Story is a path that opens in the original visual novel after all the other paths have been opened.",
       "horizontal_img" :"https://i.ibb.co/r4QpQgb/image.png",
       "vertical_img":"https://m.media-amazon.com/images/M/MV5BYTcwNzQzNTktYjY1MC00YTVkLThkMGItZGQ3ZjBjNTc1ZmY4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
@@ -1776,7 +1776,7 @@
       "imdb_id": "tt1799631",
       "tmdb_id": "38464",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After discovering that he's the son of Satan, a young man must join the True Cross Academy in order to master his abilities and defeat Satan himself.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*35*41_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYCnXuh6OP%5DAxulfWQoXme39szfpBEP5t5RjEjLqqD4aMKUXwfi0mxkk4nRgeQWiWWJcnVkxozw6AQlRqV3oyA1C9%5DNx.jpg",
       "vertical_img":"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXKUATT-QokmZ58cdk5KjOLuIQgj_-wCpQLlHGPJMpECpZu2Ifs3H5SArGxBbL2w9pEuUzcoHSTG8kkJKcnLN2cBzA.jpg?r=77c"
@@ -1789,7 +1789,7 @@
       "imdb_id": "tt3114390",
       "tmdb_id": "60728",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A young girl arrives at a school of superhumans to find out the truth behind her father's murder.",
       "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/ada5fc9a-aff5-4839-a6c1-c9713ea5c734?base_image_bucket_name=image_manager&base_image=dc7e35cd-2986-40c1-836e-6712d4dc22aa&region=US&format=jpeg&size=952x536",
       "vertical_img":"https://occ-0-784-778.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABb-odQqAL6uq2tSx6agbkrvNO7MW9KrcqzuoAGvUN5E1klT5M8ou1lyGUvqB5-qY2uk6jEQI7ztCK267bkmufZEnj8Nt29_tug.jpg?r=a00"
@@ -1802,7 +1802,7 @@
       "imdb_id": "tt0318871",
       "tmdb_id": "35935",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Guts is a skilled swordsman who joins forces with a mercenary group named 'The Band of the Hawk', lead by the charismatic Griffith, and fights with them as they battle their way into the royal court.",
       "horizontal_img" :"https://hbomax-images.warnermediacdn.com/images/GXp4QXgYL6bq4SAEAAAOL/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
       "vertical_img":"https://i.imgur.com/PPFsfcF.png"
@@ -1815,7 +1815,7 @@
       "imdb_id": "tt0139774",
       "tmdb_id": "12697",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After Goku is made a kid again by the Black Star Dragon Balls, he goes on a journey to get back to his old self.",
       "horizontal_img" :"https://img1.hulu.com/user/v3/artwork/6c1ab43c-c550-4e80-a299-e788f0a3d980?base_image_bucket_name=image_manager&base_image=e99f4294-182d-49f7-bc5c-93020f518834&size=1200x630&format=jpeg",
       "vertical_img":"https://cdn.myanimelist.net/images/anime/1262/93119.jpg"
@@ -1828,7 +1828,7 @@
       "imdb_id": "tt0168366",
       "tmdb_id": "60572",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Ash Ketchum, his yellow pet Pikachu, and his human friends explore a world of powerful creatures.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXrZXeBuR7wyUWaRPmqM1B_AHoSLnhWtJhbnsW7wQwHTldlputYnyCh2Nm34MSnuI6X5PFy08z8nKhYNUu7k_Sug51o.webp?r=593",
       "vertical_img":"https://occ-0-299-300.1.nflxso.net/art/da366/ad4ca4ae36ce9ad4d58c575407f764898c9da366.jpg"
@@ -1841,7 +1841,7 @@
       "imdb_id": "tt7131720",
       "tmdb_id": "72305",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A gambling prodigy comes to an elite school run by games and turns the order upside down.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*7607*814_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYEAErQlG0rUshBKBvEybIHbezGuwov4OEYlBUOY3g6sGmTrCMhHVr0VCxdeaAZG*eRRMvjRWJwGTjmz7GDvD6375U66tdjaWjZvAkcLvfs%5DSywC9cgRQ9PaPFXGp.jpg",
       "vertical_img":"https://i.redd.it/uqddd6206bc61.jpg"
@@ -1854,7 +1854,7 @@
       "imdb_id": "tt2230051",
       "tmdb_id": "45950",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After being killed on his first date, idiotic and perverted Issei Hyodo is resurrected as a demon by Rias Gremory only to be recruited into her club of high-class devils.",
       "horizontal_img" :"https://occ-0-300-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdcGVCZPVZliz1aeKpLoAdzkYCbh5K8P5ga9rQZ5d8fHEFvjiKTG6pGElq3ph_Fax1k8dqb3rn4r9pBvZVAJcYkMCHc.jpg?r=178",
       "vertical_img":"https://occ-0-1007-1360.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABTtbv5MuZwzz3WVbRg_6XPzLkGMICQc3vMNogg9jTbrL6WZnOFGPeII-X1n7wtLQ28AEHFks4N4zSZM_dCGIYweoqw.jpg?r=f3d"
@@ -1867,7 +1867,7 @@
       "imdb_id": "tt2176165",
       "tmdb_id": "42589",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A young man named, Koichi Sakakibara, transfers to a new school where he finds himself drawn into a mystery involving a mysterious girl and a series of gruesome deaths.",
       "horizontal_img" :"https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS828WmkkXhsNOS9YaVY6QRMbAncsKkB3LQJ1vyf_cmtsoSZ4zsp96UVYGqrnmXSi9zZNjGCaDphz6Fv3pg-w2SSeUDz.jpg?r=9cd",
       "vertical_img":"https://pm1.narvii.com/5942/e6c1e6f14d89680246a2a31eebc66f0c73a0bf7c_hq.jpg"
@@ -1880,7 +1880,7 @@
       "imdb_id": "tt2379308",
       "tmdb_id": "43865",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Believing in humanity and order, policewoman Akane Tsunemori obeys the ruling, computerized, precognitive Sibyl System",
       "horizontal_img" :"https://occ-0-58-64.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdih9Y1zBBBzo0BX9ZSkPjUFaGN0Jo-mYDFqNegF89sRLNUyGPBt42qVgxSvACZCPz3A8Bo0RVpG99Mr21jDHmMTSRk.jpg?r=838",
       "vertical_img":"https://art-s.nflximg.net/c9a76/d1b7007fef7b40e2252f295b431687794ebc9a76.jpg"
@@ -1893,7 +1893,7 @@
       "imdb_id": "tt4279012",
       "tmdb_id": "61901",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "After death, humans go to either heaven or hell. But for some, at the instant of their death, they arrive at the Quindecim, a bar attended by the mysterious white-haired Decim.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6843*7293_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYz3G4dcrIjtYnneDyD5x1NUujI33fmpiqD%5DoDXmLPpIMg0m9rdNEZoR0BEUu8*hUVRAHXqMzVCLzH6fWeMScuXr0VWd.jpg",
       "vertical_img":"https://assets.mycast.io/posters/12413_large.jpg?1562675921"
@@ -1906,7 +1906,7 @@
       "imdb_id": "tt4869896",
       "tmdb_id": "64196",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A young man is trapped within a video game as a warrior king, and sets out to make this new world his own empire.",
       "horizontal_img" :"https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVqvC81-si0BvgcH8d17KUyZQwq66LOBPHVA4qEiZzV3diAjbB3rRmciSXvKYm4kNvNZ4tAX6gcuf1QlKuQfNhN0Mkez.jpg?r=f05",
       "vertical_img":"https://occ-0-58-64.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABThJKv_MwiTXf4Y-gOc_4o6nQ0JRgHTlk5N-Doid1mtFQFueFikMCl0XLoBbrem5CLMn1-XE3gkHHsrGSIkOnxH_Uw.jpg?r=edb"
@@ -1919,7 +1919,7 @@
       "imdb_id": "tt13352232",
       "tmdb_id": "112163",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "High schooler Yuri finds herself atop a skyscraper in a strange world, where she must survive against masked assailants bent on killing their prey.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*8144*700_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYDF%5D3Hsr*Sd1q4QRZSaenabtMh0cSOxzLuUUPhs5CsIa7kARtLHQAMDI1Av448E5XMe6KWjCrQEVt0TnVGvI4azvHIrMZRbbngbo5K2gwTBqyKWV8SbDq2*9Jto*.jpg",
       "vertical_img":"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABdzgp1BBgB5rRYE4bVQsfXukZ8hPRGeSBZRgpsRnqLsuEKSVr4UZtY-O6rXlwUk7ZxOwde6lyIRElIRlh0aKsXysSFZ6uTJsf_97NRQ-dID2MrszOOn9GwqRULbnlg.jpg"
@@ -1932,7 +1932,7 @@
       "imdb_id": "tt0088509",
       "tmdb_id": "12609",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.",
       "horizontal_img" :"https://1.bp.blogspot.com/-AizBPErEwrg/XPYbEi3OTZI/AAAAAAAAAFs/C2Ac9bRDWo8wM-8GPxvuhauROBgK2TpjQCLcBGAs/s1600/dragonball%2Bcover.jpg",
       "vertical_img":"https://www.themoviedb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg"
@@ -1945,7 +1945,7 @@
       "imdb_id": "tt1634208",
       "tmdb_id": "65648",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Ayuzawa Misaki serves as the student council president at Seika High. However, unbeknownst to her classmates, she works part-time as an employee at a Maid Cafe. Usui Takumi, a boy from her school, discovers this secret.",
       "horizontal_img" :"https://i.ytimg.com/vi/NqPZ2EwRvds/maxresdefault.jpg",
       "vertical_img":"https://www.themoviedb.org/t/p/w500/igkn0M1bgMeATz59LShvVxZNdVd.jpg"
@@ -1958,7 +1958,7 @@
       "imdb_id": "tt1316554",
       "tmdb_id": "50712",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A young boy sells his soul to a demon in order to avenge his family's death and successfully lead their influential toy manufacturing company.",
       "horizontal_img" :"https://occ-0-1091-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ1aGs-ewe_XDFRaFy-DjW2u8Ik8H5hzEWmHWMb7LF6wkSAi_BnEJAOVuUzCkotWNpjF8XhvE6Fn3KfNuMj44uby870.jpg?r=6dd",
       "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-yLijvyiac8fyhQNHa2Dg142K-7CUDJa-CeGA0aom57eRbtQ7"
@@ -1971,7 +1971,7 @@
       "imdb_id": "tt0112159",
       "tmdb_id": "890",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
       "horizontal_img" :"https://nofilmschool.com/sites/default/files/styles/facebook/public/evangelion-header-2-1146098-1280x0.jpeg?itok=aSZfL-NA",
       "vertical_img":"https://i.pinimg.com/474x/63/2d/4e/632d4ef1a114182001ebb08df009a4b9.jpg"
@@ -1996,7 +1996,7 @@
       "imdb_id": "tt1685401",
       "tmdb_id": "56998",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "High school students are overwhelmed with the start of the zombie apocalypse.",
       "horizontal_img" :"https://i.imgur.com/mwwANJn.png",
       "vertical_img":"https://i.pinimg.com/originals/4c/40/07/4c4007dd631b46d3421b99c91add57f6.jpg"
@@ -2009,7 +2009,7 @@
       "imdb_id": "tt0249327",
       "tmdb_id": "36406",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.",
       "horizontal_img" :"https://occ-0-56-55.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVhPZinAl-7gVF0uK_Hfg-sePU-cXu20ggz_xLixmXk9xpk_H3dTG_YjbSvf0vGrf163au21u-labYCasFZAA9-yvDI.jpg?r=3ac",
       "vertical_img":"https://occ-0-768-769.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABQa_AAxBshEzpIrbBUrEL06NXIS7Mz-aqYEvPyjoxrPfdmfpQx58-FU9g7kEX5fZmMxt5lM6lDrFQCippEgHS5-mSdX6.jpg?r=e45"
@@ -2034,7 +2034,7 @@
       "imdb_id": "tt0423731",
       "tmdb_id": "1063",
       "content": "tv",
-      "tags": [],
+      "tags": ["TV"],
       "description": "Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the 'samurai who smells of sunflowers.'",
       "horizontal_img" :"https://occ-0-358-360.1.nflxso.net/dnm/api/v5/rendition/412e4119fb212e3ca9f1add558e2e7fed42f8fb4/AAAABdMpBcPVg7qkblpw5CuV-Z4VLkRQ2lIchv6Nc8y7Bz9f3BWo-xZkdNgyn-FKKtbUsvqMmNr8GnyjCrQ434-wVvgr7TEHdSxW9iJ-BUOjjeDxu5zwonr1noV2V4VBl1QYtk1qkbbU1Q.jpg",
       "vertical_img":"https://occ-0-300-2773.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABRnb7siblXGqImxVhNuqktC863-El0PPgJHKNL_-hIF0234ADx0mlkzoPeJ36fMkS4yHwmuSLklXhX1g5zpqBXcBjw.jpg?r=151"
@@ -2051,7 +2051,7 @@
       "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSxt4h-hyjBDQfUxrvjDF3N6Xxa8-gXsF_KPoyWNJvW0cGnv8AZqAy12-KxSBonfXKSR6diIzr2U2JRLaAgnF0B2rAI.jpg?r=411",
       "vertical_img":"https://occ-0-3934-116.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABQw0IrJTT4A4OkiMPAJqx3IceP8qJPbZ-8Of_VDuqshQx8IBbflFpnUNgfREVmAnGivHN5l-bFsmuLY2jNTuVOlz63Wk.jpg?r=3d3"
     }
-  ],  
+  ],    
   "Top_Anime": [
     {
       "id": 0,
