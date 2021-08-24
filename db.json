@@ -2220,6 +2220,45 @@
       "description": "A retired pop singer turned actress' sense of reality is shaken when she is stalked by an obsessed fan and seemingly a ghost of her past.",
       "horizontal_img" :"https://occ-0-360-358.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSWbSAdYr4CG2fOfG_-nl5eEQXfJ16lwSy-F9rhe4NosFVeiz9Jgr30aHuoKF18YCjTWBu4qK7MiInHz-JgVokvpssk.jpg?r=7fd",
       "vertical_img":"https://occ-0-360-358.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABY589jRzM8Y0EdgiEvr8_tS8v6HV9bUphx8twQsyC_Ch1c8ingsQFifwwVIGwbP8Wuf9Tn0ucW-zTCrSVJnq2_nd45ZF.jpg?r=bf3"
+    },
+    {
+      "id": 159,
+      "title": "Angel Beats!",
+      "Release": 2010,
+      "imdb_id": "tt1639109",
+      "tmdb_id": "42942",
+      "content": "tv",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Angel_Beats_logo.svg/2560px-Angel_Beats_logo.svg.png",
+      "tags": [],
+      "description": "Rebellious teens fight in armed combat against one dispassionate girl's supernatural powers in an afterlife high school.",
+      "horizontal_img" :"https://occ-0-784-778.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABcuvndB-UJV9zXjINjIlMfqOZyTlTf4s7RCusQyu_ZyjdHMJC-KM7NJZNGN1rBAtDscLLcG2jU-kkDy_1pJzR3HOeTg5TddI.jpg?r=ec9",
+      "vertical_img":"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABV-pzQdkKUJ5vZP4vJBnvViUSVynMYv4Ry0RZAq0PbbYxWa3xR2dm-jtL2M9hZRIVod6RMrFLiry6Eaqvam2Kdgr4l09gD0.jpg?r=d5e"
+    },
+    {
+      "id": 160,
+      "title": "Dragon Ball Z Kai",
+      "Release": 2009,
+      "imdb_id": "tt1409055",
+      "tmdb_id": "61709",
+      "content": "tv",
+      "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e4a985-ac90-401a-a7d4-6b09ec177563/d8saat5-d13cd82e-adea-46ea-b4c9-91950b4c6159.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZTRhOTg1LWFjOTAtNDAxYS1hN2Q0LTZiMDllYzE3NzU2M1wvZDhzYWF0NS1kMTNjZDgyZS1hZGVhLTQ2ZWEtYjRjOS05MTk1MGI0YzYxNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MfmoYiWNHpha5iUqe0okeZMyeuh5kpVafXG5icd-oF0",
+      "tags": [],
+      "description": "Rejoin Goku and his friends in a series of cosmic battles! Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series.",
+      "horizontal_img" :"https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/05/Dragon-Ball-Z-Kai-Featured-Image-e1558466056328.jpg",
+      "vertical_img":"https://www.themoviedb.org/t/p/w500/ykl67ghR2ug6KGFH3CQcI01pzQJ.jpg"
+    },
+    {
+      "id": 161,
+      "title": "",
+      "Release": 2009,
+      "imdb_id": "",
+      "tmdb_id": "",
+      "content": "tv",
+      "logo": "",
+      "tags": [],
+      "description": "",
+      "horizontal_img" :"",
+      "vertical_img":""
     }
   ],    
   "Top_Anime": [
