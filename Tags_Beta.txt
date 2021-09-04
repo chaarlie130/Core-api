@@ -176,7 +176,7 @@
       "tmdb_id": "12971",
       "content": "tv",
       "logo": "https://freepngimg.com/thumb/dragon_ball/22988-3-dragon-ball-logo-transparent-image.png",
-      "tags": [],
+      "tags": ["Action","Comedy","TV","Fantasy","Sci-Fi","Thriller"],
       "description": "Dragon Ball Z picks up five years after the end of the Dragon Ball anime, with Goku now a young adult and father to his son, Gohan.",
       "horizontal_img" :"https://i.imgur.com/XrFG9mt.png",
       "vertical_img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FN6NljssFQscbE0HgnJgEbj_kpcDB-FG5Nd1peTacNo9GXok"
@@ -190,7 +190,7 @@
       "tmdb_id": "60863",
       "content": "tv",
       "logo": "https://i.pinimg.com/originals/19/c1/89/19c189fbfb560c1cb903e3d0cfb77551.png",
-      "tags": [],
+      "tags": ["Action","Comedy","Drama","Popular","TV","Shonen","Family Friendly","Short"],
       "description": "Hinata Shouyou gained a sudden love of volleyball after watching a national championship match on TV. His volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRodSsIyaoEUBFFPj_BxCSpVA7MaEReqjTsXuFc5RaMhEeWlPsvaX0_fZkgmp1FEIz_R2rdHl4oQ7x4T-3xGtT0gZ0M.webp?r=94c",
       "vertical_img":"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABV0qoK-TEov256ekuGJcQ56XGAzqNUtBx9xIuZOq65I8Jg_kLWooprKQVgMBJrd1qMu5CXGKWtMAvp9Ew8V8OfTDcw.jpg?r=f6d"
@@ -204,7 +204,7 @@
       "tmdb_id": "31911",
       "content": "tv",
       "logo": "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeMhG4e2wLXZrFBBCXbLrRFPuchBj1Z3mZff55YUlYEp-bYX8kUOWfYi2gh5U_u0S9qsBsdrGVT0qV6dzNG89ypdoPynXvsCzrtk.png?r=a86",
-      "tags": [],
+      "tags": ["Action","Adventure","Popular","TV","Fantasy"],
       "description": "The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaDYaC2oYzusK_YisZWvN8pG0LAcwltAto5wBa40UBPVeadZZ8EnvN_PjGXCyeCpcALUM9kyNguNafsj6ttRu_p-wk4.webp?r=559",
       "vertical_img":"https://occ-0-1007-1009.1.nflxso.net/art/26efb/542470c04c675da515e1eea7dbb4aa8304026efb.jpg"
@@ -218,7 +218,7 @@
       "tmdb_id": "42509",
       "content": "tv",
       "logo": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUxkA_HopruDG6pL0DPzzE648s4Swahd9DRLwZGJNwimYhoUh3rhLYf13qDwGrsT0g3FBgqOmzqT3dfBiXZOvPxQzzKZT9PQULDX.png?r=2b9",
-      "tags": [],
+      "tags": ["TV","Fantasy","Psychological","Sci-Fi","Short","Suspenseful"],
       "description": "Steins; Gate is a story about time travel and the consequences of it's misuse. The protagonist is a man named Okabe Rintarou; a self-proclaimed 'mad scientist' who goes by the name of Hououin Kyouma.",
       "horizontal_img" :"https://occ-0-358-360.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZ8vXRwD3iqxvoS4s0Pr4kdE2nvdVUGF6cI9LRfFbHYlkQWbQC_8OchWtMoTIIVvY5aFIsdANplbQjk-T4eDkhDZfB4pRwnf.jpg?r=ac8",
       "vertical_img":"https://occ-0-358-360.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABYLJNKS4VimP1IB3o2aIxkS9_FjiggHkiQyiFTysSIdRaj6IWUAZxS8VCVZLFw--_rzWMbN1pzzKG6iEO2WC9iGvDA.jpg?r=a4e"
@@ -232,7 +232,7 @@
       "tmdb_id": "31724",
       "content": "tv",
       "logo": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRbSbr3uBGrw9G8FaPeLL6eaciTq4jx3NN4U41LChezibE9B6ihI2M8BaMSQpd3mGpLZ8OwM_RQuCSJb1DnLEmQgwUQhGMrExDb8.png?r=258",
-      "tags": [],
+      "tags": ["TV","Fantasy","Psychological","Sci-Fi","Short","Suspenseful","Popular"],
       "description": "The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. ",
       "horizontal_img" :"https://occ-0-999-1001.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXcqvzWR4QNNeb6YubeZOeYlMtzhGVLL9f2_2VbwWSm6h2j5z-yoJhucAWTaCBzPIOUTFyE6OU5FYH72aqyVMVv0lJ8.jpg?r=4b6",
       "vertical_img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSheC3QxGN7KkWlrheYnos4KjDiHivUt-Lz-u4xvRbv5CT9tO5w"
@@ -246,7 +246,7 @@
       "tmdb_id": "31910",
       "content": "tv",
       "logo": "https://www.pngkit.com/png/full/143-1431498_naruto-logo-naruto-shippuden-logo-png.png",
-      "tags": [],
+      "tags": ["Action","Adventure","Comedy","Popular","TV","Fantasy","Shonen"],
       "description": "More than two years have passed since the most recent adventures in the Hidden Leaf Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of recognition and respect.",
       "horizontal_img" :"https://art-s.nflximg.net/bfebf/bf822bf85b3abbf6342f83d607c88b97abebfebf.jpg",
       "vertical_img":"https://occ-0-300-2773.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABbmYP2On54v4kBMBFwOqk6GAS_39GXPyyGWTeCRCWIJB_V-_XwZvlmdKPUZ4vcl9je6NcsFG2rrg1T6tZlma9I9jPA.jpg?r=eb6"
@@ -260,7 +260,7 @@
       "tmdb_id": "30984",
       "content": "tv",
       "logo": "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeGNPBj9_pNe9U5W3twmU7LOTCaciafgun8hlkpiDN0l4wPXQHRKc_3daEI9vr2gJMSVHxTz1wtiG3Cv-MdB-vDzHltV03fB46TX.png?r=73f",
-      "tags": [],
+      "tags": ["Action","Adventure","Comedy","Popular","TV","Fantasy","Shonen"],
       "description": "Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdM3YH5mxp_AdnLJ2Utkp7dUNizJKaZbKVgCzkhV3mlnbDww9m61IXGuMQRWw3G8b1B3xtAoMqlpoOaWpiD6SIG6kGQ.webp?r=437",
       "vertical_img":"https://occ-0-2042-1007.1.nflxso.net/art/80af6/ce41bde2195f2624413ec55390b6fba7e5e80af6.jpg"
@@ -274,7 +274,7 @@
       "tmdb_id": "62104",
       "content": "tv",
       "logo": "https://fanart.tv/fanart/tv/284131/hdtvlogo/the-seven-deadly-sins-5f557b09006da.png",
-      "tags": [],
+      "tags": ["Action","Adventure","Comedy","Popular","TV","Fantasy","Shonen"],
       "description": "A princess finds a former knight at a pub and joins a quest to reunite his group of cavaliers in order to overthrow tyrants.",
       "horizontal_img" :"https://cutewallpaper.org/21/seven-deadly-sins-revival-of-the-commandments-episode-1/Is-The-Seven-Deadly-Sins-Revival-of-The-Commandments-2015-.jpg",
       "vertical_img":"https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1621574/Latvian/1621574_Latvian_ShowKeyart_4c14ab1f-d2dd-ea11-82a8-dd291e252010.jpg"
@@ -288,7 +288,7 @@
       "tmdb_id": "46261",
       "content": "tv",
       "logo": "https://logos-world.net/wp-content/uploads/2020/08/Fairy-Tail-Logo.png",
-      "tags": [],
+      "tags": ["Action","Comedy","Popular","TV","Fantasy"],
       "description": "The story follows the adventures of Natsu Dragneel, a member of the popular wizard guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.",
       "horizontal_img" :"https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*251*000_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5B9WD3XwV5tBgBc1rb6zq1th0DgCV%5BZZZZYDyNIVZ5PAnKPDYlkbeiDbcq998BqmDA*noui1qQV7QDT0xeqQoxlHXAC5jEJV7H8EknAoDoFva3q13lAZw6uiEqiIN1HcJO.jpg%3Fr=500",
       "vertical_img":"https://occ-0-1001-999.1.nflxso.net/art/462fa/20dda65bd63f5a9d738efd434d6912756f0462fa.jpg"
@@ -302,7 +302,7 @@
       "tmdb_id": "30991",
       "content": "tv",
       "logo": "https://www.pngkey.com/png/full/196-1961820_cowboy-bebop.png",
-      "tags": [],
+      "tags": ["Adventure","Comedy","TV","Sci-Fi","Short"],
       "description": "A ragtag crew of bounty hunters on the run from their pasts as they hunt down the solar system’s most dangerous criminals.",
       "horizontal_img" :"https://art-s.nflximg.net/0fecb/5a9cc781f7017984715667d67aa610c227f0fecb.jpg",
       "vertical_img":"https://occ-0-768-769.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAAASkxL-0BetYYt928sLABYs_CvndY3VC9-RT-dQqoRvxd4wnAWGQErJHRoXAqG9iscHjJMPPdJvTybPYVa3znFwWXyVRHDd8.jpg?r=c08"
@@ -316,7 +316,15 @@
       "tmdb_id": "45782",
       "content": "tv",
       "logo": "https://cdn.freebiesupply.com/logos/large/2x/sword-art-online-2-logo-svg-vector.svg",
-      "tags": [],
+      "tags": [
+         "Action",
+         "Adventure",  
+         "Popular",
+         "TV",   
+         "Fantasy", 	
+         "Sci-Fi",
+         "Thriller",
+      ],
       "description": "The series takes place in the near future and focuses on protagonist Kazuto 'Kirito' Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds.",
       "horizontal_img" :"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdnlEW9NXXBZ-XdYmgq_5UvNFD2-EZPc9gYhwod4qC3wXOL6nwBpeg_G1NAGsGMlqW-gpE_ywzqwC2aGiki2s2yEi1oL.jpg?r=ced",
       "vertical_img":"https://i.imgur.com/iQZxZfk.png"
@@ -330,7 +338,14 @@
       "tmdb_id": "61223",
       "content": "tv",
       "logo": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbbK_EIjnmxPkIyaDYY-YpkLLHv0slthQERIT9Qo_s9ykwthWETnkBPvfIDRssSPc7sKbNOV-Fri8inY2Sh08_pWe6llhlpZeR9I.png?r=022",
-      "tags": [],
+      "tags": [
+         "Adventure",
+         "Drama",
+         "Popular",
+         "TV",
+         "Fantasy",
+         "Hidden Gems",
+     ],
       "description": "The story focuses on Tatsumi, a young villager who travels to the Capital to raise money for his home only to discover strong corruption in the area.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR4zW54scUgtrr2zXipVsQk8J-AGiRT2QKHkVYkBM0bUOoHXGgpqOW0aFlVuo1lSNIUPUYg4LQaZnGC0DjNf2jE4NAw.webp?r=29f",
       "vertical_img":"https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABfkpzetRwQpjER_ge6R1bfm70vmshC1ClSBhy1nvH_sVj4CprPB9fg5F8qI0ynVUqzmRTZlgwtNBvGlcBcgXFFNNJU1y.jpg?r=3b0"
@@ -344,7 +359,17 @@
       "tmdb_id": "80564",
       "content": "tv",
       "logo": "http://banana-fish.com/wp-content/uploads/2021/01/banana-fish-5b6f2ad3c6879.png",
-      "tags": [],
+      "tags": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Drama",
+         "Popular",
+         "TV",
+         "Short",
+         "Thriller",
+         "Suspenseful",
+      ],
       "description": "The story captures the war between a mafia boss named Dino and a young gang leader searching for redemption. ",
       "horizontal_img" :"https://occ-0-993-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaPOHN8k_x4vhKObplg3TYacJ63iph77xrLvx_e7ghFxXRsD6J9-mm2J6kEuEGDVfb7AtbYs6dVjJW_ibZjqg6PPGAM.jpg",
       "vertical_img":"https://streaming-engine-assets.rftslb.com/posters/image/image/1303273/main_main.jpg"
@@ -358,7 +383,10 @@
       "tmdb_id": "86031",
       "content": "tv",
       "logo": "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaNSB3fKs4tc1cPkcqNJW7VTDuPl8hxFgp0yqUr1o_0CxP1y4pN7PKqLlgmfWH2jLVBedwUoBp7taXGj0IwK5ufNJ3NO9OQ7BPPB.png?r=c3c",
-      "tags": [],
+      "tags": [
+         "Adventure",
+         "Comedy",
+      ],
       "description": " Awakened into a world where humanity has been petrified, scientific genius Senku and his brawny friend Taiju use their skills to rebuild civilization.",
       "horizontal_img" :"https://occ-0-993-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABab7SQCrErt3luGDQDNyEuUrA_2dAY-sH68553C-AVm1PBmg4EVSJMFmF_8s0jTbGy5nvIDbjugjIKjmOh5E-ad921pu.jpg?r=f8c",
       "vertical_img":"https://occ-0-753-1007.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUV2n6cYi5UyaocJFIJKi72WQbhTo_OAfYAQuGlPZ_7PyG8w9UxLk2-18uh_h76leMV75MKtG_HJ5jvSZpXkl42G8Q.jpg?r=5a3"
