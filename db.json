@@ -1,5 +1,5 @@
 {
-"Search_Anime" : [
+  "Search_Anime" : [
     {
       "id": 0,
       "title": "Hunter x Hunter",
@@ -2933,104 +2933,6 @@
       "vertical_img":"https://cdn.myanimelist.net/images/anime/1262/93119.jpg"
     }
   ],
-  "Comical_tv": [
-    {
-        "id": 0,
-        "title": "Curb Your Enthusiasm",
-        "EpisodeCount": 110,
-        "Release": "2000-10-15",
-        "imdb_id": "tt0264235",
-        "tmdb_id": "18165",
-        "content": "tv",
-        "description": "Larry David stars as a fictionalized version of himself, navigating life's annoyances in Los Angeles.",
-        "horizontal_img": "https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
-        "vertical_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj"
-    },
-    {
-        "id": 1,
-        "title": "It's Always Sunny in Philadelphia",
-        "EpisodeCount": 162,
-        "Release": "2005-08-04",
-        "imdb_id": "tt0472954",
-        "tmdb_id": "2710",
-        "content": "tv",
-        "description": "A group of friends runs an Irish pub in Philadelphia, engaging in various schemes and misadventures.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/7/79/ItsAlwaysSunnyTitleCard.jpg",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMTU5OTY5NjY5Nl5BMl5BanBnXkFtZTgwOTk0MDk4NjE@._V1_.jpg"
-    },
-    {
-        "id": 2,
-        "title": "Family Guy",
-        "EpisodeCount": 389,
-        "Release": "1999-01-31",
-        "imdb_id": "tt0182576",
-        "tmdb_id": "1434",
-        "content": "tv",
-        "description": "An animated series following the adventures of the Griffin family in the fictional city of Quahog.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/1/15/Family_Guy_Title_Card.png",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjE0MzYzNzYyMl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
-    },
-    {
-        "id": 3,
-        "title": "South Park",
-        "EpisodeCount": 327,
-        "Release": "1997-08-13",
-        "imdb_id": "tt0121955",
-        "tmdb_id": "2190",
-        "content": "tv",
-        "description": "An animated series that satirizes a wide range of topics through the misadventures of four boys in a Colorado town.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/7/7e/South_Park_title.png",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
-    },
-    {
-        "id": 4,
-        "title": "The Office",
-        "EpisodeCount": 201,
-        "Release": "2005-03-24",
-        "imdb_id": "tt0386676",
-        "tmdb_id": "2316",
-        "content": "tv",
-        "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/8/80/The_Office_US_logo.svg",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
-    },
-    {
-        "id": 5,
-        "title": "Parks and Recreation",
-        "EpisodeCount": 125,
-        "Release": "2009-04-09",
-        "imdb_id": "tt1266020",
-        "tmdb_id": "8592",
-        "content": "tv",
-        "description": "The absurd antics of an Indiana town's public officials as they pursue various projects to make their city a better place.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/8/80/Parks_and_Recreation_title_card.jpg",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
-    },
-    {
-        "id": 6,
-        "title": "Brooklyn Nine-Nine",
-        "EpisodeCount": 153,
-        "Release": "2013-09-17",
-        "imdb_id": "tt2467372",
-        "tmdb_id": "48891",
-        "content": "tv",
-        "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/9/99/Brooklyn_Nine-Nine_title_card.jpg",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
-    },
-    {
-        "id": 7,
-        "title": "Arrested Development",
-        "EpisodeCount": 84,
-        "Release": "2003-11-02",
-        "imdb_id": "tt0367279",
-        "tmdb_id": "4589",
-        "content": "tv",
-        "description": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned, but the rest of his spoiled, dysfunctional family makes his job unbearable.",
-        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Arrested_Development_season_one_DVD.jpg",
-        "vertical_img": "https://m.media-amazon.com/images/M/MV5",
-    }
-  ],
   "Shows_Top": [
     {
       "id": 0,
@@ -5364,6 +5266,104 @@
       "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
       "horizontal_img" :"https://occ-0-2115-1009.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXMzNMytl1rgMcETQt1Ptp5lvcMyNPr2scEFTfRT-GPxanBwdx11_gzJx6PX5zbQE1CDvZp7aapw7TmO76Tog2HOxpg.webp?r=be8",
       "vertical_img":"https://occ-0-2954-2568.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABd0fF_kztQnBDYUsBLvrOihpFovIR-xpZbiYj7gMYsEgmKzRXMIYTiPpK3shi4DpQKm7Q1HkmB2ZjbslRv9FqPOBu23m.jpg"
+    }
+  ],
+  "Comical_tv": [
+    {
+        "id": 0,
+        "title": "Curb Your Enthusiasm",
+        "EpisodeCount": 110,
+        "Release": "2000-10-15",
+        "imdb_id": "tt0264235",
+        "tmdb_id": "18165",
+        "content": "tv",
+        "description": "Larry David stars as a fictionalized version of himself, navigating life's annoyances in Los Angeles.",
+        "horizontal_img": "https://img2.hulu.com/user/v3/artwork/47e9f33b-abea-4d9b-bcf0-e5119effb032?base_image_bucket_name=image_manager&base_image=e4b65f00-6583-41fd-be70-783a201b4655&size=1200x630&format=jpeg",
+        "vertical_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWxBpD5YzjRl-nZlgbs4BPmxwpIEvbd_hcGwgzpdeiH2H1Gj"
+    },
+    {
+        "id": 1,
+        "title": "It's Always Sunny in Philadelphia",
+        "EpisodeCount": 162,
+        "Release": "2005-08-04",
+        "imdb_id": "tt0472954",
+        "tmdb_id": "2710",
+        "content": "tv",
+        "description": "A group of friends runs an Irish pub in Philadelphia, engaging in various schemes and misadventures.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/7/79/ItsAlwaysSunnyTitleCard.jpg",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMTU5OTY5NjY5Nl5BMl5BanBnXkFtZTgwOTk0MDk4NjE@._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Family Guy",
+        "EpisodeCount": 389,
+        "Release": "1999-01-31",
+        "imdb_id": "tt0182576",
+        "tmdb_id": "1434",
+        "content": "tv",
+        "description": "An animated series following the adventures of the Griffin family in the fictional city of Quahog.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/1/15/Family_Guy_Title_Card.png",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjE0MzYzNzYyMl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "South Park",
+        "EpisodeCount": 327,
+        "Release": "1997-08-13",
+        "imdb_id": "tt0121955",
+        "tmdb_id": "2190",
+        "content": "tv",
+        "description": "An animated series that satirizes a wide range of topics through the misadventures of four boys in a Colorado town.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/7/7e/South_Park_title.png",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Office",
+        "EpisodeCount": 201,
+        "Release": "2005-03-24",
+        "imdb_id": "tt0386676",
+        "tmdb_id": "2316",
+        "content": "tv",
+        "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/8/80/The_Office_US_logo.svg",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Parks and Recreation",
+        "EpisodeCount": 125,
+        "Release": "2009-04-09",
+        "imdb_id": "tt1266020",
+        "tmdb_id": "8592",
+        "content": "tv",
+        "description": "The absurd antics of an Indiana town's public officials as they pursue various projects to make their city a better place.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/8/80/Parks_and_Recreation_title_card.jpg",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Brooklyn Nine-Nine",
+        "EpisodeCount": 153,
+        "Release": "2013-09-17",
+        "imdb_id": "tt2467372",
+        "tmdb_id": "48891",
+        "content": "tv",
+        "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/9/99/Brooklyn_Nine-Nine_title_card.jpg",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5BMjA2NjY2NjY2Nl5BMl5BanBnXkFtZTgwNzYwODk4NjE@._V1_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Arrested Development",
+        "EpisodeCount": 84,
+        "Release": "2003-11-02",
+        "imdb_id": "tt0367279",
+        "tmdb_id": "4589",
+        "content": "tv",
+        "description": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned, but the rest of his spoiled, dysfunctional family makes his job unbearable.",
+        "horizontal_img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Arrested_Development_season_one_DVD.jpg",
+        "vertical_img": "https://m.media-amazon.com/images/M/MV5"
     }
   ]
 }
