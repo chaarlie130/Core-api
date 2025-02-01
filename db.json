@@ -5268,8 +5268,7 @@
       "vertical_img":"https://occ-0-2954-2568.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABd0fF_kztQnBDYUsBLvrOihpFovIR-xpZbiYj7gMYsEgmKzRXMIYTiPpK3shi4DpQKm7Q1HkmB2ZjbslRv9FqPOBu23m.jpg"
     }
   ],
-  "Comical_tv": 
-  [
+  "Comical_tv": [
     {
       "id": 0,
       "title": "Curb Your Enthusiasm",
@@ -5312,7 +5311,7 @@
       "EpisodeCount": 84,
       "Release": "2003",
       "imdb_id": "tt0367279",
-      "tmdb_id": "408",
+      "tmdb_id": "4589",
       "content": "tv",
       "description": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.",
       "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/qCXY93t7QnKp6aWT1WKaQo0Qt5r.jpg",
@@ -5336,7 +5335,7 @@
       "EpisodeCount": 162,
       "Release": "2005",
       "imdb_id": "tt0472954",
-      "tmdb_id": "1418",
+      "tmdb_id": "2710",
       "content": "tv",
       "description": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia.",
       "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/tCs7WooQW1yDRTDzEI1VKoPlvYG.jpg",
@@ -5384,11 +5383,131 @@
       "EpisodeCount": 153,
       "Release": "2013",
       "imdb_id": "tt2467372",
-      "tmdb_id": "49445",
+      "tmdb_id": "48891",
       "content": "tv",
       "description": "Jake Peralta, an immature but talented NYPD detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",
       "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg",
       "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/tlh0kC0t7q6Yx3m9zN7yL2Lb7X.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Big Bang Theory",
+      "EpisodeCount": 279,
+      "Release": "2007",
+      "imdb_id": "tt0898266",
+      "tmdb_id": "1418",
+      "content": "tv",
+      "description": "A group of socially awkward scientists navigate life, love, and work in Pasadena.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/the-big-bang-theory.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/the-big-bang-theory.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Modern Family",
+      "EpisodeCount": 250,
+      "Release": "2009",
+      "imdb_id": "tt1442437",
+      "tmdb_id": "1234",
+      "content": "tv",
+      "description": "A humorous look at the lives of a diverse family living in suburban Los Angeles.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/modern-family.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/modern-family.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Scrubs",
+      "EpisodeCount": 182,
+      "Release": "2001",
+      "imdb_id": "tt0285403",
+      "tmdb_id": "1352",
+      "content": "tv",
+      "description": "A comedic look at the lives of hospital staff as they balance personal and professional challenges.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/scrubs.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/scrubs.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Fleabag",
+      "EpisodeCount": 12,
+      "Release": "2016",
+      "imdb_id": "tt5687612",
+      "tmdb_id": "85792",
+      "content": "tv",
+      "description": "A witty and poignant series following a troubled woman navigating life in London.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/fleabag.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/fleabag.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Marvelous Mrs. Maisel",
+      "EpisodeCount": 34,
+      "Release": "2017",
+      "imdb_id": "tt5788792",
+      "tmdb_id": "76479",
+      "content": "tv",
+      "description": "A housewife in the 1950s discovers a talent for stand-up comedy, changing her life forever.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/the-marvelous-mrs-maisel.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/the-marvelous-mrs-maisel.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Veep",
+      "EpisodeCount": 65,
+      "Release": "2012",
+      "imdb_id": "tt1759761",
+      "tmdb_id": "183",
+      "content": "tv",
+      "description": "A satirical look at American politics through the eyes of a fictional Vice President and her dysfunctional team.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/veep.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/veep.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The IT Crowd",
+      "EpisodeCount": 25,
+      "Release": "2006",
+      "imdb_id": "tt0487831",
+      "tmdb_id": "5839",
+      "content": "tv",
+      "description": "A quirky comedy about the misadventures of a group of IT support workers in a large corporation.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/the-it-crowd.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/the-it-crowd.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Archer",
+      "EpisodeCount": 100,
+      "Release": "2009",
+      "imdb_id": "tt1486217",
+      "tmdb_id": "434",
+      "content": "tv",
+      "description": "An animated series following the misadventures of a suave secret agent and his dysfunctional team.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/archer.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/archer.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Rick and Morty",
+      "EpisodeCount": 61,
+      "Release": "2013",
+      "imdb_id": "tt2861424",
+      "tmdb_id": "61888",
+      "content": "tv",
+      "description": "A darkly comic animated series that follows the interdimensional adventures of an eccentric scientist and his grandson.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rick-and-morty.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/rick-and-morty.jpg"
+    },
+    {
+      "id": 19,
+      "title": "How I Met Your Mother",
+      "EpisodeCount": 208,
+      "Release": "2005",
+      "imdb_id": "tt0460649",
+      "tmdb_id": "1490",
+      "content": "tv",
+      "description": "A story told through flashbacks of a man recounting the humorous and heartfelt journey of meeting his children’s mother.",
+      "horizontal_img": "https://media.themoviedb.org/t/p/w1000_and_h563_face/how-i-met-your-mother.jpg",
+      "vertical_img": "https://media.themoviedb.org/t/p/w440_and_h660_face/how-i-met-your-mother.jpg"
     }
   ]
 }
